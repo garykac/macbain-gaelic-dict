@@ -196,7 +196,8 @@
 --                           into appropriate UTF-8 chars.
 --                         Replace '?' accents with correct forms
 -- 2000-04-11 1.11  (KPD)  Na ceann-fhaclan air an dearbhadh.  Mearachdan
---                           an-siud 's an-seo air an ceartachadh.
+-- 2000-04-11 1.11  (KPD)  Na ceann-fhaclan air an dearbhadh.  Mearachdan an siud 's an seo
+--                           air an ceartachadh.
 -- 2000-04-08 1.10  (KPD)  Air a thiondadh bho ASCII gu Latin-1, cho fad 's
 --                           a b'urrainn
 --
@@ -12443,7 +12444,7 @@ Zeit.           Kuhn's {Zeitschrift f. vergl. Sprachforschung}, a German
   {ped}, fall, Lat. {pestis} (Stokes).  See @Ref{eas}.
 <oidheam>, a secret meaning, inference, idea (M`A., M`E.), a book
   (M`F., H.S.D.).  Properly @Ref{oigheam}, the same as {ogham} above
-  (zeuss, Rhys' {Hib.Lect.}).
+  (Zeuss, Rhys' {Hib.Lect.}).
 <oidheirp>, @Ref<oirpe>, an attempt: *{ad-erb-}, root {erb} of @Ref{earb.1}, q.v.?
 <oifig>, an office, Ir. @Ir{oifig}, M.Ir. @MIr{oifficc}; from Lat. {officium} (Eng.
   {office}).
