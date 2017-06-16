@@ -1,11 +1,25 @@
 This directory contains major snapshots and intermediate versions that were used to
 validate changes from one version to another.
 
+Note: 1.12b and 1.11b are effectively the same version (snapshot from JTM)
+It was renumbered from 1.12b to 1.11b in the comments to reflect that the
+conversion was done before 1.12 was created.
+
 macbain-1.11.txt - same as orig/macbain.txt
 macbain-1.12.txt - 1.11 converted to UTF8
 macbain-1.12b.txt - same as jtm/macbain.v3.utf8.txt 
 macbain-1.13.txt - 1.12 with accent sequences converted to UTF8; typo fixes
-macbain-1.14.txt - 1.13 with numeric suffix added to each sense; cross-refs marked; additional headwords from alternates in existing entries
+macbain-1.14.txt - 1.13 with numeric suffix added to each sense; cross-refs marked;
+	additional headwords from alternates in existing entries
+macbain-1.15.txt - JTM's UTF8 conversion (from 1.12b) compared/merged
 
 mb1.14b.txt - 1.14 w/ cross-refs removed to ease comparison with 1.13
-   automatically created by fixup-1.14.pl from macbain-1.14.txt
+	automatically created by fixup-1.14.pl from macbain-1.14.txt
+
+# creating v1.15 (check115.py)
+old/check115.py - script to create 1.15 by auto-conv greek chars
+   from 1.15-base and comparing with 1.12b-mod
+macbain-1.12b-mod.txt - 1.12b + changes to ease comparison with 1.15
+macbain-1.15-base.txt - 1.14 + changes to ease comparison with 1.12b-mod
+macbain-1.15-new.txt - 1.15
+   automatically created by check115.py and checked against 1.12b-mod

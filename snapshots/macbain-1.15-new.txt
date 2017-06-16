@@ -1,39 +1,45 @@
 -- MacBain, Alexander
 -- An Etymological Dictionary of the Gaelic Language
--- 1st edition - 1896
--- 2nd edition (revised) - 1911
---
--- Photolitho Reprint of 1911 edition - 1982
--- Gairm Publications, 29 Waterloo Street, Glasgow G2 6BZ
+-- Gairm Publications, 1982
+-- Published by Gairm Publications, 29 Waterloo Street, Glasgow G2 6BZ
 -- Tel. 041-221 1971
 -- Printed by Clark Constable (1982) Let, Edinburgh
 -- ISBN 0 901771 68 6
+-- 1st edition - 1896
+-- 2nd edition (revised) - 1911
+-- Photolitho Reprint of 1911 edition - 1982
 --
 -- Lines beginning, like this one, with two hyphens are not part of the
 -- original text, but contain added documentation, page numbers, etc.
 --
--- The UTF-8 character set is used throughout this document.
+-- The UTF-8 character set is used where possible,
 --
 -- For characters which are not represented properly in UTF-8, the
 -- following typographic representation in ASCII are used:-
 --   @G[...] Greek (always italics)
+--   @A[...] Armenian (always italics)
+--   @C[...] Cyrillic (always italics)
 --   @+[...] superscript  (Seems to be used only for volume nos in journal refs)
 --           also used in <gar.1> @+[u]; <fùcadh> @+[t]; <nic> V@+[c]; <ung> o@+[i]
 --   /       acute on preceding letter
 --   \       grave on preceding letter
 --   @.      dot below preceding letter
+--   @:      dot above preceding letter
+--   @,      ogonek below preceding letter
 --   @-      macron(?) (horizontal line) above preceding letter
 --   @u      breve(?) (tiny `u'-like mark) above preceding letter
 --   @n      semi-circle like inverted breve above preceding letter (Greek)
 --   @'      comma above preceding letter (Greek)
 --   @`      backward comma above prededing letter (Greek)
+--   @a      schwa
+--   @i      dotless i
 --   @?      other accent (to be inserted later) on preceding letter
 --   ??      a character which cannot be identified, or appears wrong,
 --              or something needing sorted out later
 -- The following formatting conventions are used:-
 --   [...]   italics
 --   <...>   bold
---   [[      '[' (*see note below)
+--   [[      '['
 --   ]]      ']' (*see note below)
 -- The following markup tags are also used:-
 --   @Ref    a reference to another headword
@@ -42,8 +48,8 @@
 -- The encoding scheme is ambiguous because double-brackets are used to
 --   encode literal brackets in the text and formatting brackets are allowed
 --   to nest (which means that multiple brackets may occur in a row).
---   Thus, you cannot simply globally replace "]]" -> "]" and "[[" -> "[".
---   See <meirle>: [n@.-@G[merjw]]; <ceus.1>: [han@G[h]]; <fùcadh>: [owkki@+[t]]
+--   Thus, you cannot simply globally replace "]]" with "]".
+--   See <meirle>: [ṇ-@G[μερjω]]; <ceus.1>: [han@G[χ]]; <fùcadh>: [owkki@+[t]]
 --   Also <inid>: [[[jejunii]]]; <innean>: [[[engion]?]]
 --
 -- Greek alphabet transliteration
@@ -59,11 +65,18 @@
 --       kappa   k       chi     h
 --       lambda  l       psi     y
 --       mu      m       omega   w
+--       digamma F
 -- The letter j also occurs in Greek words quoted in the Dictionary.
 -- Within @G[] markup, non-greek characters are indicated by enclosing them
---   in brackets, as in <sgàlan>: @G[sk[ā]ná].
--- The greek letter 'digamma' is encoded as [F]. See <slàn>: @G[sól[F]os].
---   But <naoidhean>: @G[-pi[f]os] is a roman italic 'f'
+--   in brackets, as in <sgàlan>: @G[σκᾱνά].
+-- The greek letter 'digamma' is encoded as [F]. See <slàn>: @G[σόλϝος].
+--   But <naoidhean>: @G[-πιφος] is a roman italic 'f'
+--
+-- Armenian alphabet transliteration
+--    JTM to add
+--
+-- Cyrillic alphabet transliteration
+--    JTM to add
 --
 -- Lines of the text are strictly adhered to, except that words split
 -- across successive lines by a hyphen are recombined and inserted
@@ -83,6 +96,7 @@
 -- Initials used:
 --   KPD  Kevin P. Donnelly
 --   gjk  Gary J. Kacmarcik
+--   JTM  John T. MacCranie
 --
 -- Suggestions for future modernisations:
 --   - Change "aspirate" to "lenite"
@@ -100,16 +114,11 @@
 --       Is this a typo (used sporatically throughout the document) for "G."?
 --       If not, what does it correspond to?
 --
--- Notes:
---   - The cross-reference tags (@Ref) are currently overgenerated since they have
---      been automatically inserted whenever a highlighted word matches a headword.
---      Thus, foreign words that are orthographically coincident with a headword
---      will be (incorrectly) noted as a cross-reference.
---
 -- Suggestions for parsing:
 --   - Some tags appear across line breaks (e.g., [áirneis no spréidh] in <eudail>).
 --       Collapsing each entry to a single line (using a single space to replace
---       the line break) can make it easier to match tags correctly.
+--       the line break and the 2 spaces at the beginning of the 2nd line) can make
+--       it easier to match tags correctly.
 --
 -- Air a chur air a' choimpiutair le Caoimhín Pádraig Ó Donnaíle
 -- Earraid House, Biggar Road, Dùn Éideann, EH10 7DX, Alba
@@ -120,11 +129,9 @@
 -- done with it, it needs to be keyed in again to verify it and correct
 -- typing mistakes.
 --
--- 2007-01-15 1.15  (gjk)  Merge JTM's 1.11b changes with 1.14
+-- 2007-01-xx 1.15  (gjk)  Merge JTM's 1.11b changes into 1.14
 -- 2005-02-11 1.14  (gjk)  Add numeric suffix to distinguish each sense (when multiple entries exist)
 --                         Add @Ref to mark internal headword cross-references
---                         Change accents in cross-refs to be consistent with headword (these changes
---                           are always marked with a comment)
 --                         Change "see next word" et al. to explicit cross-reference
 --                         Added over 1500 new headwords from alternates given in existing entries
 -- 2005-01-10 1.13  (gjk)  Convert more accents sequences to UTF-8 & fix lots of typos
@@ -132,8 +139,6 @@
 -- 2004-??-?? 1.11b (JTM)  Convert from Latin-1 into UTF-8
 --                         Fix language abbreviations and other typos.
 --                         Convert Greek, Russian, Bulgarian and Armenian transliterated characters
---                           into appropriate UTF-8 chars.
---                         Replace '?' accents with correct forms
 -- 2000-04-11 1.11  (KPD)  Na ceann-fhaclan air an dearbhadh.  Mearachdan
 --                           an-siud 's an-seo air an ceartachadh.
 -- 2000-04-08 1.10  (KPD)  Air a thiondadh bho ASCII gu Latin-1, cho fad 's
@@ -561,7 +566,6 @@ Zeit.           Kuhn's [Zeitschrift f. vergl. Sprachforschung], a German
   root [av], desire, Lat. [aveo], Eng. [avidity].  [áil], pleasant, [*pagli],
   Eng. [fair] (St. Bez.@+[20] 24).
 <àille>, beauty, E.Ir. [álde], for [álnde]; see @Ref[àlainn].
----gjk (1.13) originally ref to [álainn]
 <àilleas>, @Ref<àilgheas>, will, desire; Ir. [áilgheas], E.Ir. [ailges], [áilgidim],
   I desire; from [áil] and @Ref[geas], request, q.v.
 <ailleagan>, root of the ear, hole of the ear; also @Ref[faillean], q.v.
@@ -829,7 +833,6 @@ Zeit.           Kuhn's [Zeitschrift f. vergl. Sprachforschung], a German
   nearest words are Lit. [ákstinas], sting, Ch.Sl. [ostinu].  Also
   @Ref<aiteal>.  [*at-tenn-], "sharp bush or tree"; from root [at], sharp,
   E.Ir. [aith], sharp, [*atti-], [atto-].  For [-tenn], see @Ref[caorrunn].  Cf.
----gjk (1.13) originally ref to [caorunn]
   Ir. [teine], furze.
 <aitreabh>, a building, Ir. @Ref<aitreibh>, E.Ir. [aittreb], W. [adref], homewards,
   Gaul. [Atrebates]; [*ad-treb-], the Celtic root [treb] corresponding
@@ -3679,7 +3682,6 @@ Zeit.           Kuhn's [Zeitschrift f. vergl. Sprachforschung], a German
 <cealaich.2>, eat (Kirk), Ir. [cealaim]; root [qel] as in Lat. [colo]?
 <cealair>, a virago (Badenoch):
 <cealg>, guile, treachery, so Ir., E.Ir. [celg], [*kelgâ]; Arm. [keλch?],
----gjk (1.15) final char in Arm. in superscript 'c'
   hypocrisy.  The further root is [qel] of @Ref[ceil].
 <ceall>, g. @Ref<cille>, a church, so Ir., E.Ir. [cell]; from Lat. [cella], a cell,
   a hermit's cell especially, whence the Gadelic use.  Hence
@@ -6812,7 +6814,6 @@ Zeit.           Kuhn's [Zeitschrift f. vergl. Sprachforschung], a German
   @Ref[dùthaich], @Ref[dual.2].
 <du->, @Ref<do-.1>, prefix denoting badness of quality, Ir., O.Ir. [du-], [do-],
   [*dus]; Gr. @G[δυσ-]; Got. [tuz-], Norse [tor-]; Skr. [dus-].  See @Ref[do-.1].
----gjk (1.15) originally δυς-, changed to be consistent with other Greek prefixes
 <duaichnidh>, gloomy, ugly, Ir. [duaichniúghadh], to disfigure.  See
   @Ref[suaicheantas].
 <duaidh>, a horrid scene, a fight, Ir. [dúaidh], evil (O'B.): [*du-vid]?
@@ -7167,7 +7168,6 @@ Zeit.           Kuhn's [Zeitschrift f. vergl. Sprachforschung], a German
   [eskop]; from Lat. [episcopus], whence Eng. [bishop].
 †<easg.1>, a ditch, fen, Ir. [easgaidh], quagmire, [easc], water, E.Ir. [esc],
   water, fen-water, O.British 'I[σκα], the Exe (Scotch [Esks]),
----gjk (1.15) is O.British reference formatted correctly?
   [*iskâ], water, [*(p)idskâ]; Gr. @G[πῖδαξ], well, @G[πιδύω], gush.  The
   W. [wysg], stream, O.W. [uisc] requires, [*eiskâ], from [peid], [pîd].
 <easg.2>, @Ref<eagann>, eel, Ir. [eascu], g. [eascuinne], O.Ir. [escung], "fen-snake",
