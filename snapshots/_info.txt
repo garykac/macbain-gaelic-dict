@@ -12,6 +12,7 @@ macbain-1.13.txt - 1.12 with accent sequences converted to UTF8; typo fixes
 macbain-1.14.txt - 1.13 with numeric suffix added to each sense; cross-refs marked;
 	additional headwords from alternates in existing entries
 macbain-1.15.txt - JTM's UTF8 conversion (from 1.12b) compared/merged
+macbain-1.16.txt - Use {} instead of [] and add @Language tags
 
 mb1.14b.txt - 1.14 w/ cross-refs removed to ease comparison with 1.13
 	automatically created by fixup-1.14.pl from macbain-1.14.txt
