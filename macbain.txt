@@ -226,6 +226,7 @@ Dial.           Dialectic, belonging to a dialect
 Dor.    @Dor    Dorian (Greek)
 Du.             Dutch
 E.              Early, as E.Eng.= Early English
+E.Eng.  @EEng   Early English
 E.Ir.   @EIr    Early Irish
 Eng.    @Eng    English
 Fr.     @Fr     French
@@ -249,7 +250,8 @@ Lit.            Lithuanian
 M.              Middle, as M.Ir.= Middle Irish
 Maced.  @Maced  Macedonian Greek
 M.Br.           Middle Breton
-M.Eng.          Middle English
+M.Eng.  @MEng   Middle English
+--gjk Note only one occurrence of L.M.Eng in <piorradh>
 M.Ir.   @MIr    Middle Irish
 Mod.            Modern
 M.W.    @MW     Middle Welsh
@@ -260,6 +262,8 @@ Nor.            Norwegian
 O.              Old, as O.Ir.= Old Irish
 O.Br.   @OBr    Old Breton
 O.Corn.         Old Cornish
+O.Eng.  @OEng   Old English
+--gjk only one occurrence of O.Eng in <àite>
 O.Fr.           Old French
 O.H.G.          Old High German
 O.Ir.   @OIr    Old Irish
@@ -413,7 +417,7 @@ Zeit.           Kuhn's {Zeitschrift f. vergl. Sprachforschung}, a German
 <abhall>, an orchard, apple-tree, M.Ir. @MIr{aball}, apple-tree.  See @Ref{ubhal}.
 <abharr>, silly jest (M`A.):
 <abharsair>, Satan, Ir. @Ir{aidhbherseóir}, E.Ir. @EIr{adbirseoir}; from Lat.
-  @Lat{adversarius} (Eng. {adversary}).  Also @Ref<aibhistear>.
+  @Lat{adversarius} (Eng. @Eng{adversary}).  Also @Ref<aibhistear>.
 <abhcaid>, a jest; @Ref{àbhachd}.
 <abhlan>, wafer, so Ir., O.Ir. @Ir@OIr{obla}, g. {oblann}; from Lat. @Lat{oblationem},
   an oblation.
@@ -595,7 +599,7 @@ Zeit.           Kuhn's {Zeitschrift f. vergl. Sprachforschung}, a German
 <aidich>, confess, Ir. @Ir{admhuighim}, O.Ir. @OIr{addaimim}, W. @W{addef}:
   {ad-dam-}; root {dam}; Lat. {domo}, Eng. @Eng{tame}.
 <aifrionn>, mass, so Ir., E.Ir. @EIr{oifrend}, W. @W{offeren}; from Lat.
-  {offerendum} (Eng. {offer}).
+  {offerendum} (Eng. @Eng{offer}).
 <aig>, at, Ir. @Ir{ag}, O.Ir. @OIr{oc}; for root, see @Ref{agus}.
 <àigeach>, young or entire horse; also @Ref<òigeach>={òg+each}, q.v.
   M.Ir. @MIr{óc-ech}, young steed (@ExtRef{Eriu;2;11}).
@@ -859,7 +863,7 @@ Zeit.           Kuhn's {Zeitschrift f. vergl. Sprachforschung}, a German
 <àite>, a place, Ir., E.Ir. @EIr{áit}.  Possibly Celtic {pōd-ti}, *{panti}? root
   {pōd}, {ped}, Lat. {oppidum}, Gr. @Gr{πέδον}, ground, Skr. {padám}, place;
   as in @Ref{eadh.2}, q.v.  Stokes has referred {áit} to the root that
-  appears in Ger. {ort}, place, Norse {oddr}, O.Eng. {ord}, point,
+  appears in Ger. {ort}, place, Norse {oddr}, O.Eng. @OEng{ord}, point,
   Teutonic {uzd-}, I.E. @IE{uzdh-}; but this in Gaelic would give @Ref{ud}
   or @Ref{od}.
 <àiteag>, a shy girl, see @Ref{faiteach}.
@@ -1052,7 +1056,7 @@ Zeit.           Kuhn's {Zeitschrift f. vergl. Sprachforschung}, a German
   fixed neuter nom. or acc. from the Celtic root {se} (I.E. @IE{sjo},
   beside @Ref{so-}, allied to Ag.S. {se}, the, {seó}, now {she}.  The {-do-} of
   {sendo-s} has been referred by Thurneysen and Brugmann to
-  the pron. root {to-} (Eng. {tha-t}, Gr. @Gr{τό}); it is suggested that {to-}
+  the pron. root {to-} (Eng. @Eng{tha-t}, Gr. @Gr{τό}); it is suggested that {to-}
   may have degenerated into {do-} before it was stuck to the
   fixed form {sen}.  {Sen-to-} could not, on any principle otherwise,
   whether of accentuation or what not, produce the historical
@@ -1154,7 +1158,7 @@ Zeit.           Kuhn's {Zeitschrift f. vergl. Sprachforschung}, a German
 <aobharrach>, a young person or beast of good promise, hobble-dehoy;
   from @Ref{aobhar}, material.
 <aobrann>, ankle, O.Ir. @OIr{odbrann}, W. @W{uffarn}: *{od-bronn}, *{ud-brunn-},
-  "out-bulge"; {ud-}=Eng. {out}, and {brunn-}, see @Ref{brù}, belly.
+  "out-bulge"; {ud-}=Eng. @Eng{out}, and {brunn-}, see @Ref{brù}, belly.
 --page 19
   Stokes ({Academy}, June, 1892) makes {od-} to be for {pod}, foot,
   Gr. @Gr{πούς}, @Gr{ποδ-ός}, Eng. @Eng{foot}, etc.
@@ -1488,7 +1492,7 @@ Zeit.           Kuhn's {Zeitschrift f. vergl. Sprachforschung}, a German
   (Sutherland); cf. Eng. @Eng{maw}, Ger. {magen}, Norse {magi}.
 <baibeil>, lying, given to fables; from Eng. @Eng{babble}.
 <baideal>, tower, battlement, ensign, @Ref<badealach>, bannered; from
-  M.Eng. {battle}, {battlement}, which is of the same origin as
+  M.Eng. @MEng{battle}, @MEng{battlement}, which is of the same origin as
   {battlement}.
 <bàidh>, love, Ir. @Ir{báidhe}, M.Ir. @MIr{báide}, {báde}, *{bâdi-s} (Stokes).  Cf.
   Gr. @Gr{φώτιον}, friendly (Hes.), for @Gr{φώθιον}; root {bhā}, whence
@@ -1512,8 +1516,8 @@ Zeit.           Kuhn's {Zeitschrift f. vergl. Sprachforschung}, a German
   "bally", further Eng. @Eng{build}, {booth}.
 <baileach>, excessive; see @Ref{bail}.  Also @Ref<buileach>.
 <bàilisdeir>, babbler, founded on Eng. Scandinavian {balderdash}.
-<bàillidh>, a magistrate, balie; from Sc. {bailzie} (Eng. {bailiff}), Fr.
-  {bailli}.
+<bàillidh>, a magistrate, balie; from Sc. {bailzie} (Eng. @Eng{bailiff}), Fr.
+  @Fr{bailli}.
 <baineasag>, a ferret, Ir. @Ir{baineasóg}; {bán+neas}, "white weasel", q.v.
 <bàinidh>, madness, fury, Ir. @Ir{báinidhe}; Ir. @Ir{mainigh} (O'Br.), from
   Lat. {mania}; see @Ref{bà}.
@@ -1539,7 +1543,7 @@ Zeit.           Kuhn's {Zeitschrift f. vergl. Sprachforschung}, a German
   from Norse {bára}, wave, billow.  For @Ref{linne}, see that
   word.
 <bàirneach>, a limpet, Ir. @Ir{báirneach} (Fol.), W. @W{brenig}, Corn. @Corn{brennic}:
-  from M.Eng. {bernekke}, now {barnacle}, from Med.Lat. {bernaca}.
+  from M.Eng. @MEng{bernekke}, now @Eng{barnacle}, from Med.Lat. {bernaca}.
   Stokes takes {bàirnech} from {barenn}, rock, as Gr. @Gr{λεπάς}, limpet,
   is allied to {lépas}, rock.
 <bàirneachd>, judgment (Sh.), Ir., W., Br. @Br@Ir@W{barn}, root {ber} in @Ref{bràth},
@@ -1582,14 +1586,14 @@ Zeit.           Kuhn's {Zeitschrift f. vergl. Sprachforschung}, a German
   spotted.  W. @W{bal}, spotted on forehead.
 <ball.3>, a ball; from Eng.
 <balla>, wall, Ir. @Ir{balla} (Four Masters), {fala} (Munster); from
-  M.Eng. {bailly}, an outer castle wall, now in Old Bailey, from
+  M.Eng. @MEng{bailly}, an outer castle wall, now in Old Bailey, from
   Med.Lat. {ballium}.
 <ballaire>, a cormorant; from @Ref{ball.2}, spot.
 <ballan>, a vessel, tub, Ir. @Ir{ballán}, E.Ir. @EIr{ballan}.  Stokes cfs. Norse
   {bolli}, bowl, Eng. @Eng{bowl}, and says that the Gaelic is probably
   borrowed.
 <ballart>, boasting, clamour; probably from Norse {ballra}, strepere,
-  {baldrast}, make a clatter (Eng. {balderdash}), Ger. {poltern}.
+  {baldrast}, make a clatter (Eng. @Eng{balderdash}), Ger. {poltern}.
 <balt>, a welt: see @Ref{bolt}.
 <bàn>, white, Ir., O.Ir. @Ir@OIr{bán}; I.E. root {bhā}, shine; Gr. @Gr{φανός} ({α}
   long), bright; Skr. {bhânù}, light; further away is Eng. @Eng{bale}
@@ -1650,8 +1654,8 @@ Zeit.           Kuhn's {Zeitschrift f. vergl. Sprachforschung}, a German
 <baoth>, foolish, so Ir., O.Ir. @Ir@OIr{báith}, {baeth}; root {bai}, fear, as in
   @Ref{baoghal}; Corn. @Corn{bad}, Br. @Br{bad}, stupidity, are not allied, nor is
   Got. {bauths}, dumb, as some suggest.  Hence @Ref<baothair>, fool.
-<bara>, a barrow, Ir. @Ir{bara}, E.Ir. @EIr{bara}; from M.Eng. {barowe}, Eng.
-  {barrow}.
+<bara>, a barrow, Ir. @Ir{bara}, E.Ir. @EIr{bara}; from M.Eng. @MEng{barowe}, Eng.
+  @Eng{barrow}.
 <barail>, opinion, Ir. @Ir{baramhuil}, M.Ir. @MIr{baramail}: {bar+samhail};
   for {bar-}, see @Ref{bàirneachd}, @Ref{bràth}.
 <baraill>, a barrel, Ir. @Ir{báirille}, E.Ir. @EIr{barille}, W. @W{baril}; from M.E.
@@ -1660,7 +1664,7 @@ Zeit.           Kuhn's {Zeitschrift f. vergl. Sprachforschung}, a German
 <baran>, a baron; Ir. @Ir{barún}, W. @W{barwn}; from the Eng.
 --page 30
 <barant>, surety, warrant, Ir., M.Ir. @MIr{baránta}, W. @W{gwarant}; from
-  M.Eng. {warant}, now {warrant}.  So St.
+  M.Eng. @MEng{warant}, now @Eng{warrant}.  So St.
 <barbair>, a barber, Ir. @Ir{bearrbóir} (Fol.), W. @W{barfwr}; from the Eng.
 <barbarra>, barbarous, Ir. @Ir{barbartha}; from Lat. {barbarus}, Eng.
   {barbarous}.
@@ -1673,7 +1677,7 @@ Zeit.           Kuhn's {Zeitschrift f. vergl. Sprachforschung}, a German
 <bàrc.2>, rush (as water), Ir. @Ir{bárcaim}, break out; cf. M.Ir. @MIr{barc},
   multitude; Lat. {farcio}, cram, {frequens}, numerous.
 <bàrd.1>, a poet, Ir. @Ir{bárd}, E.Ir. @EIr{bard}, W. @W{bardd}, Br. @Br{barz}, Gaul.
-  {bardos}, *{bardo-s}; Gr. @Gr{φράζω} (@Gr{φραδ-}), speak (Eng. {phrase}.
+  {bardos}, *{bardo-s}; Gr. @Gr{φράζω} (@Gr{φραδ-}), speak (Eng. @Eng{phrase}.
 <bàrd.2>, dyke, inclosure, meadow, Ir. @Ir{bárd}, a guard, garrison; from
   Eng. @Eng{ward}, enclosed pasture land (Liddell 35).
 <bargan>, a bargain, W. @W{bargen}; from the Eng. @Eng{bargain}.
@@ -1698,7 +1702,7 @@ Zeit.           Kuhn's {Zeitschrift f. vergl. Sprachforschung}, a German
 <bas>, palm of the hand, Ir., O.Ir. @Ir@OIr{bas}, {bass}, {boss}, Br. @Br{boz}, *{bostâ};
   Gr. @Gr{ἀγοστός}.
 <bàs>, death, Ir., O.Ir. @Ir@OIr{bás}; Celtic root {bā}, {ba}, hit, slay, whence
-  Gaul. Lat. {batuere} (Eng. {battls}, etc.); Ag.S. {beadu}, war.
+  Gaul. Lat. {batuere} (Eng. @Eng{battls}, etc.); Ag.S. {beadu}, war.
 <basaidh>, a basin; from Sc. {bassie}, Eng. @Eng{basin}.
 <bascaid>, a basket, Ir. @Ir{basgaod}, W. @W{basged}; from the Eng. @Eng{basket}.
 <basdal>, noise, gaiety; from Norse {bastle}, turmoil.
@@ -1712,7 +1716,7 @@ Zeit.           Kuhn's {Zeitschrift f. vergl. Sprachforschung}, a German
 <basg-luath>, vermilion; from the obsolete adg. {basg}, red, E.Ir.
   {basc}, and @Ref{luath.1}, ashes, q.v.  Stokes cfs. {basc} to Lat. {bacca}
   (for {bat-ca}), berry.
-<bat>, @Ref<bata>, a stick, Ir. @Ir{bata}; from M.Eng. {batte}, stick, now {bat},
+<bat>, @Ref<bata>, a stick, Ir. @Ir{bata}; from M.Eng. @MEng{batte}, stick, now @Eng{bat},
   which comes from O.Fr. {batte}, from Gaul. Lat. {battuere}, as
   under @Ref{bàs}, q.v.  The Br. @Br{baz} seems borrowed from the Fr.
   thought it may be native.
@@ -1850,7 +1854,7 @@ Zeit.           Kuhn's {Zeitschrift f. vergl. Sprachforschung}, a German
   {berm}, Eng. @Eng{barm}; Lat. {fermentum}.
 <beisear>, plate-rack on dresser (Rob.).
 <béist>, a beast, Ir. @Ir{bíast}, {péist}, O.Ir. @OIr{béist}, W.  {bwystfil}; from Lat.
-  {bestia} (Eng. {beast}).  Also @Ref<biast>.
+  {bestia} (Eng. @Eng{beast}).  Also @Ref<biast>.
 <beith>, birch, so Ir., O.Ir. @Ir@OIr{bethe}, W. @W{bedw}, Br. @Br{bezuenn}, Celtic {betvâ},
   Lat. {betula}, Fr. {boule}.
 <beithir>, a serpent, any wild beast, monster, a huge skate,
@@ -1864,7 +1868,7 @@ Zeit.           Kuhn's {Zeitschrift f. vergl. Sprachforschung}, a German
 <beò>, living, Ir., O.Ir. @Ir@OIr{beó}, W. @W{byw}, Br. @Br{beu}, *{bivo-s}; Lat. {vîvus},
   living, {vîta}; Gr. @Gr{βíοτος}, a living; Eng. @Eng{quick}; Skr. {jîvá},
   living; I.E. @IE{ℊei-}, @IE{ℊi-}, live.  See also @Ref{beatha}, @Ref{bith.2}.
-<beòir>, beer, Ir. @Ir{beór}; from Ag.S. {beór}, Norse {bjórr} (Eng. {beer}).
+<beòir>, beer, Ir. @Ir{beór}; from Ag.S. {beór}, Norse {bjórr} (Eng. @Eng{beer}).
 <beòlach>, ashes with hot embers (M`A.); from @Ref{beò} + {luathach},
   "live-ashes".  Another <beòlach>, lively youth, hero, stands
   for {beò-lach}; for {-lach}, see @Ref{òglach}.
@@ -2047,12 +2051,12 @@ Zeit.           Kuhn's {Zeitschrift f. vergl. Sprachforschung}, a German
   {bitu-}, *{bitu-s}; root {bi}, {bei}, live, I.E. @IE{ℊei}, @IE{ℊi}, whence Lat.
   {vivo}, Eng. @Eng{be}, etc.  Hence @Ref{beatha}, @Ref{beò}, @Ref{biadh}, q.v.
 <bith.2>, being (inf. of @Ref{bì}, be), Ir., E.Ir. @EIr{beith}, O.Ir. @OIr{buith}.  The O.Ir.
-  is from the root {bhu} (Eng. {be}, Lat. {fui}) = *{buti-s}, Gr. @Gr{φύσις}.
+  is from the root {bhu} (Eng. @Eng{be}, Lat. {fui}) = *{buti-s}, Gr. @Gr{φύσις}.
   The forms {bith} and @Ref{beith}, if derived from {bhu}, have been
   influenced by @Ref{bith.1}, world, existence; but it is possible that
   they are of the same root {ℊi} as {bith}.  Stokes, in his treatise
   on the {Neo-Celtic Verb Substantive}, takes {bith} and @Ref{beith} from
-  the root {ga}, go, Gr. @Gr{βάσις} (Eng. {base}), a root to which he
+  the root {ga}, go, Gr. @Gr{βάσις} (Eng. @Eng{base}), a root to which he
   still refers the O.Ir. aorist {bá}, fui (see @Ref{bu}).
 <bìth.1>, resin, gum, birdlime, Ir. @Ir{bigh}, O.Ir. @OIr{bí}, pix, adj. {bíde}, *{geis-},
   a longer form of {gis-}, the root of @Ref{giuthas}, fir (Schräder).
@@ -2186,7 +2190,7 @@ Zeit.           Kuhn's {Zeitschrift f. vergl. Sprachforschung}, a German
   into {bug-ko-}, root {bug}, Zend. {bûza}, buck, Arm. {buc}, lamb, Eng.
   {buck}, Ger. {bock}.
 <bòc>, swell, Ir. @Ir{bócaim}; cf. W. @W{boch}, cheek, from Lat. {bucca}, puffed
-  cheek (Eng. {debouch}, {rebuke}).
+  cheek (Eng. @Eng{debouch}, @Eng{rebuke}).
 <bòcan>, hobgoblin, Ir. @Ir{bocán}, E.Ir. @EIr{boccánach}.  With these are
   connected W. @W{bwg} ({bwci}, Corn. @Corn{bucca}, borrowed from M.E.?),
   Eng. @Eng{bug}, {bugbear}, {bogie}; the relationship is not clear (Murray).
@@ -2300,7 +2304,7 @@ Zeit.           Kuhn's {Zeitschrift f. vergl. Sprachforschung}, a German
   from Eng. @Eng{bordland}, as under @Ref{bòrlum.1}.  Hence M`Morland.
   The @Ref{cairiste}, done for proprietor (M`K. and Carm.).
 <bòrlum.1>, a strip of arable land (Hebridees); a frequent place namel
-  from M.Eng. {bordland}, mensal land, especially the royal
+  from M.Eng. @MEng{bordland}, mensal land, especially the royal
   castle lands in the Highlands.
 <bòrlum.2>, a sudden flux or vomiting, a flux; for {bòrc-lum}; see @Ref{bòrc}.
 †<borr>, knob, pride, greatness, great, Ir., E.Ir. @EIr{borr}, *{borso-},
@@ -2310,7 +2314,7 @@ Zeit.           Kuhn's {Zeitschrift f. vergl. Sprachforschung}, a German
 <bòsd>, a boast, Ir. @Ir{bóst} (O'R.), W., Corn. @Corn@W{bost}; all from Eng. @Eng{boast},
   itself of unknown origin.
 <bòsdan>, a little box, Br. @Br{bouist}; the G. is from early Sc. {boyst},
-  M.Eng. {boiste}, from O.Fr. {boiste}, Med.Lat. {buxida} ({bossida}),
+  M.Eng. @MEng{boiste}, from O.Fr. {boiste}, Med.Lat. {buxida} ({bossida}),
   which is the Gr. @Gr{πύξιδα}.  Hence also Eng. @Eng{box}, G. {bosca}.
 <bosgaire>, applause (Sh.); @Ref{bas}+@Ref{gaire}, q.v. "palm-noise".
 <bot>, a mound, river bank; cf. {bught}, {botach}, a reedy bog.
@@ -2640,7 +2644,7 @@ Zeit.           Kuhn's {Zeitschrift f. vergl. Sprachforschung}, a German
 <broidneireachd>, embroidery, Ir. @Ir{broidineireachd}; from the Eng.
   {broider}, {embroidery}.
 †<broigheal>, cormorant, Ir. @Ir{broighioll}:
-<broighleadh>, bustle; from Sc. {brulye} (Eng. {broil}), Fr. {brouiller},
+<broighleadh>, bustle; from Sc. {brulye} (Eng. @Eng{broil}), Fr. {brouiller},
   Ital. {broglio}.  See @Ref{braodhlach}.
 <broighleag>, whortleberry; see @Ref{braoileag}.
 <broigileineach>, substantial; from {broigeil}, a by-form of @Ref{brogail};
@@ -2778,7 +2782,7 @@ Zeit.           Kuhn's {Zeitschrift f. vergl. Sprachforschung}, a German
   swell, be haughty, Gr. @Gr{βρένθύομαι}, strut, bear oneself loftily,
   Lat. {grandis}, Ch.Sl. {grądĭ}, breast.  Usually correlated with
   Got. {brunjô}, breastplate, M.H.G. {brünne}, N. {brynja}, coat of
-  mail,  M.Eng. {brynie}, Sc. {byrnie}: a satisfactory enough derivation,
+  mail,  M.Eng. @MEng{brynie}, Sc. {byrnie}: a satisfactory enough derivation,
   and ultimatley from the same root as the first one
   given above (I.E. @IE{bhru}).  Indeed Stokes says the Teut. is
   borrowed from the Celtic.
@@ -2887,9 +2891,9 @@ Zeit.           Kuhn's {Zeitschrift f. vergl. Sprachforschung}, a German
 <bucach>, a boy (dial.): "growing one"; founded on Lat. {bucca} as
   in @Ref{bucaid}.
 <bucaid>, a pustule, Ir. @Ir{bucóoid}, a spot, E.Ir. @EIr{boccóit}; from Brittonic
-  Lat. {buccâtus}, from {bucca}, puffed cheek (Eng. {debouch}, {rebuke}).
-<bucall>, a buckle, Ir. @Ir{buccla}, W. @W{bwel}; from M.Eng. {bukyll}, Eng.
-  {buckle}, from Fr. {boucle}, from Lat. {bucula}, cheek-strap, from
+  Lat. {buccâtus}, from {bucca}, puffed cheek (Eng. @Eng{debouch}, @Eng{rebuke}).
+<bucall>, a buckle, Ir. @Ir{buccla}, W. @W{bwel}; from M.Eng. @MEng{bukyll}, Eng.
+  @Eng{buckle}, from Fr. {boucle}, from Lat. {bucula}, cheek-strap, from
   {bucca}, cheek.
 <bùchd>, size {buc} (Sh.); from Sc. {bouk}, i.e. @Eng{bulk}.
 ---JTM: normalized reference
@@ -2973,7 +2977,7 @@ Zeit.           Kuhn's {Zeitschrift f. vergl. Sprachforschung}, a German
   raitseach".
 --page 59
 <bùlas>, pot hook; from the Sc. {bools}, a pot hook in two parts or
-  "bools", M.Eng. {bool}, a pail handle, round part of a key,
+  "bools", M.Eng. @MEng{bool}, a pail handle, round part of a key,
   Ger. {bügel}, arc: from Teut. {beugan}, bend, Eng. @Eng{bow}.  Dialectic
   @Ref<pùlas>.
 <bumailear>, bungler; from Sc. {bummeler}, from {bummil}, bungle,
@@ -3019,7 +3023,7 @@ Zeit.           Kuhn's {Zeitschrift f. vergl. Sprachforschung}, a German
 <burr->, as in @Ref<burr'caid>, clumsy person, @Ref<burr'ghlas>, a torrent of
   rage, etc, seems from @Ref{borr}, great, excessive, q.v.  @Ref<burr'sgadh>,
   a burst of passion, may be from Eng. @Eng{borasco}, squall of wind.
-<bùrt>, mockery; from Sc. {bourd}, M.Eng. {bourd}, jest, Fr. {bourde},
+<bùrt>, mockery; from Sc. {bourd}, M.Eng. @MEng{bourd}, jest, Fr. {bourde},
   a lie.
 <bururus>, infant lisping, warbling, purling; cf. Eng. @Eng{purr} and {purl}
   (Skeat).  Evidently onomatopoetic.
@@ -3036,7 +3040,7 @@ Zeit.           Kuhn's {Zeitschrift f. vergl. Sprachforschung}, a German
 <bùth>, a shop; from the Eng. @Eng{booth}, Norse {búð}, shop, root {bhu}, be.
   See @Ref{bothan}.
 <buthainnich>, thump, thrash, bang; from the root {bhud}, beat
-  (Eng. {beat})?  See @Ref{buthuinn}.
+  (Eng. @Eng{beat})?  See @Ref{buthuinn}.
 <buthuinn>, long straw for thatch; cf. @Ref<sputhainn>, straw not
   threshed, but seedless (Arg.), which seems from @Ref{spoth}.
 <butrais>, @Ref<butarrais>, a mess:
@@ -3079,7 +3083,7 @@ Zeit.           Kuhn's {Zeitschrift f. vergl. Sprachforschung}, a German
   origin is unknown.
 <cabhtair>, an issue, drain in the body (M`D., who, as {cautair},
   explains it as "an issue or cauter"); from Eng. @Eng{cauter}.
-<cabhuil>, a conical basket for catching fish; from M.Eng. {cawell},
+<cabhuil>, a conical basket for catching fish; from M.Eng. @MEng{cawell},
   a fish basket, still used in Cornwall, Ag.S. {cawl}.  Cf. Br.
   {kavell}, bow-net, O.Br. @OBr{cauell}, basket, cradle; from Lat.
   {cauuella}, a vat, etc. (Loth, Ernault).
@@ -3119,7 +3123,7 @@ Zeit.           Kuhn's {Zeitschrift f. vergl. Sprachforschung}, a German
 <cadhan>, wild goose, barnacle goose, so Ir.; cf. Eng. @Eng{caw}, for possibly
   the name is onomatopoetic.  Corm. (B) @Ref{cadan}.
 <cadh-luibh>, the cud-weed (Sh. gives @Ref<cad-luibh>, and O'B.), Ir.
-  {cadh-luibh}; from M.Eng. {code}, a cud.  M`A. omits the word;
+  {cadh-luibh}; from M.Eng. @MEng{code}, a cud.  M`A. omits the word;
   it is clearly Irish.  The G. is @Ref<cnàmh lus>, which is its Lat.
   name of {gnaphalium} in folk etymology.
 <cadhmus>, a mould for casting bullets; from Sc. {cawmys}, {calmes}
@@ -3166,7 +3170,7 @@ Zeit.           Kuhn's {Zeitschrift f. vergl. Sprachforschung}, a German
 <cailidear>, snot, rheum (M`F., @Ref<cailidhir> in Sh.).  O'R. improves
   this into {cailidéar}.
 <cailis>, chalice, Ir. @Ir{cailís}; from Lat. {calix}, cup, Eng. @Eng{chalice}.
-<cailise>, kails, ninepins (M`D.); from Eng. @Eng{kails}, M.Eng. {cailis},
+<cailise>, kails, ninepins (M`D.); from Eng. @Eng{kails}, M.Eng. @MEng{cailis},
   from {keyle}, a peg, Ger. {kegel}, a cane, ninepin.
 <cailleach>, old wife, nun, so Ir., O.Ir. @Ir@OIr{caillech}, "veiled one"; from
   {caille}, veil, which is from the Lat. {pallium}, cloak, Eng. @Eng{pall}.
@@ -3198,7 +3202,7 @@ Zeit.           Kuhn's {Zeitschrift f. vergl. Sprachforschung}, a German
 <cainnt>, speech, Ir. @Ir{caint}; from @Ref{can}, say, q.v.  Stokes gives the
   stem as *{kan(s)ti}, root {kans}, Skr {çasti}, prise, from {çams},
   speak, Lat. {censeo}.
-<caiptean>, a captain, Ir., M.Ir. @MIr{caiptín}; from M.Eng. {capitain},
+<caiptean>, a captain, Ir., M.Ir. @MIr{caiptín}; from M.Eng. @MEng{capitain},
   from O.Fr. {capitaine}, Lat. {capitaneus}, {caput}, head.
 <càir.1>, a blaze, sea foam, etc.; see rather @Ref{caoir}.
 <càir.2>, the gum, Ir. @Ir{cáir} ({cairib}, Fol.):
@@ -3212,7 +3216,7 @@ Zeit.           Kuhn's {Zeitschrift f. vergl. Sprachforschung}, a German
   "fusee" or "fisil", i.e., "musket", it seems a curtailed form
   of @Ref{cairbinn}.
 <cairbh>, a carcase, carrion; also @Ref<cairb> (Dial.); allied to {corpus}?
-<cairbhist>, carriage, tenants' rent service; from M.Eng. {cariage},
+<cairbhist>, carriage, tenants' rent service; from M.Eng. @MEng{cariage},
   in all senses (Cf. the charter terms - "Areage and cariage
   and all due service"), now {carriage}.
 <cairbinn>, a carabine; from the Eng.
@@ -3237,7 +3241,7 @@ Zeit.           Kuhn's {Zeitschrift f. vergl. Sprachforschung}, a German
 <cairgein>, sea moss, Ir. moss, Eng {carrageen}, so named from
   Carragheen (Waterford), in Ireland.  This place name is a
   dim. of @Ref{carraig}, rock.
-<cairis>, corpse, carcase; founded on M.Eng. {cors}, Sc. {corrssys} (pl.
+<cairis>, corpse, carcase; founded on M.Eng. @MEng{cors}, Sc. {corrssys} (pl.
   in Blind Harry), now {corse}.
 <cairmeal>, wild liquorice; see @Ref{carra-meille}.
 --page 65
@@ -3293,7 +3297,7 @@ Zeit.           Kuhn's {Zeitschrift f. vergl. Sprachforschung}, a German
   the first sense, cf. W. @W{cat}, a piece, Sc. @Ref{cat}, a rag.  In Irish
   Lat. the trout was called {catus} (Giraldus).
 <caiteas>, scraped linen, applied for the stoppage of wounds (M`F.);
-  from Sc. {caddis}, lint for wounds, M.Eng. {cadas}, {caddis}, cotton
+  from Sc. {caddis}, lint for wounds, M.Eng. @MEng{cadas}, {caddis}, cotton
   wool, floss silk for padding, from O.Fr. {cadas}.  See G. @Ref{catas}.
   {caiteas} = sawdust, scrapings (M`D.).
 <caitein>, nap of cloth, shag, Ir. @Ir{caitín}, catkin of the osier, little
@@ -3318,9 +3322,9 @@ Zeit.           Kuhn's {Zeitschrift f. vergl. Sprachforschung}, a German
   Windisch), and Stokes even says the G. and Ir. words
   are borrowed from a Romance *{calatum}, Ital. {calata}, {cala}, Fr.
   {cale}, cove.  More probably the Celtic root is {qel}, {qal}, hide, as
-  in Eng. @Eng{hollow}, M.Eng. {holh}, hollow, cave, also Eng. @Eng{hole},
+  in Eng. @Eng{hollow}, M.Eng. @MEng{holh}, hollow, cave, also Eng. @Eng{hole},
   possibly.  the root of @Ref{cladh}, has also been suggested.
-<caladair>, calendar, Ir. @Ir{calaindéir}; from M.Eng. {kalendar},
+<caladair>, calendar, Ir. @Ir{calaindéir}; from M.Eng. @MEng{kalendar},
   through Fr. from Lat. {calendarium}, an account-book, from
   {calendæ}, the Calends or first of the month.
 <calaman>, a dove; the common form of the literary @Ref{columan}, q.v.
@@ -3364,7 +3368,7 @@ Zeit.           Kuhn's {Zeitschrift f. vergl. Sprachforschung}, a German
   *{coll}+{tann}.
 <Calluinn>, New Year's Day, Ir. @Ir{calláin}, Calends, or first day of the
   month, E.Ir. @EIr{callaind}, the Calends, particularly the first
-  Jan., W. @W{calan}, Calends; from Lat. {calendæ} (Eng. {Calends}).
+  Jan., W. @W{calan}, Calends; from Lat. {calendæ} (Eng. @Eng{Calends}).
 <calm.1>, a pillar (M`A.), Ir. @Ir{columhan}, @Ref{colbh}; from Lat. {columna}, etc.
 <calm.2>, @Ref<calma>, brave, Ir., E.Ir. @EIr{calma}.  Cf. W. @W{celf}, skill, art,
   {celfydd}, skilled, O.Br. @OBr{celmed}, efficax.  The root {cal} is to be
@@ -3551,7 +3555,7 @@ Zeit.           Kuhn's {Zeitschrift f. vergl. Sprachforschung}, a German
 <carbad.1>, a chariot, so Ir., O.Ir. @Ir@OIr{carpat}, W. @W{cerbyd}, O.Br. @OBr{cerpit},
   Gaul. {carpentoracte}, {Carbantia}, *{karbanto-}; Lat. {corbis}, a
   basket; Norse {hrip}, pannier for peats on horse-back.  Lat.
-  {carpentum} (Eng. {carpenter}, etc.), seems borrowed from Gaulish.
+  {carpentum} (Eng. @Eng{carpenter}, etc.), seems borrowed from Gaulish.
   The root idea is "wicker", referring to the basket character
   of the body of these chariots.
 --page 72
@@ -3647,7 +3651,7 @@ Zeit.           Kuhn's {Zeitschrift f. vergl. Sprachforschung}, a German
 --page 74
 <cas.5>, fire (as a stone) (Suth.), seemingly founded on Eng. @Eng{cast}.
   Cf. {casadh ar a chéile} = met (Ir.).
-<càs>, a difficulty, Ir. @Ir{cás}; from Lat. {casus} (Eng. {case}).
+<càs>, a difficulty, Ir. @Ir{cás}; from Lat. {casus} (Eng. @Eng{case}).
 <casach>, fishing tackle (part attached to hook): from @Ref{cas.3}.
 <casad>, <casad>, a cough, Ir. @Ir{casachdach}, W. @W{pâs}, {peswch}, Br. @Br{pas},
   *{qasto-}; Eng. @Eng{host}, Ag.S. {hvósta}, Ger. {husten}; Lit. {kósiu};
@@ -3674,8 +3678,8 @@ Zeit.           Kuhn's {Zeitschrift f. vergl. Sprachforschung}, a German
 <casnaid>, chips of wood (Arm.), Ir. @Ir{casnaidh}; *{co-}+@Ref{snaidh}, q.v.
 <caspanach>, parallel (Sh.), Ir. @Ir{cospanach} (O'R.); *{co-spann}; see
   @Ref{spann.1}.
-<castan>, a chestnut; from Lat. {castanea}, through M.Eng. {castane},
-  {chestnut}.
+<castan>, a chestnut; from Lat. {castanea}, through M.Eng. @MEng{castane},
+  @Eng{chestnut}.
 <castaran>, a measure for butter (quarter stone); from the Eng. @Eng{castor}.
 <castreaghainn>, the straw on a kiln below the grain (Arm., not
   H.S.D.):
@@ -4038,7 +4042,7 @@ Zeit.           Kuhn's {Zeitschrift f. vergl. Sprachforschung}, a German
 <cìbeir>, a shepherd; from Sc., Eng. @Eng{keeper}.
 <cibhearg>, a rag, a little ragged woman (Sh.):
 <cidhis>, a mask, vizard (M`D.), @Ref<luchd cidhis>, masqueraders; from
-  Sc. {gyis}, a mask, {gysars}, masqueraders, M.Eng. {gīsen}, to
+  Sc. {gyis}, a mask, {gysars}, masqueraders, M.Eng. @MEng{gīsen}, to
   dress, Eng. @Eng{guise}, {disguise}; all from O.Fr. {guise}, modus,
   {desguiser}, disguise.  The Sc. was directly borrowed in the
   Stuart period.
@@ -4085,7 +4089,7 @@ Zeit.           Kuhn's {Zeitschrift f. vergl. Sprachforschung}, a German
   tickling, also signifies terror, a crisis of timerous determination
   (H.S.D.).
 <ciom>, a comb, wool-card, Ir. @Ir{ciomam}, I comb (O'B., Sh.); from
-  M.Eng. {kemb}, to comb.  H.S.D. has not the word.
+  M.Eng. @MEng{kemb}, to comb.  H.S.D. has not the word.
 <ciomach>, a prisoner, Ir. @Ir{cimidh}, O.Ir. @OIr{cimbid}, *{kṃbiti-} (Stokes),
   root {kemb}, wind; Lat. {cingo}, surround; Gr. @Gr{κόμβος}, band,
   Nor. {hempa} (do.).  See @Ref{ceangal}, from the same I.E.
@@ -4437,7 +4441,7 @@ Zeit.           Kuhn's {Zeitschrift f. vergl. Sprachforschung}, a German
   gangarene.
 <cnàmhaiche>, matured person (M`D.):
 <cnap>, a knob, Ir. @Ir{cnap}, E.Ir. @EIr{cnapp}; from Norse {knappr}, a knob,
-  M.Eng. {knap}.  Hence also G. and Ir. <cnap>, a blow, Sc. {knap},
+  M.Eng. @MEng{knap}.  Hence also G. and Ir. <cnap>, a blow, Sc. {knap},
   Eng. @Eng{knappe}, blow.
 <cnapach>, a youngster; from @Ref{cnap}.  But cf. Norse {knapi}, boy,
   varlet, Eng. @Eng{knave}.
@@ -4526,8 +4530,8 @@ Zeit.           Kuhn's {Zeitschrift f. vergl. Sprachforschung}, a German
   O.Ir. @OIr{cubus}, conscience, is for {con-fis}, @Ref{co.2} and @Ref{fios}, knowledge, q.v.
 <cogan>, a loose husk, covering (H.S.D.), a small vessel; see @Ref{gogan}
   for latter force.
-<cogull>, tares, cockle, Ir. @Ir{cogal}; borrowed from M.Eng. {cackel},
-  {cokkul}, now {cockle}.
+<cogull>, tares, cockle, Ir. @Ir{cogal}; borrowed from M.Eng. @MEng{cackel},
+  @MEng{cokkul}, now @Eng{cockle}.
 <coibhneas> proper spelling of @Ref{caoimhneas}, which see.
 <coibhseachd>, propriety, so Ir. @Ir{coibhseach}, becoming; cf. M.Ir.
   {cuibdes}, fittingness, from {cubaid}; see @Ref{cubhaidh}.
@@ -4707,7 +4711,7 @@ Zeit.           Kuhn's {Zeitschrift f. vergl. Sprachforschung}, a German
 <colpach>, a heifer, steer, Ir. @Ir{colpach}, M.Ir. @MIr{calpach}; apparently
   founded on Norse {kálfr}, a calf.  Hence Sc. {colpindach}.
 <coltach>, like; for {co-amhuil-t-ach}.  See @Ref{amhuil}, @Ref{samhuil}.
-<coltar>, a coulter, Ir. @Ir{coltar}, E.Ir. @EIr{coltar}; from M.Eng. {cultre},
+<coltar>, a coulter, Ir. @Ir{coltar}, E.Ir. @EIr{coltar}; from M.Eng. @MEng{cultre},
   Lat. {culter}.
 <columan>, a dove, Ir. and O.Ir. @OIr{colum}, W. @W{colomen}, {cwlwm}, Corn.
   {colom}, Br. @Br{coulm}; from Lat. {columbus}, {columba}.
@@ -4801,7 +4805,7 @@ Zeit.           Kuhn's {Zeitschrift f. vergl. Sprachforschung}, a German
   {costud}, consuetudo.
 <compàirt>, partnership, Ir. @Ir{cómpártas}; from {com-} and @Ref{pàirt}, q.v.
 <companach>, companion, Ir. @Ir{cómpánach}, M.Ir. @MIr{companach}; from
-  E.Eng. {compainoun}, through Fr., from L.Lat. {compâniô},
+  E.Eng. @EEng{compainoun}, through Fr., from L.Lat. {compâniô},
   "co-bread-man", from {pânis}, bread.  Dialectic @Ref<combach>.
 <comradh>, aid, assistance:
 <comraich>, protection, sanctuary, Ir. @Ir{cómairce}, {comruighe}, E.Ir.
@@ -4864,7 +4868,7 @@ Zeit.           Kuhn's {Zeitschrift f. vergl. Sprachforschung}, a German
 <conuiche>, a hornet (H.S.D.), @Ref<cònuich> (Arm.), @Ref<conuibhe>, @Ref<connuibh>
   (M`L., M`A.); used by Stewart in the Bible glosses.  Same
   root as @Ref{conas.1}.
-<cop>, foam, M.Ir., E.Ir. @EIr{copp}; from Ag.S., M.Eng. {copp}, vertex,
+<cop>, foam, M.Ir., E.Ir. @EIr{copp}; from Ag.S., M.Eng. @MEng{copp}, vertex,
   top, Ger. {kopf}, head.
 <copag>, docken, Ir. @Ir{copóg}, {capóg}; M.Ir. @MIr{copóg}.  Founded on the
   Eng. @Eng{cop}, head, head-dress, crest, tuft; W. @W{copog}, tufted.
@@ -4887,7 +4891,7 @@ Zeit.           Kuhn's {Zeitschrift f. vergl. Sprachforschung}, a German
   {szérti}, feed.  The meaning makes connection with Gr.
   @Gr{κόρκορος}, pimpernel, doubtful.
 <corcur>, crimson, Ir. @Ir{corcur}, scarlet, O.Ir. @OIr{corcur}, purple, W.
-  {porphor}; from Lat. {purpura} (Eng. {purple}).
+  {porphor}; from Lat. {purpura} (Eng. @Eng{purple}).
 <còrd.1>, a rope, Ir. @Ir{corda}; from Eng. @Eng{cord}, Lat. {corda}.
 <còrd.2>, agree, Ir. @Ir{cord}; from obsolete Eng. @Eng{cord}, agree, bring to an
   agreement, from Lat. {cord-}, the stem of @Ref{cor}, heart, whence
@@ -4901,9 +4905,9 @@ Zeit.           Kuhn's {Zeitschrift f. vergl. Sprachforschung}, a German
 <còrnuil>, retching, violent coughing: *{kors-no-}?  For {kors}, see
   @Ref{carrasan}.
 <coron>, a crown, Ir., E.Ir. @EIr{coróin}, {corón}, W. @W{coron}; from Lat.
-  {corona} (Eng. {crown}).
+  {corona} (Eng. @Eng{crown}).
 <corp>, a body, Ir., O.Ir. @Ir@OIr{corp}, W. @W{corff}, Br. @Br{korf}; from Lat. {corpus}
-  (Eng. {corpse}, Sc. {corp}).
+  (Eng. @Eng{corpse}, Sc. {corp}).
 <corpag>, tiptoe (Arm.); seemingly founded on @Ref{corr} of @Ref{corrag}.
 <corr>, a crane, Ir., E.Ir. @EIr{corr}, W. @W{crychydd}, Corn. @Corn{cherhit}, O.Br.
   {corcid}, ardea, *{korgsâ}, {korgjo-s}; Gr. @Gr{κέρχω}, be hoarse, @Gr{κερχνη},
@@ -4950,7 +4954,7 @@ Zeit.           Kuhn's {Zeitschrift f. vergl. Sprachforschung}, a German
 <corrghuil>, a murmur, chirping (Heb.); see @Ref{corradhuil}.
 <còrrlach>, coarsely ground meal, overplus; see @Ref{còrlach}.
 <corruich>, anger, rage, Ir. @Ir{corruighe}, vb. {corruighim}, stir, shake;
-  from @Ref{corrach}.  The striking resemblance to M.Eng. {couroux},
+  from @Ref{corrach}.  The striking resemblance to M.Eng. @MEng{couroux},
   O.Fr. {couroux} (from Lat. {corruptus}), has been remarked by
   Dr Cameron (Rel.Celt. II, 625).
 <còrsa>, a coast; from the Eng. @Eng{course}.  Cf. @Ref<còrsair>, a cruiser.
@@ -5103,8 +5107,8 @@ Zeit.           Kuhn's {Zeitschrift f. vergl. Sprachforschung}, a German
 ---gjk (1.15) inserted entry
 <creathach>, (faded) underwood, firewood, Ir. @Ir{creathach}, hurdle,
   brushwood, faggots (O'R.): *{kṛto-}; cf. @Ref{crìon}.
-<creathall.1>, cradle, from Northern M.Eng. {credil}, Sc. {creddle}, Eng.
-  {cradle}, Ag.S. {cradol}.  Further derivation at present uncertain
+<creathall.1>, cradle, from Northern M.Eng. @MEng{credil}, Sc. {creddle}, Eng.
+  @Eng{cradle}, Ag.S. {cradol}.  Further derivation at present uncertain
   (Murray).
 <creathall.2>, a lamprey:
 <creatrach>, a wilderness, so Ir. (Lh., etc.); M`A. gives the word,
@@ -5317,7 +5321,7 @@ Zeit.           Kuhn's {Zeitschrift f. vergl. Sprachforschung}, a German
   Sc. {crottle}.  M.Ir. @MIr{crotal} means "husk" (which may be G.
   <crotal> above), "kernel, cymbal".  In the last two senses the
   word is from the Lat. {crotalum}, a rattle; the Irish used a
-  small pear-shaped bell or rattle, whence the Ir.Eng. {crotal}
+  small pear-shaped bell or rattle, whence the Ir.Eng. @Ir@Eng{crotal}
   (Murray).
 <cruach>, a pile, heap, Ir., E.Ir. @EIr{cruach}, W. @W{crug}, Corn. @Corn{cruc}, O.Br.
   {cruc}, *{kroukâ}; Lit. {kráuti}, to pile, {krúvi}, heap; Norse {krúga},
@@ -5352,10 +5356,10 @@ Zeit.           Kuhn's {Zeitschrift f. vergl. Sprachforschung}, a German
   @Gr{κυρτός}, bunt, @Gr{κορώνη}, ring, Lat. {corona}, Eng. @Eng{crown}.  Bezzenberger
   cfs. the form {crundi-} from {kur} to Lat. {rotundus} from
   {rota}.
-<crùisgein>, a lamp, jug, Ir. @Ir{crúisgín}; from M.Eng. {cruskyn}, from
+<crùisgein>, a lamp, jug, Ir. @Ir{crúisgín}; from M.Eng. @MEng{cruskyn}, from
   O.Fr. {creusequin}, from Teut. {krûs}, whence Eng. @Eng{cruse}.
 <crùisle>, @Ref<crùidse>, mausoleum, hollow vault of a church; from
-  M.Eng. {cruddes}, vault, crypt, {crowd}, by-form of Eng. @Eng{crypt}.
+  M.Eng. @MEng{cruddes}, vault, crypt, {crowd}, by-form of Eng. @Eng{crypt}.
 <cruit>, a harp, so Ir., O.Ir. @Ir@OIr{crot}, W. @W{crwth}, fidicula, Late Lat. (600
   A.D.) {chrotta}, *{krotta}: {krot-ta-}, from {krot}, {kurt}, root {kur}, as in
   G. @Ref{cruinn}, round, q.v., Gr. @Gr{κυρτός} (do.): "the curved
@@ -5372,7 +5376,7 @@ Zeit.           Kuhn's {Zeitschrift f. vergl. Sprachforschung}, a German
   (Cameron).
 <cruman>, the hip bone, Ir. @Ir{crumán}, hip bone, crooked surgical
   instrument; from {crom}.
-<crùn>, crown, Ir. @Ir{crún}; from M.Eng. {crune}, from O.Fr. {coronne},
+<crùn>, crown, Ir. @Ir{crún}; from M.Eng. @MEng{crune}, from O.Fr. {coronne},
   from Lat. {corona}.
 <crunnluadh>, a quick measure in pipe music: @Ref{cruinn}+@Ref{luath.2}.
 <crup>, crouch, contract, Ir. @Ir{crupaim}; founded on the M.Eng.
@@ -5572,7 +5576,7 @@ Zeit.           Kuhn's {Zeitschrift f. vergl. Sprachforschung}, a German
 --page 116
 <cuirm>, a feast, so Ir., E.Ir. @EIr{coirm}, {cuirm}, M.W. @MW{cwrwf}, W. @W{cwrw},
   beer, Corn. @Corn{coref}, Gaul. @Gaul{κοῦρμι}, {cervisia} *{kurmen}; Lat. {cremor},
-  broth (Eng. {cream}; Gr. @Gr{κεράννυμι}, mix; Skr. {çrâ}, {çṛ}, cook;
+  broth (Eng. @Eng{cream}; Gr. @Gr{κεράννυμι}, mix; Skr. {çrâ}, {çṛ}, cook;
   I.E. @IE{kera}, @IE{kra}, mix.
 <cuirnean>, a small heap of stones, dew-drop, ringlet, Ir. @Ir{cuirneán},
   head of a pin, brooch, ringlet.  In the first sense, it is from
@@ -5644,7 +5648,7 @@ Zeit.           Kuhn's {Zeitschrift f. vergl. Sprachforschung}, a German
   the meaning is unsatisfactory.  The word {cumhachd} has also
   been analysed as {co-mag-tu-}, where {mag} has been bariously
   referred to I.E. @IE{meg}, great (G. @Gr{μέγας}, Eng. @Eng{much}), or I.E.
-  {mēgh} (Eng. {may}, Lat. {machina}, {machine}).
+  {mēgh} (Eng. @Eng{may}, Lat. {machina}, {machine}).
 <cumhang>, narrow, Ir. @Ir{cúmhang}, O.Ir. @OIr{cumang}, W. @W{cyfang}, *{kom-ango-s};
   root {ang}; Gr. @Gr{ἂγω}, choke, @Gr{ἄγχι}, near; Lat. {ango},
   {angustus}; Ger. {eng}.
@@ -5674,7 +5678,7 @@ Zeit.           Kuhn's {Zeitschrift f. vergl. Sprachforschung}, a German
 <cùp>, box-cart, coup; see @Ref{cùb.1}.
 <cupa>, a cup, Ir. @Ir{cúpán}, W. @W{cib}; from Lat. {cûpa}, tub, Eng. @Eng{cup},
   {coop}, etc.
-<cupull>, a couple, Ir. @Ir{cúpla}, {cupall}, W. @W{cwpl}; from M.Eng. {couple}.
+<cupull>, a couple, Ir. @Ir{cúpla}, {cupall}, W. @W{cwpl}; from M.Eng. @MEng{couple}.
 <cur>, a placing, setting; inf. to @Ref{cuir}, q.v.
 <curach>, a boat, coracle, Ir., E.Ir. @EIr{curach}, Irish Lat. {curucis}, dat.pl.
   (Adamnan), W. @W{corwc}, {cwrwg}, {cwrwgl}, *{kuruko-} (Stokes);
@@ -5770,7 +5774,7 @@ Zeit.           Kuhn's {Zeitschrift f. vergl. Sprachforschung}, a German
   {dadadh}, {dadamh}, aught, a jot, etc., *{da-z-dho-}, root {da}, divide,
   Lit. {dalìs}, part, Gr. @Gr{δασμός}, division?  See †@Ref{dàil.3}.  Hence
   @Ref<dadmun>, a mote, and @Ref<dadum> = {dad}.
-<dag>, a pistol; from M.Eng. {dag}, a pistol, from Fr. {dague}, a
+<dag>, a pistol; from M.Eng. @MEng{dag}, a pistol, from Fr. {dague}, a
   dagger, whence Br. @Br{dag}.  The change of meaning from
   "dagger" to "pistol" is one which occurs in the history of
   "pistol" itself, for it originally meant "dagger".  Eng.
@@ -5891,9 +5895,9 @@ Zeit.           Kuhn's {Zeitschrift f. vergl. Sprachforschung}, a German
 <daor.1>, enslaved, so Ir., O.Ir. @Ir@OIr{dóir}; opposite of @Ref{saor.1} (with negative
   (do), *@Ref{du-}), which see for root.
 <daor.2>, dear, Ir. @Ir{daor}, {daoradh}, making dear (Four Masters); from
-  M.Eng. {deere}, {deore}, dear (Stokes).
+  M.Eng. @MEng{deere}, {deore}, dear (Stokes).
 <daorach>, intoxication; cf. Sc. {deray}, mirthful noise at a banquet,
-  M.Eng. {derai}, disorder, from Fr. {desroi}, dis-{array}.
+  M.Eng. @MEng{derai}, disorder, from Fr. {desroi}, dis-{array}.
 <dar>, when (conj.), Northern form for @Ref<'n uair>; probably {d'uair} =
   {do-uair}.
 <dara>, second, so Ir.; M.G. {darle} (Oss. Ballad, Fernaig MS),
@@ -6306,7 +6310,7 @@ Zeit.           Kuhn's {Zeitschrift f. vergl. Sprachforschung}, a German
 <dìbir>, forsake; see @Ref{dìobair}.
 <dibith>, @Ref<dimbith>, luckless, lifeless (Carm.):
 <dìblidh>, abject, vile, Ir. @Ir{díbligh}, O.Ir. @OIr{diblide}, senium; seemingly
-  from Lat. {dêbilis}, weak, feeble (Eng. {debilitate}, etc.).  Zim.
+  from Lat. {dêbilis}, weak, feeble (Eng. @Eng{debilitate}, etc.).  Zim.
   (@ExtRef{Zeit.;24;}) has suggested *{dí-adbul}, "un-great", from {adbul},
   i.e. @Ref{adhbhal}, q.v.
 <dìbrigh>, @Ref<dimbrigh>, contempt, Ir. @Ir{dimbrigh}; from {dim-}, {dí-}, and
@@ -6430,7 +6434,7 @@ Zeit.           Kuhn's {Zeitschrift f. vergl. Sprachforschung}, a German
   derivation is doubtful.
 <dìsne>, a die, dice, Ir. @Ir{dísle}; from M.Eng {dys}, dice.
 <dìt>, condemn, Ir. @Ir{díotach}, condemnatory, {díotáil}, an indictment;
-  from the M.Eng. {dîten}, indict, Sc. {dite} - a parallel form to
+  from the M.Eng. @MEng{dîten}, indict, Sc. {dite} - a parallel form to
   {indict}, {endit}, from Lat. {indicto}, {dicto}, dictate, {dico}, say.
   Further Sc. {dittay}.
 <dith>, press together, @Ref<dithimh>, a heap (Sh.):
@@ -6670,7 +6674,7 @@ Zeit.           Kuhn's {Zeitschrift f. vergl. Sprachforschung}, a German
   From @Ref{do-.1} and @Ref{sgath.1}, q.v.  Ir. @Ir{dosguidhtheach}, morose,
   extravagant.
 <dotarra>, sulky; see @Ref{dod}.
-<doth>, a doating on one; cf. Sc. {daut}, dote, M.Eng. {doten}.
+<doth>, a doating on one; cf. Sc. {daut}, dote, M.Eng. @MEng{doten}.
 <dràbach>, dirty slovenly, Ir. @Ir{drabaire}, {drabóg}, slut, {drab}, a stain;
   from Eng. @Eng{drab}.  See @Ref{drabh}.  Hence @Ref<drabasda>, obscene.
 <drabh>, dissolve, @Ref<drabhag>, dregs, @Ref<drabhas>, filth, E.Ir. @EIr{drabar-slog},
@@ -6793,14 +6797,14 @@ Zeit.           Kuhn's {Zeitschrift f. vergl. Sprachforschung}, a German
 <driodar>, dregs, lees, Ir. @Ir{dríodar}, gore, dregs: *{driddo-}, *{dṛd-do-},
   root {der}, Eng. @Eng{tear}.  Cf. Sc. {driddle}.
 <driog>, a drop, Ir. @Ir{driog} ({dríog}, Con.), {driogaire}, a distiller; seemingly
-  borrowed from Norse {dregg}, M.Eng. {dreg}, dregs.
+  borrowed from Norse {dregg}, M.Eng. @MEng{dreg}, dregs.
 <driongan>, slowness, Ir. @Ir{driongán}, a plaything, worthless pastime:
 <drip>, hurry, confusion, Ir. @Ir{drip}, bustle, snare: *{drippi-}, *{dhribh},
   Eng. @Eng{drive}?  N. {drepa}, hit.
 <dris>, a bramble, brier, Ir. @Ir{dris}, O.Ir. @OIr{driss}, O.W. @OW{drissi}, W.
   {dryssien}, Corn. @Corn{dreis}, Br. @Br{drezen}, *{dressi-}.  Bezzenberger
   suggests a stem *{drepso}, M.H.G. {trefs}, Ger. {trespe}, darnel,
-  M.Eng. {drauk} (= {dravick} of Du.), zizanium.  It must be
+  M.Eng. @MEng{drauk} (= {dravick} of Du.), zizanium.  It must be
   kept separate from {droighionn}, O.Ir. @OIr{draigen}, Celtic root
   {dṛg}, thought G. {dris} might be for *{dṛg-si-}, for the W. would
   be in {ch}, not {s}.  See @Ref{droighionn}.
@@ -6863,7 +6867,7 @@ Zeit.           Kuhn's {Zeitschrift f. vergl. Sprachforschung}, a German
 <drùdhadh>, oozing, soaking; cf. Skr. {dru}, {dráva}, melt, run, Got.
   {ufar-trusian}, besprinkle.  Cf. Gaul. {Druentia} (Gaelic {Druie},
   a river in Strathspey).
-<drugair>, a drudge, Ir. @Ir{drugaire}; from M.Eng. {druggar}, a dragger,
+<drugair>, a drudge, Ir. @Ir{drugaire}; from M.Eng. @MEng{druggar}, a dragger,
   Eng. @Eng{drudge}.
 <druid.1>, close, Ir. @Ir{druidim}, E.Ir. @EIr{druit}, close, firm, trustworthy:
   *{druzdo-}, *{drus}, W. @W{drws}.  See @Ref{dorus}.  Stokes now
@@ -6876,9 +6880,9 @@ Zeit.           Kuhn's {Zeitschrift f. vergl. Sprachforschung}, a German
 <druim>, back, ridge, so Ir., O.Ir. @Ir@OIr{druimm}, pl. {dromand}, W. @W{trum},
   *{drosmen-}; Lat. {dorsum}.
 <drùis>, lust, @Ref<drùiseach>, @Ref<drùth>, lecherous, Ir. @Ir{drúis}, adultery, E.Ir.
-  {drúth}, lewd, a harlot, *{drūto-}.  Cf. M.Eng. {drüð}, darling,
+  {drúth}, lewd, a harlot, *{drūto-}.  Cf. M.Eng. @MEng{drüð}, darling,
 --page 145
-  O.Fr. {drud} (do.), {druerie}, love, whence M.Eng. {druerie}, Sc.
+  O.Fr. {drud} (do.), {druerie}, love, whence M.Eng. @MEng{druerie}, Sc.
   {drouery}, illicit love.  Mayhew refers the Fr. and Eng. to
   O.H.G. {drút} dear (also {trút}, {drúd}): a Teut. {dreuð}?  Cf.
   Ger. {traut}, beloved (Kludge).
@@ -6911,7 +6915,7 @@ Zeit.           Kuhn's {Zeitschrift f. vergl. Sprachforschung}, a German
   cry as a crane (Bez.).  Stokes derives it from {dhugh} above
   under @Ref{dual.2}.
 <duarman>, a murmur; cf. {torman} from @Ref{toirm}.
-<dùbailte>, Ir. @Ir{dubâilte}; from M.Eng. {duble}, O.Fr. {doble},
+<dùbailte>, Ir. @Ir{dubâilte}; from M.Eng. @MEng{duble}, O.Fr. {doble},
   Lat. {duplex}.
 <dubh>, black, Ir. @Ir{dubh}, O.Ir. @OIr{dub}, W. @W{du}, O.W. @OW{dub}, Corn. @Corn{duv},
   Br. @Br{du}, *{dubo-}; Gr. @Gr{τυφλός} (= {quf-lós}, blind; Got. {daubs},
@@ -7378,7 +7382,7 @@ Zeit.           Kuhn's {Zeitschrift f. vergl. Sprachforschung}, a German
 <eisiomplair>, example, Ir. @Ir{eisiompláir}, M.Ir. @MIr{esimplair}; from Lat.
   {exemplar}.
 --page 156
-<eisir>, @Ref<eisiridh>, oyster, Ir. @Ir{eisir}, {oisre}; from M.Eng. {oistre}, from
+<eisir>, @Ref<eisiridh>, oyster, Ir. @Ir{eisir}, {oisre}; from M.Eng. @MEng{oistre}, from
   Lat. {ostrea}.
 <eisleach>, the withe that ties the tail-beam to the pack-saddle,
   crupper:
@@ -7510,7 +7514,7 @@ Zeit.           Kuhn's {Zeitschrift f. vergl. Sprachforschung}, a German
 <faicill>, caution, guard, E.Ir. @EIr{accill}, preparation, watch: *{ád-ciall};
   from @Ref{ciall}, sense?  CF. @Ref{dìchioll}.
 <fàidh>, a prophet, Ir. @Ir{fáidh}, O.Ir. @OIr{fáith}, *{vâti-s}; Lat. {vates}; Norse
-  {óðr}, sense, song, M.Eng. {wood}, Sc. {wud} (= mad), Ger. {with},
+  {óðr}, sense, song, M.Eng. @MEng{wood}, Sc. {wud} (= mad), Ger. {with},
   rage.  W. has {gwawd}, carmen: *{vâto-}.
 <faidhbhile>, a beech, Ir. @Ir{feagha}, {fagh-vile} (Lh., {Comp.Voc.}), W.
   {ffawydden}, Br. @Br{fao}; from Lat. @Ref{fagus}.  G. adds the old word
@@ -7675,7 +7679,7 @@ Zeit.           Kuhn's {Zeitschrift f. vergl. Sprachforschung}, a German
 <fallsa>, false (M`D.), Ir., M.Ir. @MIr{fallsa}; from the Lat. {falsus}.
 <falluing>, a mantle, so Ir., M.Ir. @MIr{fallaing}, Latinised form {phalingis}
   (Geraldus), dat.pl., W. @W{ffaling}; from Lat. @Ref{palla}, mantle,
-  {pallium}.  Cf. O.Fr. {pallion}, M.Eng. {pallioun}.  M.E. {falding},
+  {pallium}.  Cf. O.Fr. {pallion}, M.Eng. @MEng{pallioun}.  M.E. {falding},
   sort of coarse cloth (Hend.).
 <fallus>, sweat, Ir. @Ir{fallus}, {allus}, O.Ir. @OIr{allas}: *{jasl}, root {jas}, {jes},
   seethe, yeast, W. @W{jas}, what pervades, Br. @Br{goell} (= {vo-jes-l}),
@@ -7703,7 +7707,7 @@ Zeit.           Kuhn's {Zeitschrift f. vergl. Sprachforschung}, a German
 <famhsgal>, @Ref<fannsgal>, hurry, confusion (Arg.):
 --page 163
 <famh-thalmhainn>, @Ref<fath>, a mole, @Ref<fadhbh> (Lh.), W. @W{gwadd}, Corn.
-  {god}, Br. @Br{goz}; M.Eng. {wont}, talpa.  Dialectic @Ref<ath-thalmhain>.
+  {god}, Br. @Br{goz}; M.Eng. @MEng{wont}, talpa.  Dialectic @Ref<ath-thalmhain>.
 <fan>, stay, Ir. @Ir{fanaim}, O.Ir. @OIr{anaim}; root {an}, breathe, exist, as in
   @Ref{anam}, @Ref{anail}: "gabhail anail" = taking rest.  Stokes suggests
   {an} = {ṃn}, root {men}, remain, Lat. {maneo}, Gr. @Gr{μένω}, a phonetic
@@ -8042,10 +8046,10 @@ Zeit.           Kuhn's {Zeitschrift f. vergl. Sprachforschung}, a German
 <Féinn>, g. @Ref<Féinne>, the Fingalians, Ir. @Ir{Féinne}, @Ref{Fiann}, E.Ir. @EIr{fíann},
   *{veinnâ}, also E.Ir. @EIr{fían}, a hero, *{veino-s}, root {vein}, strive;
   Lat. {vênari}, hunt; Skr. {vénati}, go, move, desire.  Zimmer
-  takes the word from Norse {fjándi}, an enemy (Eng. {fiend},
+  takes the word from Norse {fjándi}, an enemy (Eng. @Eng{fiend},
   which he supposes the Irish tropps called themselves after
   the Norsemen.
-<feirm>, a farm, Ir. @Ir{feilm}; from m.Eng. {ferme}, Eng. @Eng{farm}.
+<feirm>, a farm, Ir. @Ir{feilm}; from M.Eng. @MEng{ferme}, Eng. @Eng{farm}.
 <féisd>, @Ref<féis>, a feast; better @Ref{feusd}, q.v.
 <feith>, wait, Ir. @Ir{feithim}, E.Ir. @EIr{fethim}, inf. {fethem} (= G. @Ref<feitheamh>),
   *{vetô}, root {vet}; Lat. {vetus}, old, Eng. @Eng{veteran}; Gr. @Gr{ἒτος}, year;
@@ -8062,8 +8066,8 @@ Zeit.           Kuhn's {Zeitschrift f. vergl. Sprachforschung}, a German
 <feochadan>, corn-thistle, thistle (Arm., H.S.D.), Ir. @Ir{feochadan}
   (O'R.), {feóthadán} (O'B.), and {feóthán}.  Cf. @Ref{fobhannan}.
 <feòcullan>, the pole-cat, Ir. @Ir{feochullan} (Fol., O'R. has {feocullan} like
-  Sh.).  Cf. Sc. {fethok}, {fithowe}, pole-cat, M.Eng. {ficheu}, now
-  {fitchew}.
+  Sh.).  Cf. Sc. {fethok}, {fithowe}, pole-cat, M.Eng. @MEng{ficheu}, now
+  @Eng{fitchew}.
 <feobharan>, pith, puff (@Ref<feo'ran>) - Dial.; {feodharan}, root, *{vet}, {vetu-}?
 <feobhas>, goodness; see @Ref{feabhas}.
 <feòdar>, pewter, Ir. @Ir{péatar}, W. @W{ffeutar}; from the Eng. @Eng{pewter}.
@@ -8088,7 +8092,7 @@ Zeit.           Kuhn's {Zeitschrift f. vergl. Sprachforschung}, a German
 <feothachan>, @Ref<feothan> (Arran), a little breeze; root {vet}, as in
   @Ref{onfhadh}.
 <feuch>, @Ref<fiach.3>, behold, see, try, Ir. @Ir{feuch}, {féach}, E.Ir. @EIr{féchaim},
-  {fégaim}, *{veikô}; Gr. @Gr{εἰκών}, image (Eng. {iconoclastic}), @Gr{εὄικα},
+  {fégaim}, *{veikô}; Gr. @Gr{εἰκών}, image (Eng. @Eng{iconoclastic}), @Gr{εὄικα},
   I seem, @Gr{εἰκαζω}, conjecture; Skr. {viç}, appear, arrive.
 <feud>, may, can; see @Ref{faod}.
 <feudail>, cattle; usual spelling of @Ref{eudail}, q.v.
@@ -8327,8 +8331,8 @@ Zeit.           Kuhn's {Zeitschrift f. vergl. Sprachforschung}, a German
   From @Ref{fleasg}, above.  The Ir. @Ir{fleasgaigh ealadhna},
   itinerant medicine men, carried {fleasgan} to denote their profession.
 <fleasgairt>, a barge or boat hung with festoons; from @Ref{fleasg}.
-<fleisdear>, arrow-maker; from Sc. {fledgear}, M.Eng. {flecchere}, now
-  {fletcher}, from O.Fr. {flechier}.  See @Ref{fleasg} further.
+<fleisdear>, arrow-maker; from Sc. {fledgear}, M.Eng. @MEng{flecchere}, now
+  @Eng{fletcher}, from O.Fr. {flechier}.  See @Ref{fleasg} further.
 <fleodradh>, floating (Heb.), @Ref<fleodruinn>, a buoy; from Norse {fljóta},
   to float, Eng. @Eng{float}.
 <fleogan>, an untidy, flabby person, a flat fish (Arms.), @Ref<fleoidhte>,
@@ -8341,7 +8345,7 @@ Zeit.           Kuhn's {Zeitschrift f. vergl. Sprachforschung}, a German
 <flò>, hallucination (H.S.D. for N.H.):
 <flod>, a state of floating; from Eng. @Eng{float}, Norse {floti}, a raft.
 <flodach>, lukewarm; see @Ref{plodadh}.
-<flùr>, @Ref<plùr>, flower, Ir. @Ir{plúr}, M.Ir. @MIr{plúr}; from the M.Eng. {flour},
+<flùr>, @Ref<plùr>, flower, Ir. @Ir{plúr}, M.Ir. @MIr{plúr}; from the M.Eng. @MEng{flour},
   O.Fr. {flour}, Lat. {florem}, G. <flùr> is from the Scotch.
 --page 177
 <fo>, under, Ir., O.Ir. @Ir@OIr{fo}, W. @W{go-}, O.W. @OW{guo-}, Corn. @Corn{go-}, Corn., Br.
@@ -8451,7 +8455,7 @@ Zeit.           Kuhn's {Zeitschrift f. vergl. Sprachforschung}, a German
   the root {stâ}, tat is *{vo-sto-}.  Stokes still holds by old (1903).
   Hence @Ref<foisdin>, taciturnity, Ir. @Ir{foisdine}.
 <foisteadh>, wages, hire, Ir. @Ir{foistighim}, I hire; M.Ir. @MIr{foss}, servant,
-  W. @W{gwas} (Eng. {vassal}); from the same root as @Ref{fois}.  Also
+  W. @W{gwas} (Eng. @Eng{vassal}); from the same root as @Ref{fois}.  Also
   @Ref<fasdadh>.
 <folach>, covering, hiding; see @Ref{falach}.
 <fòlach>, rank grass growing on dunghills; *{vog-lo-}, root, {vog}, {veg}
@@ -8572,7 +8576,7 @@ Zeit.           Kuhn's {Zeitschrift f. vergl. Sprachforschung}, a German
 <frith.3>, a sour or angry look (A.M`D.), @Ref<frithearachd>, peevishness,
   Ir. @Ir{frithir}, peevish: *{vṛti-}; root of @Ref{ri} "against"?
 <frìth>, a forest, deer forest, Ir. @Ir{frith}, wild, mountainous place, W.
-  {ffridd}, forest; from M.Eng. {frið}, deer park, Ag.S. {frið}.
+  {ffridd}, forest; from M.Eng. @MEng{frið}, deer park, Ag.S. {frið}.
 <frith->, @Ref<fre->, @Ref<freas->, prefix = prep. @Ref{ri} by force and derivation;
   which see.
 --page 182
@@ -8697,12 +8701,12 @@ Zeit.           Kuhn's {Zeitschrift f. vergl. Sprachforschung}, a German
 <fusgan>, a heather brush; cf. Sc. {whisker}, a bunch of feathers for
   sweeping, Eng. @Eng{whisk}.
 <futhar>, the dog-days; from Sc. {fure-days}.
-<gab>, a tattling mouth; from Sc. {gab} (do.), M.Eng. {gabben}, to
+<gab>, a tattling mouth; from Sc. {gab} (do.), M.Eng. @MEng{gabben}, to
   chatter, mock, Norse {gabb}, mockery, O.Fris. {gabbia}, accuse.
 <gàbairt>, a transport vessel (Heb.); from Sc. {gabert}, a lighter,
   from Fr. {gabarre}, storeship, lighter.
 <gabh>, take, Ir. @Ir{gabhaim}, O.Ir. @OIr{gabaim}, {gaib}, capit, inf. {gabáil}, W.
-  {gafael}, prehensio (Eng. {gavelkind}), Cor {gavel}: *{gabô}, capio,
+  {gafael}, prehensio (Eng. @Eng{gavelkind}), Cor {gavel}: *{gabô}, capio,
   do, *{gabagli}; Got. {giban}, give, Ger. {geben}, Eng. @Eng{give}; Lit.
   {gabénti}, bring.
 <gàbhadh>, danger, peril, Ir. @Ir{gábha(dh)}, E.Ir. @EIr{gába}, {gábud}: cf. E.Ir.
@@ -8724,7 +8728,7 @@ Zeit.           Kuhn's {Zeitschrift f. vergl. Sprachforschung}, a German
   goad, O.H.G. {gart}, sting, rod, Norse {gaddr}, sting, Eng.
   {yard}; Lat. {hasta}, spear (from {ghaz-dhâ}?).
 <gàd>, @Ref<gàt>, an iron bar; from Sc. @Ref{gad}, a bar of metal, Eng. @Eng{gad},
-  wedge of steel, M.Eng. {gad}, spike, bar, Norse {gaddr}, as
+  wedge of steel, M.Eng. @MEng{gad}, spike, bar, Norse {gaddr}, as
   under @Ref{gad}.
 <gadaiche>, thief, Ir. @Ir{gaduigh}, E.Ir. @EIr{gataige}; see @Ref{goid}.
 <gadair>, tie the fore feet of a horse, etc. (H.S.D., Dial.); from @Ref{gad}.
@@ -8901,7 +8905,7 @@ Zeit.           Kuhn's {Zeitschrift f. vergl. Sprachforschung}, a German
 <gar.4>, cry, variant of @Ref{goir}. See @Ref{goir}, @Ref{gàrlach} and @Ref{garrag.2}.
 ---gjk (1.14) inserted entry
 <gàradh>, @Ref<gàrradh>, a garden, Ir. @Ir{gardhadh}, M.Ir. @MIr{garrda}; from the
-  Norse {garðr}, a yard, M.Eng. {gard}, {garþ}, Eng. @Eng{yard}, {garden}.
+  Norse {garðr}, a yard, M.Eng. @MEng{gard}, @MEng{garþ}, Eng. @Eng{yard}, {garden}.
 <garadh>, @Ref<garaidh>, a den, copse, @Ref<garan>, thicket, Ir. @Ir{garán}, underwood,
   thicket, {garrán}, grove, root {gar}, bristle, be rough, I.E.
   {gher}, stand stiff, tear, scratch; Gr. @Gr{χάραξ}, a stake, @Gr{χαράδρα},
@@ -9032,7 +9036,7 @@ Zeit.           Kuhn's {Zeitschrift f. vergl. Sprachforschung}, a German
 --page 192
 <geàrr.1>, short, cut (vb.), Ir. @Ir{géarr}, {geárraim}, E.Ir. @EIr{gerr}, {gerraim}:
   *{gerso-s}.  Stokes cfs. Gr. @Gr{χερεíων}, @Gr{χεíρων}, worse, Skr. {hrasva},
-  short.  Cf. M.Eng. {garsen}, gash, O.Fr. {garser}.
+  short.  Cf. M.Eng. @MEng{garsen}, gash, O.Fr. {garser}.
 <geàrr.2>, a hare, Ir. @Ir{geirrfhiadh}: "short deer"; from @Ref{geàrr.1} and
   @Ref{fiadh}, the latter word being omitted in G.
 <geàrrach>, diarrhœa, bloody flux:
@@ -9128,7 +9132,7 @@ Zeit.           Kuhn's {Zeitschrift f. vergl. Sprachforschung}, a German
 <gigean.2>, a diminutive man, little mass; native form of @Ref{ceig.1}, q.v.
 <gighis>, a masquerade, so Ir.; from Sc. {gyis}, a mask, {gysar}, a
   harlequin, one that disguises himself at New Year, {gys}, to
-  disguise, M.Eng. {gîsen}, dress, prepare, from O.Fr. {(de)guiser},
+  disguise, M.Eng. @MEng{gîsen}, dress, prepare, from O.Fr. {(de)guiser},
   Eng. dis-{guise}.
 <gilb>, a chisel: *{gḷbi-}; cf. Gr. @Gr{γλάφω}, carve.  But cf. W. @W{gylyf},
   sickle, O.Corn. {gilb}, foratorium, allied to G. @Ref{guilbneach}, q.v.
@@ -9206,7 +9210,7 @@ Zeit.           Kuhn's {Zeitschrift f. vergl. Sprachforschung}, a German
   {glace}, hand, handful: *{glapko-}(?), Eng. clasp.  See @Ref{glas.1}.
 <glag>, noise of anything falling, noise, horse-laugh, Ir. @Ir{glagaire}, a
   babbler, {glagan}, mill clapper: *{glag-ko-}; Gr. @Gr{γλαζω} (*{glagjô}),
-  sing, noise; Eng. @Eng{clack}, M.Eng. {clacke}, mill clack, Norse
+  sing, noise; Eng. @Eng{clack}, M.Eng. @MEng{clacke}, mill clack, Norse
   {klaka}, chatter bird-like; aslo Eng. @Eng{clap}.  There is a degree
   of onomato-poesy about these words.  Cf. @Ref{clag}.
 <glàib>, dirty water, puddle, Ir. @Ir{gláib}; cf. {láib}.
@@ -9317,7 +9321,7 @@ Zeit.           Kuhn's {Zeitschrift f. vergl. Sprachforschung}, a German
 <gloc.1>, the clucking of a hen, noise, loud note; Eng. @Eng{clock}, {cluck},
   W. @W{clwc}; Lat. {glocire}; etc.  Onomatopoetic.
 <gloc.2>, swallow greedily, @Ref<glochdan>, a wide throat; from the Sc.
-  {glock}, gulp, {glog}, swallow hastily, E.Eng. {glucchen}, {gulchen},
+  {glock}, gulp, {glog}, swallow hastily, E.Eng. @EEng{glucchen}, @EEng{gulchen},
   swallow greedily, Ger. {glucken}, {gulken}, {klucken}.
 <glochar>, a wheezing, difficult respiration, Ir. @Ir{glocharnach}; cf. Sc.
   @Ref{glag}, {glagger}, make a noise in the throat as if choking,
@@ -9450,7 +9454,7 @@ Zeit.           Kuhn's {Zeitschrift f. vergl. Sprachforschung}, a German
 <gogail>, cackling, noise of liquor issuing from a cask, Ir. @Ir{gogallach};
   Eng. @Eng{cackle}.  The words are onomatopoetic.  Also @Ref<goglais>.
 <gogan>, a wooden milk-pail, also @Ref<cogan>; from Sc. {cogue}, {cog},
-  apparently allied to M.Eng. {cog}, ship, Norse {kuggi}, a small
+  apparently allied to M.Eng. @MEng{cog}, ship, Norse {kuggi}, a small
   ship, Teutonic {kuggon-}, ship.
 <goic>, a tossing of the head in disdain, a scoff, Ir. @Ir{goic}; founded on
   the Eng. @Eng{cock}, like @Ref{gog}, q.v.
@@ -9465,7 +9469,7 @@ Zeit.           Kuhn's {Zeitschrift f. vergl. Sprachforschung}, a German
   {quellen}, gush.  See @Ref{goile}.
 <goile>, a stomach, appetite, Ir. @Ir{goile}, @Ref{gaile}, stomach, appetite,
   throat, M.Ir. @MIr{gaile}; also O.Ir. @OIr{gelim}, I consume; Lat. {gula},
-  throat (Eng. {gullet}), {glutire}, swallow (Eng. {glutton}); Skr.
+  throat (Eng. @Eng{gullet}), {glutire}, swallow (Eng. @Eng{glutton}); Skr.
   {gilati}, swallow; I.E. @IE{ℊel}, allied to root of @Ref{goil}.
 <gòileag>, a haycock, cole; from the Sc. {gole}, Eng. @Eng{coll}.
 <goileam.1>, tattle, chattering, also @Ref<gothlam> ({l}=@Ref{le}); see @Ref{gothlam}.
@@ -9502,7 +9506,7 @@ Zeit.           Kuhn's {Zeitschrift f. vergl. Sprachforschung}, a German
   @Ref{gaoisid}.
 <goisridh>, company, people; see @Ref{gasraidh}.
 <goisdidh>, gossip, godfather, M.Ir. @MIr{goistibe}, godfather; from
-  M.Eng. {godsibhe}, now {gossip}.
+  M.Eng. @MEng{godsibhe}, now @Eng{gossip}.
 <golag>, a gudget: *{gulo-}; Gr. @Gr{γύλιος}, wallet, O.H.G. {kiulla}.
 <gòlanach>, two-headed (H.S.D.): "forked", from {gobhlan}?
 <gomag>, a nip, pinch (M`L., @Ref<gòmag>), @Ref{gàmag}, large bite (Skye):
@@ -9599,7 +9603,7 @@ Zeit.           Kuhn's {Zeitschrift f. vergl. Sprachforschung}, a German
 <greidil>, a gridiron, Ir. @Ir{greidil}, {greideal}, M.Ir. @MIr{in t-slissin gretli},
   Sean. Mor. {gretel}, W. @W{greidel}, {gradell}, O.W. @OW{gratell}; from
   Late Lat. {graticula}, from {cratis}, wicker-work, Eng. @Eng{crate},
-  {grate}, {grill}, {hurdle}.  Eng. @Eng{griddle}, M.Eng. {gredel}, are the
+  {grate}, {grill}, {hurdle}.  Eng. @Eng{griddle}, M.Eng. @MEng{gredel}, are the
   same as the Celtic words.  Skeat has suggested @Ref{gread} above
   as the orogin of the Celtic forms; cf. Ir. @Ir{greadóg}, a griddle.
   Hence @Ref<greidlean>, an instrument for turning the bannocks on
@@ -9675,15 +9679,15 @@ Zeit.           Kuhn's {Zeitschrift f. vergl. Sprachforschung}, a German
   heat: *{grens}, *{gṛns}, heat; Skr. {ghramsa}, sun, heat, sunshine;
   root {ℊher} of @Ref{gar.1}, q.v.  Hence @Ref<grìs>, inflammation; Ir. @Ir{grís},
   pimple.
-<grìs>, horror; from Sc. {grise}, to shudder, M.Eng. {grīs}, horror,
-  {grīseful}, {grīse}, horrible, Eng. @Eng{grisly}.
+<grìs>, horror; from Sc. {grise}, to shudder, M.Eng. @MEng{grīs}, horror,
+  @MEng{grīseful}, @MEng{grīse}, horrible, Eng. @Eng{grisly}.
 <grìsionn>, grindled, <grìs-ghion>, "gray-white", <grìs> {gris} (Sh.),
 ---JTM: normalized reference
-  gray; from M.Eng. {grīs}, gray fur.
+  gray; from M.Eng. @MEng{grīs}, gray fur.
 <griùrach>, the measles, @Ref<griuthach> (do.), @Ref<grìobhach> (M`A.),
   @Ref<griùragan>, indefinitely small particle, pustules on the skin;
   root {ℊhru}, as in @Ref{grothlach}; {grúlach} (Skye) = {griobhlach}.
-<gròb>, join by indentation, serrate; cf. M.Eng. {grōpin}, to groove,
+<gròb>, join by indentation, serrate; cf. M.Eng. @MEng{grōpin}, to groove,
   also {groupe} and {grave}.  A borrowed G. word.
 <gróbag>, a poor shrivelled woman; from @Ref{gròb}.
 <groban>, top or point of a rock, hillock:
@@ -9725,7 +9729,7 @@ Zeit.           Kuhn's {Zeitschrift f. vergl. Sprachforschung}, a German
   corn.  Eng. @Eng{grit}, {groats} are allied.  Hence @Ref<grùid>, lees.
 <grùig>, a drooping attitude, churlishness, churlish, Ir. @Ir{grúg}, a
   grudge, anger, {gruig}, churlishness (O'B.), {gruc}, sulky (O'Cl.);
-  cf. Eng. @Eng{grudge}, M.Eng. {grucchen}, O.Fr. {grouchier}, {groucier}.
+  cf. Eng. @Eng{grudge}, M.Eng. @MEng{grucchen}, O.Fr. {grouchier}, {groucier}.
   Also @Ref<grùgach>, wrinkled.
 <gruilleamach>, prancing, leaping suddenly (H.S.D.):
 <grunnaich>, sound, fathom; see @Ref{grunnd}.
@@ -9750,7 +9754,7 @@ Zeit.           Kuhn's {Zeitschrift f. vergl. Sprachforschung}, a German
   (Bez.).  Used adverbially in {gu math}, {gu h-olc}.  Cf. Gr. @Gr{κας},
   @Gr{και}, Skr. {-ças}.
 <guag.1>, a giddy, whimsical fellow, Ir. @Ir{gúag}, {guaigín}, folly, silly one;
-  from M.Eng. {gowke}, {gōki}, a fool, Sc. {gowk}, Eng. @Eng{gawky}.
+  from M.Eng. @MEng{gowke}, @MEng{gōki}, a fool, Sc. {gowk}, Eng. @Eng{gawky}.
 <guag.2>, a splay-foot; see @Ref{cuag}.
 <guaigean>, thick, little and round: *{goug-go-}, root {ℊu}, bend.
 <guailisg>, false, falsity (Carm.):
@@ -9780,7 +9784,7 @@ Zeit.           Kuhn's {Zeitschrift f. vergl. Sprachforschung}, a German
 <guanach>, light, giddy, Ir. @Ir{guanach}, {guamnach}, M.Ir. @MIr{guamnacha},
   active (O'Cl.); root {guam} of @Ref{guamach} above.
 <gucag>, a bubble, bell, globule, bud: *{gukko-}, Ger. {kugel}, ball.
-<gùda>, a gudgeon, Ir. @Ir{guda}; formed on Eng. @Eng{gudgeon}, M.Eng. {gojon}.
+<gùda>, a gudgeon, Ir. @Ir{guda}; formed on Eng. @Eng{gudgeon}, M.Eng. @MEng{gojon}.
 <gudaleum>, @Ref<gudarleum>, a bound, wild leap (Arg.):
 <guga>, the solan goose, a fat, silly fellow, Ir. @Ir{guga}.  See @Ref{gugail}
   for root.
@@ -9826,7 +9830,7 @@ Zeit.           Kuhn's {Zeitschrift f. vergl. Sprachforschung}, a German
 <gùn>, gown, Ir. @Ir{gúna}; from the Eng. @Eng{gown}, from W. @W{gwn} (*{gwun}),
   from Celtic *{vo-ouno-}, root in Lat. {ex-uo}, doff, {ind-uo}, don,
   Lit. {aunù}, put on shoes, {áuti}.
-<gunna>, a gun, Ir., M.Ir. @MIr{gunna}; from M.Eng. {gunne}, Eng. @Eng{gun}.
+<gunna>, a gun, Ir., M.Ir. @MIr{gunna}; from M.Eng. @MEng{gunne}, Eng. @Eng{gun}.
 <gur>, that, Ir. @Ir{gur}: *{co-ro}; see @Ref{gu'n} for {co}.  Uses are: {Gur
   cruaidh e} = O.Ir. @OIr{corrop cruaid é}; {corrop} is now Ir. @Ir{gurab},
   that is {co-ro-ba} ({ba}, verb "to be").  {gur} = {gun ro}, {con ro-}
@@ -10369,7 +10373,7 @@ Zeit.           Kuhn's {Zeitschrift f. vergl. Sprachforschung}, a German
 <lachduinn>, dun, grey, tawny, Ir., M.Ir. @MIr{lachtna}, grey, dun; cf.
   Skr. {rakta}, coloured, reddened, {rañj}, dye, whence Eng. @Eng{lake},
   crimson.
-<làd>, @Ref<lòd>, a load, Ir. @Ir{lád}; from the M.Eng. {laden}, to lade.
+<làd>, @Ref<lòd>, a load, Ir. @Ir{lád}; from the M.Eng. @MEng{laden}, to lade.
 <lad>, a mill lead; from the Eng. @Eng{lead}, {lade}.  For the N.H. meaning
   of "puddle", see @Ref<lod>.
 <ladar>, a ladle; from the Eng. @Eng{ladle} by dissimilation of the liquids.
@@ -10731,7 +10735,7 @@ Zeit.           Kuhn's {Zeitschrift f. vergl. Sprachforschung}, a German
   flood, stream, {lliant}, fluctus, fluentum, Br. @Br{livad}, inundation;
   root {lî}, {leja}, flow; Skr. {riyati}, let run; Lit. {lë́ti}, gush; Gr.
   @Gr{λíμνη}, lake, @Gr{λεῖος}, smooth, Lat. {levis}, level, {lîmus}, mud; etc.
-  Stokes hesitates between root {li} and roots {pleu} (Eng. {flow})
+  Stokes hesitates between root {li} and roots {pleu} (Eng. @Eng{flow})
   and {lev}, {lav}, Lat. {lavo}, {luo}.
 <lighiche>, a physician, Ir. @Ir{liaigh}, g. {leagha}, E.Ir. @EIr{liaig}, O.Ir. @OIr{legib},
   medicis: Got. {leikeis}, Eng. @Eng{leech}.
@@ -10992,7 +10996,7 @@ Zeit.           Kuhn's {Zeitschrift f. vergl. Sprachforschung}, a German
   flow, be swift; Eng. @Eng{fleet}, Norse {fljótr}, swift (root {pleud}); Gr.
   @Gr{πλέω}, I sail; Lat. {pluit}, it rains; Skr. {plavate}, swim, fly.
 <lùb>, bend, Ir., M.Ir. @MIr{lúbaim}, E.Ir. @EIr{lúpaim} ({ro-lúpstair}, they bent,
-  L.Leinster): {lúbbô}, root {leub}, {lub}; Eng. @Eng{loop}, M.Eng. {loupe},
+  L.Leinster): {lúbbô}, root {leub}, {lub}; Eng. @Eng{loop}, M.Eng. @MEng{loupe},
   noose; @Gr{λυγíζω} see @Ref{lag.1}.  Skeat regards the Eng. as borrowed
   from the Celtic.  Hence @Ref<lùib>, a fold, creek, angle.
 --page 235
@@ -11102,11 +11106,11 @@ Zeit.           Kuhn's {Zeitschrift f. vergl. Sprachforschung}, a German
   drubbing.
 <lur>, delight, @Ref<lurach>, lovely, @Ref<luran>, darling, a male child; *{luru-},
   root {lu}, {lau}, enjoy, as in @Ref{lon.5}.
-<lurc>, a crease in cloth; from Sc. {lirk}, a crease, M.Eng. {lerke},
+<lurc>, a crease in cloth; from Sc. {lirk}, a crease, M.Eng. @MEng{lerke},
   wrinkle.
 <lurcach>, lame in the feet; see @Ref{loirc.2}.
 <lùrdan>, cunning, a sly fellow; from Sc. {lurdane}, worthless person,
-  M.Eng. {lourdain}, lazy rascal, from O.Fr. {lourdein} (n.), {lourd},
+  M.Eng. @MEng{lourdain}, lazy rascal, from O.Fr. {lourdein} (n.), {lourd},
   dirty, sottish, from Lat. {luridum}.
 <lurg>, @Ref<lurgann>, a shank, Ir., E.Ir. @EIr{lurgu} g. {lurgan}; W. @W{llorp},
   {llorf}, shank, shaft.
@@ -11122,7 +11126,7 @@ Zeit.           Kuhn's {Zeitschrift f. vergl. Sprachforschung}, a German
   forms (Gr. @Gr{ἀμμε} = {ṇs-sme}, us).
 <mab>, a tassel; a side-form of @Ref{pab}, q.v.
 <màb>, abuse, vilify:
-<mabach>, lisping, stammering; cf. M.Eng. {maflen}, Du. {maffeln}, to
+<mabach>, lisping, stammering; cf. M.Eng. @MEng{maflen}, Du. {maffeln}, to
   stammer.
 <mac>, a son, Ir. @Ir{mac}, O.Ir. @OIr{macc}, W. @W{mab}, O.W. @OW{map}, Corn. @Corn{mab},
   Br. @Br{map}, {mab}, Ogam gen. {maqvi}: *{makko-s}, *{makvo-s}, son,
@@ -11165,8 +11169,8 @@ Zeit.           Kuhn's {Zeitschrift f. vergl. Sprachforschung}, a German
   q.v.  Connection with Eng. @Eng{mastiff}, Fr. {mâtin}, O.F. {mestiff},
   from *{mansatinus}, "house-dog", would mean borrowing.
 <madadh.2>, mussel:
-<màdog>, @Ref<madog>, a mattock, W. @W{matog}; from M.Eng. {mattok}, now
-  {mattock}, Ag.S. {mattuc}.
+<màdog>, @Ref<madog>, a mattock, W. @W{matog}; from M.Eng. @MEng{mattok}, now
+  @Eng{mattock}, Ag.S. {mattuc}.
 <màdar>, madder, Ir. @Ir{madar}, the plant madder; from the Eng.
 <madhanta>, valiant, dexterous in arms, Ir. @Ir{madhanta}: "overthrowing",
   from the E.Ir. verb {maidim}, overthrow, break,
@@ -11206,7 +11210,7 @@ Zeit.           Kuhn's {Zeitschrift f. vergl. Sprachforschung}, a German
 <maighdeag>, concha veneris, the shell of the escallop fish; from
   @Ref{maighdean}?  Cf. @Ref{madadh.2}, mussel.
 <maighdean>, a maiden, so Ir., late M.Ir. @MIr{maighden} (F.M.); from
-  M.Eng. {magden}, {maiden}, Ag.S. {mœden}, now {maiden}.
+  M.Eng. @MEng{magden}, @MEng{maiden}, Ag.S. {mœden}, now {maiden}.
 <maigheach>, a hare, Ir. @Ir{míol bhuidhe} (for {míol mhuighe}), E.Ir. @EIr{míl maighe},
   "plain beast"; from @Ref{mial} and @Ref{magh}.  The G. is an
   adj. from @Ref{magh}: *{mageco-}, "campestris".
@@ -11256,9 +11260,9 @@ Zeit.           Kuhn's {Zeitschrift f. vergl. Sprachforschung}, a German
   @Ref{mainnir}.  Rhys regards the W. as borrowed from Ir.; if so,
   G. is same as @Ref{maith.1}, good.
 <màl>, rent, tax, M.Ir. @MIr{mál}, W. @W{mâl}, bounty; from Ag.S. {mál},
-  tribute, M.Eng. {māl}, now {mail} (black-{mail}), Sc. {mail}.
-<màla>, a bag, budget, Ir. @Ir{mála}; from the M.Eng. {māle}, wallet,
-  bag (now {mail}), from O.Fr. {male}, from O.H.G. {malha}.
+  tribute, M.Eng. @MEng{māl}, now @Eng{mail} (black-{mail}), Sc. {mail}.
+<màla>, a bag, budget, Ir. @Ir{mála}; from the M.Eng. @MEng{māle}, wallet,
+  bag (now @Eng{mail}), from O.Fr. {male}, from O.H.G. {malha}.
 <mala>, pl. @Ref<malaichean> ({mailghean} in Arg., cf. {duilich}, {duilghe}),
   eyebrow, Ir. @Ir{mala}, O.Ir. @OIr{mala}, g. {malach}, M.Br. @MBr{malvenn},
   eyelash: *{malax}; Lit. {blakstenai}, eyelashes, {blakstini}, wink,
@@ -11299,7 +11303,7 @@ Zeit.           Kuhn's {Zeitschrift f. vergl. Sprachforschung}, a German
 <mànas>, the portion of an estate famed by the owner, a large or
   level farm; from the Sc. {mains}, Eng. @Eng{manor}.
 <mandrag>, mandrake, Ir. @Ir{mandrác}; from the Eng.  W. @W{mandragor}
-  is from M.Eng. {mandragores}, Ag.S. {mandragora}.
+  is from M.Eng. @MEng{mandragores}, Ag.S. {mandragora}.
 <mang>, a fawn, M.Ir. @MIr{mang}, E.Ir. @EIr{mang} (Corm.): Celtic root {mag}
   ({mang}), increase, Eng. @Eng{maiden}, Got. {magus}, boy (see @Ref{mac}).
 <mangan>, a bear; see @Ref{mathghamhain}.
@@ -11328,7 +11332,7 @@ Zeit.           Kuhn's {Zeitschrift f. vergl. Sprachforschung}, a German
   hoe.  Some give the root as allied to Skr. {math}, stir, twirl,
   Lit. {mentùris}, whorl.
 <maoin>, wealth, Ir. @Ir{maoin}, O.Ir. @OIr{máin}: *{moini-}; Lat. {mūnus},
-  service, duty, gift (Eng. {munificence}), {communis}, common;
+  service, duty, gift (Eng. @Eng{munificence}), {communis}, common;
   Got. {ga-mains}, common, Eng. @Eng{mean}; Lit. {maínas}, exchange.
 <maoineas>, slowness; see @Ref{màidhean}.
 <maoirne>, a bait for a fishing hook (N.H.), @Ref<maoirnean>, the least
@@ -11382,7 +11386,7 @@ Zeit.           Kuhn's {Zeitschrift f. vergl. Sprachforschung}, a German
 <marg>, a merk: from the Eng. @Eng{mark}, Sc. {merk}, Norse {mo@'rk}, g.
   {markar}.
 <margadh>, a market, so Ir., M.Ir. @MIr{margad}, {marcad}, E.Ir. @EIr{marggad}
-  from M.Eng. {market}, from Lat. {mercatus}.
+  from M.Eng. @MEng{market}, from Lat. {mercatus}.
 <màrla>, marl, Ir. @Ir{márla}, W. @W{marl}; from Eng. @Eng{marl}.  The G. has
   the sense of "marble" also, where it confuses this word and
   Eng. @Eng{marble} together.
@@ -11495,7 +11499,7 @@ Zeit.           Kuhn's {Zeitschrift f. vergl. Sprachforschung}, a German
   Stokes suggest the stem *{maknâ}, *{mekno-}, root {mak}; Ag.S.
   {maga}, stomach, Ger. {magen}, Eng. @Eng{maw}.
 <meang.1>, guile, Ir. @Ir{meang}, E.Ir. @EIr{meng}: *{mengâ}; Gr. @Gr{μάγγανον},
-  engine (Eng. {mangle}), @Gr{μαγγανεύω}, juggle; Lat. {mango}, a
+  engine (Eng. @Eng{mangle}), @Gr{μαγγανεύω}, juggle; Lat. {mango}, a
   dealer who imposes.  Cf. N. {mang}, traffic, {monger}.
 <meang.2>, whey; Dial. for @Ref{mèag}.
 <meangan>, @Ref<meanglan>, a twig, Ir. @Ir{meangán}, {beangán}: *{mengo-},
@@ -11790,7 +11794,7 @@ Zeit.           Kuhn's {Zeitschrift f. vergl. Sprachforschung}, a German
   {my n-} is allied to Zend. {mana}, Lit. {manè} (for {me-né}), Ch.Sl. {mene}.
 <mò>, greater, Ir. @Ir{mó}, O.Ir. @OIr{móa}, {máo}, {máa}, {móo}, {mó}, W. @W{mwy},
   O.W. @OW{mui}, Corn. @Corn{moy}, Br. @Br{mui}: *{mâjôs}; Lat. {mâjor}, greater
-  (Eng. {major}); Got. {mais}, more (adv.), {maiza}, greater, Eng.
+  (Eng. @Eng{major}); Got. {mais}, more (adv.), {maiza}, greater, Eng.
   {more}: root {mâ} of @Ref{mór}, q.v.
 <mobainn>, maltreating, handling roughly; see @Ref{moibean}.
 <moch>, early, Ir. @Ir{moch}, early, O.Ir. @OIr{moch}, mane: *{moq-}; also O.Ir.
@@ -12006,7 +12010,7 @@ Zeit.           Kuhn's {Zeitschrift f. vergl. Sprachforschung}, a German
   memory; Gr. @Gr{μέριμνα}, care; Skr. {smarati}, think, mind,
   *{mori-gen-}.
 --page 257
-<mùirn>, joy, affection, Ir. @Ir{múirn}, {múirnín} (Eng. {mavourneen},
+<mùirn>, joy, affection, Ir. @Ir{múirn}, {múirnín} (Eng. @Eng{mavourneen},
   my darling), M.Ir. @MIr{múirn}, {muirn}: *{morni-}, root {mor}, {mer},
   {smer}, as in @Ref{muirichinn} above.
 <mùiseag>, a threat, @Ref<muiseag> (Arm.); from @Ref{mus} of @Ref{musach}.
@@ -12090,7 +12094,7 @@ Zeit.           Kuhn's {Zeitschrift f. vergl. Sprachforschung}, a German
 <mùsuinn>, confusion, tumult, Ir. @Ir{múisiún}, codlata, hazy state
   preceding sleep.  From Eng. @Eng{motion}?
 <mutach>, short, E.Ir. @EIr{mut}, everything short: *{mutto-}, root {mut},
-  dock; Lat. {mutilus}, maimed (Eng. {mutilate}), {muticus}, docked;
+  dock; Lat. {mutilus}, maimed (Eng. @Eng{mutilate}), {muticus}, docked;
   Gr. @Gr{μíτυλος}, hornless.
 <mùtan>, @Ref<mutan>, a muff, fingerless glove, also @Ref<mutag> (Arms.); from
   @Ref{miotag}, with a leaning on @Ref{mutach}, short.  Thurneysen takes
@@ -12239,7 +12243,7 @@ Zeit.           Kuhn's {Zeitschrift f. vergl. Sprachforschung}, a German
   {ness}, wound, as from *{nesko-}, root {neg}.
 <neimh>, poison, Ir. @Ir{nimh}, {neimh}, O.Ir. @OIr{nem}, pl. {neimi}: *{nemes-},
   "something given", root {nem-}, distribute (as in @Ref{nèamh})?
-<nèip>, a turnip; from the Sc. {neep}, M.Eng. {nēpe}, from Lat. {nâpus}.
+<nèip>, a turnip; from the Sc. {neep}, M.Eng. @MEng{nēpe}, from Lat. {nâpus}.
 <neo>, @Ref<air neo>, otherwise, alioquin (conj.); see @Ref{neo-}.
 <neo->, un-, Ir. @Ir{neamh-}, {neimh-}, M.Ir. @MIr{nem}, O.Ir. @OIr{neb-}, {neph-}: *{ne-bo-};
   the {ne} is the negative seen in @Ref{na.1}, @Ref{ni.1}, but the {bo} is doubtful.
@@ -12307,7 +12311,7 @@ Zeit.           Kuhn's {Zeitschrift f. vergl. Sprachforschung}, a German
   {ní is}.  Thus Ir.: An tan do thógradh ní ba mó do dheunamh
   = G. An @Ref{tan} a thogradh e na bu mhò a dhèanamh.  Hence
   <ni 's> should never have been used in Sc. Gaelic.
-<niùc>, a corner; from the Sc. {neuk}, M.Eng. {nōk}.  Dial. @Ref<iùc>.
+<niùc>, a corner; from the Sc. {neuk}, M.Eng. @MEng{nōk}.  Dial. @Ref<iùc>.
   Skeat thinks the Eng. is the borrower.
 <no>, or, vel, Ir. @Ir{ná}, E.Ir., O.Ir. @Ir@OIr{nó}, W. @W{neu}; see @Ref{na.2}.
 <nochd.1>, to-night, Ir. @Ir{anochd}, O.Ir. @OIr{innocht}, hac nocte: the art. and
@@ -12463,7 +12467,7 @@ Zeit.           Kuhn's {Zeitschrift f. vergl. Sprachforschung}, a German
   see @Ref{fobhannan}.
 <oighre.1>, ice, Ir. @Ir{oidhir}, M.Ir. @MIr{óigred}, E.Ir. @EIr{aigred}, snow; see @Ref{deigh}.
 <oighre.2>, an heir, so Ir., M.Ir. @MIr{oigir}; founded on Lat. {heres},
-  possibly on M.Eng. {heir} rather, which is from {heres}.
+  possibly on M.Eng. @MEng{heir} rather, which is from {heres}.
 <oighreag>, cloudberry; founded on Sc. {averin}.
 <oil.1>, vexation, offence, Ir. †{oil}.  The E.Ir. @EIr{áil} has {a} long, and is
   for {agli-}, Got. {agls}, disgraceful (Strachan).  The G. is perhaps
@@ -12513,7 +12517,7 @@ Zeit.           Kuhn's {Zeitschrift f. vergl. Sprachforschung}, a German
 <oisinn>, a corner, Ir. @Ir{isinn}, the temple, {fán na hoisean}, along the
   temple, E.Ir. @EIr{na-h-usine}, the temples: *{ad-stani-}, "out-standing"(?).
   See @Ref{ursainn}, {tarsainn}.
-<oisir>, an oyster, Ir. @Ir{oisre}; from M.Eng. {oistre}, from Fr. {oistre},
+<oisir>, an oyster, Ir. @Ir{oisre}; from M.Eng. @MEng{oistre}, from Fr. {oistre},
   from Lat. {ostrea}.
 <oistric>, ostrich, Ir. @Ir{ostrich}; from the Eng.
 <oit>, an interjection to denote the sense of burning heat; cf. O.Ir.
@@ -12622,7 +12626,7 @@ Zeit.           Kuhn's {Zeitschrift f. vergl. Sprachforschung}, a German
   {Óswine}, friend of the Anses; which should give respectively
   {Ásgar} and {Óisine}, but the initial vowels are both {o} short in
   @Ref{Oscar} and @Ref{Oisian}.  Doomsday Book has Osgar.
-<òsd>, @Ref<òsda>, @Ref<tigh òsda>, an inn, Ir. @Ir{tigh ósda}; from M.Eng. {ooste},
+<òsd>, @Ref<òsda>, @Ref<tigh òsda>, an inn, Ir. @Ir{tigh ósda}; from M.Eng. @MEng{ooste},
   {hóst}, hotel, house, hospitium, through Fr. from Lat. {hospitium}.
   Stokes takes it direct from O.Fr. {oste}.
 <osnadh>, a sigh, so Ir., O.Ir. @Ir@OIr{osnad}, W. @W{uchenaid}, {uch}, Br. @Br{huanad}.
@@ -12671,7 +12675,7 @@ Zeit.           Kuhn's {Zeitschrift f. vergl. Sprachforschung}, a German
   Lat. {paganus}, villager, pagan, whence Eng. @Eng{pagan}.
 <pàidhneachas>, a penalty, pledge; from @Ref{pàigh}, with leaning on
   @Ref{peanas}.
-<paidhir>, a pair; from English {pair}, M.Eng. {peire}, Fr. {paire}, from
+<paidhir>, a pair; from English @Eng{pair}, M.Eng. @MEng{peire}, Fr. {paire}, from
   Lat. {par}.  Cf., for phonetics, @Ref{faidhir} (fair) and @Ref{staidhir} (stair).
 <paidir>, the Lord's prayer, so Ir., M.Ir. @MIr{paiter}, O.Ir. @OIr{pater}, W.
   {pater}; from Lat. {pater} in {Pater noster}, etc., which begins the
@@ -12686,7 +12690,7 @@ Zeit.           Kuhn's {Zeitschrift f. vergl. Sprachforschung}, a German
 <pailleart>, a box on the ear, a blow with the palm: *{palm-bheart},
   "palm-action", from Lat. {palma}, palm; cf. W. @W{palfad}, stroke
   of the paw, Br. @Br{palfod}, blow on the cheek.
-<pàilliun>, a tent, Ir. @Ir{pailliún}; from M.Eng. {pailyoun} (Barbour),
+<pàilliun>, a tent, Ir. @Ir{pailliún}; from M.Eng. @MEng{pailyoun} (Barbour),
   {pavilon}, Fr. {pavillon}, from Lat. {papilionem}, a butterfuly -
   tents being called after the butterfly because spread out like
   its wings.  Stokes takes it direct from the Fr.
@@ -12708,14 +12712,14 @@ Zeit.           Kuhn's {Zeitschrift f. vergl. Sprachforschung}, a German
   Eng. @Eng{paper}.
 <paipin>, poppy, Ir. @Ir{paipín}, W. @W{pabi}; from Lat. {popaver}, whence
   Eng. @Eng{poppy}.
-<pàirc>, a park, Ir. @Ir{páirc}, W. @W{parc}, {parwg}; from M.Eng. {park},
-  {parrok}, now {park}.
+<pàirc>, a park, Ir. @Ir{páirc}, W. @W{parc}, {parwg}; from M.Eng. @MEng{park},
+  @MEng{parrok}, now @Eng{park}.
 <pairilis>, palsy, Ir., M.Ir. @MIr{pairilis}, W. @W{parlys}; from Lat. {paralysis},
   whence Eng. @Eng{palsy}.
 <pàirt>, a share, part, Ir. @Ir{páirt}, E.Ir. @EIr{pairt}, W. @W{parth}; from Lat.
   {pars}, {partis}, a part, whence Eng. @Eng{part}.  M.Ir. @MIr{pars}, point of
   time less than a minute.
-<pàisd>, a child, Ir. @Ir{páisde}; formed from M.Eng. {páge}, boy, Sc.
+<pàisd>, a child, Ir. @Ir{páisde}; formed from M.Eng. @MEng{páge}, boy, Sc.
   {page}, boy, now Eng. @Eng{page}.
 <paisean>, a fainting fit, Ir., M.Ir. @MIr{páis}, E.Ir. @EIr{paiss}, passio, suffering;
   from Lat. {passionem}, {patior}, suffer.
@@ -12730,7 +12734,7 @@ Zeit.           Kuhn's {Zeitschrift f. vergl. Sprachforschung}, a German
 <palmair>, a rudder, Ir. @Ir{palmaire}; see @Ref{falmadair}.
 <pàlas>, a palace, Ir. @Ir{pálas}, W. @W{palas}; from Lat. {palatium}, whence
   Eng. @Eng{palace}.
-<panna>, a pan; from M.Eng. {panne}, now {pan}.
+<panna>, a pan; from M.Eng. @MEng{panne}, now @Eng{pan}.
 <pannal>, @Ref<pannan>, a band or company, also @Ref<bannal>, q.v.; from
   Eng. @Eng{band}.
 <pàp>, the pope, Ir. @Ir{pápa}, O.Ir. @OIr{papa}, W., Br. @Br{pab}; from Lat. {papa},
@@ -12773,7 +12777,7 @@ Zeit.           Kuhn's {Zeitschrift f. vergl. Sprachforschung}, a German
   {filum}, thread.
 <pearsa>, a person, Ir. @Ir{pearsa}, g. {pearsan}, O.Ir. @OIr{pearsa}, g. {persine};
   from Lat. {persona}, Eng. @Eng{person}.
-<pearsail>, parsley, Ir. @Ir{pearsáil}; from M.Eng. {persil}, Eng. @Eng{parsley}.
+<pearsail>, parsley, Ir. @Ir{pearsáil}; from M.Eng. @MEng{persil}, Eng. @Eng{parsley}.
 <peasair>, pease, Ir. @Ir{pis}, a pea, pl. {piseanna}, W. @W{pys}, Br. pl. {piz};
   from Lat. {pisum}, Eng. @Eng{pease}.
 <peasan>, impudent fellow, varlet; from Eng. @Eng{peasant}.
@@ -12790,7 +12794,7 @@ Zeit.           Kuhn's {Zeitschrift f. vergl. Sprachforschung}, a German
 <peileasach>, frivolous; cf. Sc. {pell}, a soft, lazy person.
 <peileid.1>, cod, husk, bag:
 <peileid.2>, a slap on the head, the skull or crown of the head; in the
-  last sense, cf. Sc. {pallet}, crown of the head, M.Eng. {palet},
+  last sense, cf. Sc. {pallet}, crown of the head, M.Eng. @MEng{palet},
   head-piece.  In the sense of "slap", cf Eng. @Eng{pelt}.
 <peileir>, a bullet, Ir. @Ir{peileur}, L.M.Ir. @MIr{pelér}: from some French
   descendant of Lat. {pila}, ball, and allied to Eng. @Eng{pellet}, O.Fr.
@@ -12833,7 +12837,7 @@ Zeit.           Kuhn's {Zeitschrift f. vergl. Sprachforschung}, a German
 <pibhinn>, lapwing; from Sc. {peeweip}, Eng. @Eng{peewit}.  The true G. is
   @Ref<adharcan>, "horned one" (from @Ref{adharc}, because of the appearance
   of its head).
-<pic>, pitch, Ir. @Ir{pic}, W. @W{pyg}; from M.Eng. {pik}, now {pitch}.
+<pic>, pitch, Ir. @Ir{pic}, W. @W{pyg}; from M.Eng. @MEng{pik}, now @Eng{pitch}.
 <pìc>, a pike, Ir. @Ir{pice}, W. @W{pig}, from the Eng.
 <piceal>, pike, Ir. @Ir{picill} (Fol.); from the Eng.
 <pigeadh>, @Ref<pigidh>, earthen jar, Ir. @Ir{pigín}, W. @W{picyn}; from Eng., Sc.
@@ -12852,8 +12856,8 @@ Zeit.           Kuhn's {Zeitschrift f. vergl. Sprachforschung}, a German
   allied, if not borrowed, according to Skeat.  All are formed
   on Lat. {pellis} (see @Ref{peall}).  Sc. has {pillions} for "rags"; Br.
   {pill} (do.).
-<pinne>, a pin, peg, Ir. @Ir{pionn} (Lh.), W. @W{pin}; from M.Eng. {pinne},
-  now {pin}.
+<pinne>, a pin, peg, Ir. @Ir{pionn} (Lh.), W. @W{pin}; from M.Eng. @MEng{pinne},
+  now @Eng{pin}.
 <pinnt>, a pint, Ir. @Ir{piúnt} (Fol.); from the Eng.
 <pìob>, a pipe, a musical instrument, Ir. @Ir{píob}, E.Ir. @EIr{píp}, pl. {pipai}
   (Lib.Leinster), (music) pipe; from Med.Lat. {pîpa}, whence
@@ -12875,8 +12879,8 @@ Zeit.           Kuhn's {Zeitschrift f. vergl. Sprachforschung}, a German
   {pech}, {pechin}, panting, {peught}, asthmatic.  Onomatopoetic
   Cf. Lat. {pipire}, chirp, pipe.  W. has {peuo}, pant.
 <pioghaid>, @Ref<pigheid>, a magpie, Ir. @Ir{pioghaid} (Fol.), {pighead} (O'R.);
-  from Sc. {pyat}, {pyet}, diminutive of {pie}, M.Eng. {pye}, now
-  usually {mag-pie}.
+  from Sc. {pyat}, {pyet}, diminutive of {pie}, M.Eng. @MEng{pye}, now
+  usually @Eng{mag-pie}.
 <piol>, nibble, pluck; from Eng. @Eng{peel}, earlier, {pill}, {pyll}, peel, pluck,
   ultimately from Lat. {pellis}.  Also @Ref<spiol>, q.v.  W. has {pilio},
   peel, strip.
@@ -12890,7 +12894,7 @@ Zeit.           Kuhn's {Zeitschrift f. vergl. Sprachforschung}, a German
 <piorr>, scrape or dig (H.S.D.), stab, make a lunge at one (M`A.);
   the first sense seems from Sc., Eng. @Eng{pare}; for the second, see
   @Ref{purr}.
-<piorradh>, a squall, blast; from L.M.Eng. {pirry}, whirlwind,
+<piorradh>, a squall, blast; from L.M.Eng. @MEng{pirry}, whirlwind,
   blast, Sc. {pirr}, gentle breeze, Norse {byrr}, root {bir}, {pir}, of
   onomatopoetic origin (Skeat, sub {pirouette}, for Eng.).
 <pìos.1>, a piece, Ir. @Ir{píosa}; from Eng. @Eng{piece}, Fr. {pièce}, Low Lat.
@@ -12936,7 +12940,7 @@ Zeit.           Kuhn's {Zeitschrift f. vergl. Sprachforschung}, a German
   the case stands, has most to say for it; cf. G. @Ref<peallaid>,
   sheepskin.  Dunbar's "Hieland {Pladdis}".
 <plàigh>, a plague, Ir. @Ir{pláigh}, E.Ir. @EIr{plág}, W. @W{pla}; from Lat. {plâga},
-  disaster, M.Eng. {pláge}, Eg. {plague}.
+  disaster, M.Eng. @MEng{pláge}, Eng. @Eng{plague}.
 <plais>, a splash; from Sc. {plash}, to strike water suddenly, Eng.
   {plash}, {splash}.
 <plam>, anything curdled: cf. Br. @Br{plommein}, a clot, as of blood.
@@ -12973,7 +12977,7 @@ Zeit.           Kuhn's {Zeitschrift f. vergl. Sprachforschung}, a German
 <pleat>, a plait; from Sc. {plett}, Eng. @Eng{plait}.
 <pleid>, solicitationn; see @Ref{bleid}.
 <pleigh>, quarrel, fight, Ir. @Ir{pléidh}, debate; Sc. {pley}, quarrel, debate,
-  all from M.Eng. {pleie}, {plege}, Ag.S. {plega}, game, fight, Eng.
+  all from M.Eng. @MEng{pleie}, @MEng{plege}, Ag.S. {plega}, game, fight, Eng.
   {play}.
 <pleoisg>, @Ref<plodhaisg>, a booby, simpleton; cf. W. @W{bloesg}, a stammerer
   ({mlaisqo-}), Skr. {mlecchati}, talk barbarously, {mleccha},
@@ -13017,23 +13021,23 @@ Zeit.           Kuhn's {Zeitschrift f. vergl. Sprachforschung}, a German
   form of @Ref{ploc}.  M.Ir. has {plucc}, club or mace.  Cf. Sc. {pluke},
   a pimple.
 <pluc.2>, pluck, Manx {pluck}; from the Eng.
-<plùc>, beat, thump; from M.Eng. {pluck}, a stroke.
+<plùc>, beat, thump; from M.Eng. @MEng{pluck}, a stroke.
 <plucas>, the flux; founded on Lat. {fluxus}?
 <plùch>, squeeze, compress, Ir. @Ir{pluchaim}, Manx {ploogh}, suffocation:
 <pluic>, cheek, blub cheek, Ir. @Ir{pluc}: "puffed cheek"; from @Ref{ploc}.
 <pluideach>, club-footed; see @Ref{pliut}.
-<plùirean>, a flower, Ir. @Ir{plúr}; from M.Eng. {flour} (now {flower}),
+<plùirean>, a flower, Ir. @Ir{plúr}; from M.Eng. @MEng{flour} (now @Eng{flower}),
   O.Fr. {flour} (now {fleur}).
 <plum>, plunge into water; see @Ref{plumb}.
 <plùm>, one who sits stock still, dead calm:
 <pluma>, @Ref<plumba>, a plummet, Ir. @Ir{plumba}; from Eng. @Eng{plumb}, Fr.
   {plomb}, from Lat. {plumbum}, lead.
 <plumb>, noise of fallinng into water, plunge; from Eng. @Eng{plump}.
-<plumbas>, @Ref<plumbais>, a plum, Ir. @Ir{pluma}; from M.Eng. {ploume},
-  now @Ref{plum}.
+<plumbas>, @Ref<plumbais>, a plum, Ir. @Ir{pluma}; from M.Eng. @MEng{ploume},
+  now @Eng{plum}.
 <plundrainn>, plunder, booty; from Eng. @Eng{plundering}.
-<plùr>, flour, Ir. @Ir{flúr}; from M.Eng. {flour}; same as Eng. @Eng{flower},
-  {flour} being for "flower of wheat".
+<plùr>, flour, Ir. @Ir{flúr}; from M.Eng. @MEng{flour}; same as Eng. @Eng{flower},
+  @Eng{flour} being for "flower of wheat".
 <plutadh>, falling down, as of rain; from Sc. {plout}, Belg. {plotsen},
   Ger. {plotzlich}, sudden, from *{plotz}, "quickly falling blow".
 <pobull>, people, Ir. @Ir{pobal}, O.Ir. @OIr{popul}, W., Br. @Br{pobl}, Corn. @Corn{pobel};
@@ -13041,8 +13045,8 @@ Zeit.           Kuhn's {Zeitschrift f. vergl. Sprachforschung}, a German
 <poca>, a bag; from Sc. {pock}, Ag.S. {poca}, Norse {poki}, O.Fr. {poche}.
 --page 280
 <pòca>, @Ref<pòcaid>, pocket, pouch, Ir. @Ir{póca}, {pócait} (F.M.), bag, pouch;
-  from M.Eng. {póke}, Ag.S. {poca}, as @Ref{poca}.  Eng. @Eng{pocket},
-  M.Eng. {poket}, is a diminutive.  K.Meyer takes the Ir. from
+  from M.Eng. @MEng{póke}, Ag.S. {poca}, as @Ref{poca}.  Eng. @Eng{pocket},
+  M.Eng. @MEng{poket}, is a diminutive.  K.Meyer takes the Ir. from
   the Norse {poki}.
 <pòg>, @Ref<pàg>, a kiss, Manx {paag}, Ir. @Ir{póg}, O.Ir. @OIr{póc}, {pócnat}, osculum,
   W. @W{póc}, Br. @Br{pok}; from Lat. {pâcem}, "the kiss of peace", which
@@ -13111,7 +13115,7 @@ Zeit.           Kuhn's {Zeitschrift f. vergl. Sprachforschung}, a German
   side form of @Ref{pronn.3}, q.v.
 <prais>, brass, pot-metal (Arm.), pot (M`A.), @Ref<pràis>, brass (H.S.D.,
   M`L., M`E.), Manx {prash}, Ir. @Ir{práis}, {prás}, W. @W{pres}; from
-  M.Eng. {bras}, Ag.S. {bræs}.  Hence @Ref<praiseach>, bold woman,
+  M.Eng. @MEng{bras}, Ag.S. {bræs}.  Hence @Ref<praiseach>, bold woman,
   concubine, meretrix.
 <praiseach>, broth, pottage, etc., Ir. @Ir{praiseach}, pottage, kale, M.Ir.
   {braissech}, W. @W{bresych}, cabbages; from Lat. {brassica}, cabbage.
@@ -13138,7 +13142,7 @@ Zeit.           Kuhn's {Zeitschrift f. vergl. Sprachforschung}, a German
 <preas.3>, a wrinkle, fold; from the Eng. @Eng{press}.
 <preathal>, confusion of mind, dizziness; see @Ref{breitheal}.
 <prighig>, fry; from the Eng. @Eng{frying}.
-<prìne>, a pin; from the Sc. {preen}, M.Eng. {prēon}, Ag.S. {préon},
+<prìne>, a pin; from the Sc. {preen}, M.Eng. @MEng{prēon}, Ag.S. {préon},
   Norse {prjónn}, Ger. {pfriem}.
 <priobadh>, winking, twinkling (of the eye), Ir. @Ir{prap} in {le prap na
   súl}, in the twinkling of the eyes (Keating), from @Ref{prap},
@@ -13155,7 +13159,7 @@ Zeit.           Kuhn's {Zeitschrift f. vergl. Sprachforschung}, a German
   Zim. (@ExtRef{Zeit.;32;223}) cites {brofte}, momentary, and says {brafad}
   is made from {bro}, eyebrow, falsely.
 <priobaid>, a trifle, @Ref<priobair>, a worthless fellow; from Sc. {bribour},
-  low beggarly fellow, M.Eng. {bribour}, rascal, thief; from
+  low beggarly fellow, M.Eng. @MEng{bribour}, rascal, thief; from
   O.Fr. {bribeur}, beggar, vagabond, {briber}, to beg, {bribe}, morsel
   of bread, Eng. @Eng{bribe}.  Hence <priobaid> is from an early
   Northern form of Eng. @Eng{bribe}.  See @Ref{breaban} further.
@@ -13163,9 +13167,9 @@ Zeit.           Kuhn's {Zeitschrift f. vergl. Sprachforschung}, a German
   {prím}, W. @W{prif}; from Lat. {primus}, first, Eng. @Eng{prime}.
 <prìonnsa>, a prince, so Ir., M.Ir. @MIr{prindsa}; from M.Eng. and Fr.
   {prince} (Stokes takes it from Fr. direct).
-<prìosan>, prison, Ir. @Ir{príosún}, M.Ir. @MIr{prísún}; from M.Eng. {prisoun},
+<prìosan>, prison, Ir. @Ir{príosún}, M.Ir. @MIr{prísún}; from M.Eng. @MEng{prisoun},
   from O.Fr. {prison} (Stokes takes it from O.Fr. {prisun}).
-<prìs>, price, W. @W{pris}; from M.Eng. {prīs}, from O.Fr. {prīs}, Lat.
+<prìs>, price, W. @W{pris}; from M.Eng. @MEng{prīs}, from O.Fr. {prīs}, Lat.
   {pretium}.
 <probhaid>, profit; from the Eng.
 <procach>, a year-old stag (Rob Donn):
@@ -13197,7 +13201,7 @@ Zeit.           Kuhn's {Zeitschrift f. vergl. Sprachforschung}, a German
 <prothaisd>, a provost; from the Eng.
 <pubull>, a tet, Ir. @Ir{pupal}, g. {puible}, O.Ir. @OIr{pupall}, W. @W{pabell}, {pebyll};
   from Lat. {papilio}, butterfly, tent, Eg. {pavilion}.  See @Ref{pàilliun}.
-<pùc>, push, jostle; from the Sc. {powk}, thrust, dig, M.Eng. {pukken},
+<pùc>, push, jostle; from the Sc. {powk}, thrust, dig, M.Eng. @MEng{pukken},
   {pouken}, {póken}, to thrust, poke, Eng. @Eng{poke}, Ger. {pochen}, knock,
   Dial. @Ref<fùc>.
 <pucaid>, a pimple; see @Ref{bucaid}.
@@ -13208,7 +13212,7 @@ Zeit.           Kuhn's {Zeitschrift f. vergl. Sprachforschung}, a German
 <puicean>, a veil, covering, Ir. @Ir{puicín}:
 <puidse>, a pouch; from the Eng.
 <puinneag>, sorrel:
-<puinneanach>, beat, thump; from M.Eng. {pounen}, now {pound},
+<puinneanach>, beat, thump; from M.Eng. @MEng{pounen}, now {pound},
   Ag.S. {punian}.
 <puinse>, punch, toddy; from Eng. @Eng{punch}.
 <puinsean>, @Ref<puision>, poison; from the Eng.  Manx has {pyshoon}.
@@ -13228,7 +13232,7 @@ Zeit.           Kuhn's {Zeitschrift f. vergl. Sprachforschung}, a German
 <punnd.2>, a place for securing stray cattle, a pound; from the Eng.
   {pound}.
 <punntainn>, @Ref<funntainn>, benumbment by cold or damp; cf. Eng.
-  {swoon}, M.Eng. {swoghne}, *{swog-}.  Cf. Sc. {fundy}.
+  {swoon}, M.Eng. @MEng{swoghne}, *{swog-}.  Cf. Sc. {fundy}.
 <punntuinn>, see @Ref{punntainn}.
 ---gjk (1.14) inserted entry
 <purgaid>, a purge, Ir. @Ir{purgóid}; from Lat. {purgatio}, Eng. @Eng{purgation},
@@ -13244,7 +13248,7 @@ Zeit.           Kuhn's {Zeitschrift f. vergl. Sprachforschung}, a German
   thrust, Low.Ger. {purren}, poke about; further Eng. @Eng{pore}.
 <pus>, a cat, Ir. @Ir{pus}; from the Eng.
 <put.1>, the cheek (Stew., H.S.D.); from Eng. @Eng{pout}.
-<put.2>, thrust, push; from Sc. {put}, push, thrust, M.Eng. {puten},
+<put.2>, thrust, push; from Sc. {put}, push, thrust, M.Eng. @MEng{puten},
   push, now Eng. @Eng{put}.  Also G. @Ref<but>, @Ref<butadh>.
 <pùt.1>, young of moorfowl; from Sc. {pout} (do.), Eng. @Eng{poult}, chicken,
   from Fr. {poulet}, from Lat. {pulla}, a hen, {pullus}, young fowl.
@@ -13278,7 +13282,7 @@ Zeit.           Kuhn's {Zeitschrift f. vergl. Sprachforschung}, a German
 <rabhd>, idle talk: *{ro-bant}, root {ba}, speak, as in @Ref{rabhan}.
 <rac>, the ring kepping the yard to the mast, the "traveller"; from
   Norse {rakki} (do.).
-<ràc.1>, a rake, Ir. @Ir{ráca}, W. @W{rhacan}; from M.Eng. {rake}, Eng. @Eng{rake}.
+<ràc.1>, a rake, Ir. @Ir{ráca}, W. @W{rhacan}; from M.Eng. @MEng{rake}, Eng. @Eng{rake}.
 <ràc.2>, a drake; from the Eng., earlier Eng. @Eng{endrake}.  The loss of {d}
   is due to the article.
 <racadh>, tearing; see @Ref{sracadh}.
@@ -13301,8 +13305,8 @@ Zeit.           Kuhn's {Zeitschrift f. vergl. Sprachforschung}, a German
 <rachd.2>, strength (Carm.):
 <rachdan>, a tartan plaid worn mantle-wise:
 <racuis>, rack, roasting apparatus, Ir. @Ir{raca}; from the Eng. @Eng{rack},
-  M.Eng. {racke}.
-<radan>, a rat; from Sc. {ratton}, M.Eng. {raton}, now {rat}.
+  M.Eng. @MEng{racke}.
+<radan>, a rat; from Sc. {ratton}, M.Eng. @MEng{raton}, now @Eng{rat}.
 <ràdh>, sayinng, Ir. @Ir{rádh}, O.Ir. @OIr{rád}, {ráidiu}, I speak: I.E. @IE{rôdh-éjô};
   Got. {rôdja}, I speak; Skr. {râdhayati}, brings about; root {rēdh},
   {rē-dh}, {rē}, of Lat. {reor}, think, {ratio}, reason.
@@ -13405,7 +13409,7 @@ Zeit.           Kuhn's {Zeitschrift f. vergl. Sprachforschung}, a German
 †<ràth.3>, a fortress, residence, Ir. @Ir{ráth}, E.Ir. @EIr{ráth}, {ráith}, g. {rátha},
   Gaul. {ratin}, {Argento-ratum}: *{râti-s}, *{râto-n}; cf. Lat. {prâtum},
   a mead.  W. @W{rhath}, cleared spot; borrowed from G.? (Rhys).
-<rathad>, a road, Ir. @Ir{ráthad}, {ród}; from M.Eng. {roade}, road, Ag.S.
+<rathad>, a road, Ir. @Ir{ráthad}, {ród}; from M.Eng. @MEng{roade}, road, Ag.S.
   {rád}; cf. M.Ir. @MIr{ramhad} (O'Cl.), E.Ir. @EIr{ramut} (Corm.).
 <ré.1>, the moon, Ir., O.Ir. @Ir@OIr{ré}, luna: *{revi}, Skr. {ravi}, sun.
 <ré.2>, time, space, Ir. @Ir{ré}, O.Ir. @OIr{ré}, g. {ree}, space: *{revesi-}, the {e} form
@@ -13499,8 +13503,8 @@ Zeit.           Kuhn's {Zeitschrift f. vergl. Sprachforschung}, a German
   {retglu}, g. {retgland} ("{rét glé}, bright thing", Corm.); perhaps
   {rét}, thing, and *{gland}, shining, Ger. {glanz} (see @Ref{gleus}).
 <reumail>, constant (Arms.); from @Ref{réim.2}, course.
-<reusan>, reason, Ir. @Ir{reusun}, M.Ir. @MIr{résún}, from M.Eng. {reisun}, now
-  {reason}.
+<reusan>, reason, Ir. @Ir{reusun}, M.Ir. @MIr{résún}, from M.Eng. @MEng{reisun}, now
+  @Eng{reason}.
 <reusbaid>, a beggar's brat (Arran), a rascal:
 <ri>, to, against, Ir. @Ir{re}, O.Ir. @OIr{ri}, {fri}, in composition @Ref{frith-}, {fris-}, @Ref{fre-},
   W. @W{gwrth}, {wrth}, versus, contra, re-, Corn. @Corn{orth}, Br. @Br{ouz}; *{vṛti},
@@ -13556,9 +13560,9 @@ Zeit.           Kuhn's {Zeitschrift f. vergl. Sprachforschung}, a German
 <rib>, hair, snare, Ir. @Ir{ribe}, {ruibe}, hair, whisker.  See next words.
 <ribeag>, rag, tassel, fringe, @Ref<ribean>, riband, Ir. @Ir{ribeóg}, rag, tassel,
   {ribleach}, a long line, anything tangled, {ribín}, riband; from
-  M.Eng. {riban}, O.Fr. {riban} (Br. {ruban}).
+  M.Eng. @MEng{riban}, O.Fr. {riban} (Br. {ruban}).
 <ribheid>, a reed, bagpipe reed, musical note, Ir. @Ir{ribheid}; from
-  M.Eng. {rēod}, now {reed}.
+  M.Eng. @MEng{rēod}, now @Eng{reed}.
 <rìbhinn>, @Ref<rìoghann>, a nymph, young lady, quean, Ir. @Ir{ríoghan},
   queen, E.Ir. @EIr{rígan}, a derivative of @Ref{rìgh}, king.  Gaelic leans,
   by proper etymology, on {rìgh-bhean}.
@@ -13628,7 +13632,7 @@ Zeit.           Kuhn's {Zeitschrift f. vergl. Sprachforschung}, a German
   and, probably, the first meaning is of the same origin.  See,
   however, @Ref{racadh}.
 --page 293
-<ròcas>, a crow; from Norse {hrókr}, M.Eng. {rook}, Ag.S. {hróc}.
+<ròcas>, a crow; from Norse {hrókr}, M.Eng. @MEng{rook}, Ag.S. {hróc}.
 <ròchd>, a cough, retching (Dial.); see @Ref{ròc}.
 <ròd.1>, a way, road, Ir. @Ir{ród}, E.Ir. @EIr{ród}; from Ag.S. {rád}, M.Eng.
   {rode}, now {road}.
@@ -13684,7 +13688,7 @@ Zeit.           Kuhn's {Zeitschrift f. vergl. Sprachforschung}, a German
 <ròist>, roast, Ir. @Ir{rósdaim}, W. @W{rhostio}; from the Eng. @Eng{roast}, O.Fr.
   {rostir}, from O.H.G. {rôst}, craticula.
 <roithlean>, a wheel, pulley, Ir. @Ir{roithleán}; from @Ref{roth}, q.v.
-<rol>, @Ref<rola>, a roll, volume, Ir. @Ir{rolla}; from M.Eng. {rolle}, O.Fr. {rolle},
+<rol>, @Ref<rola>, a roll, volume, Ir. @Ir{rolla}; from M.Eng. @MEng{rolle}, O.Fr. {rolle},
   Lat. {rotula}; now Eng. @Eng{roll}.
 <ròlaist>, a romance, exaggeration; cf. Sc., Eng. @Eng{rigmarole}.
 <ròmach>, hairy, rough:
@@ -13699,7 +13703,7 @@ Zeit.           Kuhn's {Zeitschrift f. vergl. Sprachforschung}, a German
   Zimmer suggests Norse {hreinn}, reindeer, Ag.S. {hrán}.  Cf.
   names {Rónán}, {Rónóc}, {Mac Ronchon}.
 <rong.1>, a joining spar, rung, boat-rib, @Ref<rongas>, @Ref<rungas> (Dial.), Ir.
-  {runga}; from M.Eng. {ronge}, rung of a ladder, {runge}, Ag.S.
+  {runga}; from M.Eng. @MEng{ronge}, rung of a ladder, {runge}, Ag.S.
   {hrung}; now Eng. @Eng{rung}; N. {röng}, main rafter, pole.  The
   words @Ref{reang.3} and {rang} or @Ref{rangan}, "boat-rib", are from the
   Norse.
@@ -13712,7 +13716,7 @@ Zeit.           Kuhn's {Zeitschrift f. vergl. Sprachforschung}, a German
   or person".
 <ronn>, a slaver, a spittle, E.Ir. @EIr{ronna}, running of the nose: *{runno-};
   cf. Eng. @Eng{run}.
-<ròp>, a rope, Ir. @Ir{rópa}; from M.Eng. {rope}, {roop}, Ag.S. {ráp}; now
+<ròp>, a rope, Ir. @Ir{rópa}; from M.Eng. @MEng{rope}, @MEng{roop}, Ag.S. {ráp}; now
   Eng. @Eng{rope}.
 <ròpach>, slovenly, squalid, Ir. @Ir{rúpach}, a young slut: *{roub-tho-}; cf.
   Eng. @Eng{rub}.
@@ -13736,7 +13740,7 @@ Zeit.           Kuhn's {Zeitschrift f. vergl. Sprachforschung}, a German
   explained as "promontorium nemorosum", with which is
   compared W. @W{rhos}, a moor, waste, coarse highland, Br. @Br{ros}, a
   knoll.
-<ròs.1>, rose, Ir. @Ir{rósa}, M.Ir. @MIr{rós}, W. @W{rhosyn}; from the M.Eng. {rose},
+<ròs.1>, rose, Ir. @Ir{rósa}, M.Ir. @MIr{rós}, W. @W{rhosyn}; from the M.Eng. @MEng{rose},
   Ag.S. {róse}, from Lat. {rŏsa}.  The word {ròs} has also the metaphoric
   meaning of "erysipelas".
 <ròs.2>, knowledge (Carm.):
@@ -13814,7 +13818,7 @@ Zeit.           Kuhn's {Zeitschrift f. vergl. Sprachforschung}, a German
 <rug.2>, caught, Ir. @Ir{rug}, E.Ir. @EIr{ruc}, {rucc}, tulit, O.Ir. @OIr{rouic}: *{ro+ucc-},
   where {ucc} = *{ud-gos-a}, root {ges}, carry, Lat. {gero}, {gestum}.  See
   @Ref{thug}.
-<ruga>, rough cloth (M`A.); from Eng. @Eng{rug}, M.Eng. {ruggi}, hairy,
+<ruga>, rough cloth (M`A.); from Eng. @Eng{rug}, M.Eng. @MEng{ruggi}, hairy,
   Sw. {ruggig}.
 <rugadh>, a greedy grasping of anything; from Sc. {rook}, deprive of,
   {rookit}, cleared out.
@@ -13826,7 +13830,7 @@ Zeit.           Kuhn's {Zeitschrift f. vergl. Sprachforschung}, a German
 <ruic>, undesirable fondness (M`D.):
 <ruicean>, a pimple: *{rud-ki-}, from @Ref{rud}, {roud}, red, as in @Ref{ruadh}.
 <ruidhil.1>, @Ref<ruidhle> (Arg.), a dance; see @Ref{ruithil}.
-<ruidhil.2>, a yarn reel; from M.Eng. {reel}, {hréol}, Ag.S. {hréol}.
+<ruidhil.2>, a yarn reel; from M.Eng. @MEng{reel}, @MEng{hréol}, Ag.S. {hréol}.
 <ruidhleadh>, rolling; from @Ref{ruith}, @Ref{roth}.
 <ruidhtear>, a glutton, riotous liver; from Eng. @Eng{rioter}.
 <ruididh>, merry, frisky, Ir. @Ir{ruidéiseach}, from {ruidéis}, a sporting
@@ -13938,8 +13942,8 @@ Zeit.           Kuhn's {Zeitschrift f. vergl. Sprachforschung}, a German
 <saigh>, a bitch, Ir. @Ir{saith} (Con., Lane, etc.), {sagh}, {saighín} (O'Br.),
   M.Ir. @MIr{sogh}, {sodh}, E.Ir. @EIr{sod}, bitch, she-wolf:
 <saighdear>, soldier, archer, Ir. @Ir{sáighdiur} (do.), M.Ir. @MIr{saigdeoir},
-  sagittarius, W. @W{sawdwr}, soldier; from M.Eng. {soudiour},
-  {sougeour}, Sc. {sodger}, now {soldier}, confused in Gadelic with an
+  sagittarius, W. @W{sawdwr}, soldier; from M.Eng. @MEng{soudiour},
+  @MEng{sougeour}, Sc. {sodger}, now {soldier}, confused in Gadelic with an
   early borrow from Lat. {sagittarius}, archer.
 <saighead>, an arrow, so Ir., O.Ir. @Ir@OIr{saiget}, W. @W{saeth}, Corn. @Corn{seth}, Br.
   {saez}; from Lat. {sagitta}.  For root see @Ref{ionnsuidh}.
@@ -13955,7 +13959,7 @@ Zeit.           Kuhn's {Zeitschrift f. vergl. Sprachforschung}, a German
 <saill.2>, salt thou, Ir., O.Ir. @Ir@OIr{saillim}, condio, *{saldio}, salt: *{salni-};
   see @Ref{salann}.
 <sailm>, a decoction, oak-bark decoction to staunch blood, a consumption
-  pectoral; founded on M.Eng. {salfe}, now {salve}?
+  pectoral; founded on M.Eng. @MEng{salfe}, now @Eng{salve}?
 <sàimhe>, luxury, sensuality, Ir. @Ir{sáimhe}, peace, luxury, E.Ir. @EIr{sáim},
   pleasant: *{svadmi-}; Eng. @Eng{sweet}, Gr. @Gr{ἑδύς}, etc.  But cf.
   @Ref{sàmhach}.
@@ -14003,7 +14007,7 @@ Zeit.           Kuhn's {Zeitschrift f. vergl. Sprachforschung}, a German
   {same}.
 <samhainn>, see @Ref{samhuinn}.
 ---gjk (1.14) inserted entry
-<samhan>, savin-bush, Ir. @Ir{samhán}; from Eng. @Eng{savin}, M.Eng. {saveine},
+<samhan>, savin-bush, Ir. @Ir{samhán}; from Eng. @Eng{savin}, M.Eng. @MEng{saveine},
   Ag.S. {savine}, Lat. {sabina}.
 <samhnan>, @Ref<samhnachan>, a large river trout (H.S.D., Dial.):
 <samhradh>, summer, Ir. @Ir{samhradh}, {sámhradh}, E.Ir. @EIr{samrad}, {sam},
@@ -14015,9 +14019,9 @@ Zeit.           Kuhn's {Zeitschrift f. vergl. Sprachforschung}, a German
   from {sam}, summer, and @Ref{fuin}, end, sunset, {fuinim}, I end, *{vo-nesô},
   root {nes}, as in @Ref{còmhnuidh}, q.v. (Stokes).  For @Ref{fuin}, Kluge
   suggests *{wen}, suffer (Got. {winnan}, suffer); Zimmer favours
-  Skr. {van}, hurt (Eng. {wound}); and Ascoli analyses it into
+  Skr. {van}, hurt (Eng. @Eng{wound}); and Ascoli analyses it into
   {fo-in-}.  Dr Stokes, however, takes {samain} from the root {som},
-  same (Eng. {same}, Gr. @Gr{ὁμός}, like, Lat. {simul}, whence Eng.
+  same (Eng. @Eng{same}, Gr. @Gr{ὁμός}, like, Lat. {simul}, whence Eng.
   {assemble}; see @Ref{samhuil}), and makes *{samani-} mean "assembly"
   - the gathering at Tara on 1st November, while {Cét-shamain},
   our @Ref{Céitein}, was the "first feast", held on 1st May.
@@ -14116,7 +14120,7 @@ Zeit.           Kuhn's {Zeitschrift f. vergl. Sprachforschung}, a German
   See further under @Ref{seasg}.
 <seach>, by, past, Ir. @Ir{seach}, O.Ir. @OIr{sech}, ultra, praeter, W. @W{heb}, without,
   Corn. @Corn{heb}, Br. @Br{hep}, without: *{seqos}; Lat. {secus}, otherwise,
-  by, {sequor}, I follow (Eng. {prosecute}, etc.); Gr. @Gr{ἑπομαι}, I follow,
+  by, {sequor}, I follow (Eng. @Eng{prosecute}, etc.); Gr. @Gr{ἑπομαι}, I follow,
   Skr has {sácâ}, with, together, Zend {haca}, out, for.  Hence G.
   and Ir. @Ref<seachad>, past, G. and Ir. @Ref<seachain>, avoid.
 <seachd>, seven, Ir. @Ir{seachd}, O.Ir. @OIr{secht n-}, W. @W{saith}, Corn. @Corn{seyth}, Br.
@@ -14338,7 +14342,7 @@ Zeit.           Kuhn's {Zeitschrift f. vergl. Sprachforschung}, a German
   {shachlin}, verb {shachle}, shuffle in walking, allied to Eng.
   {shackle}, {shake}.
 <seòd>, @Ref<siad.3>, a hero, a jewel, Ir. @Ir{seód}, a jewel; see @Ref{sud}, jewel.
-<seòg>, swing to and fro, dandle; from Sc. {shog}, M.Eng. {shoggin},
+<seòg>, swing to and fro, dandle; from Sc. {shog}, M.Eng. @MEng{shoggin},
   M.Du. {shocken}.
 <seòl.1>, method, way, Ir. @Ir{seól} a method of doing a thing, {seólaim}, I
   direct, steer; E.Ir. @EIr{seól}, course; W. @W{hwyl}, course, condition.
@@ -14406,11 +14410,11 @@ Zeit.           Kuhn's {Zeitschrift f. vergl. Sprachforschung}, a German
   a noise by hitting; Norse {skella}, slap, clatter ({skjalla}), Ger.
 --page 310
   {schallen}, resound; Lit. {skaliu}, give tongue (as a hunting dog).
-  Cf. Sc. and M.Eng. {skelp}.  Also @Ref<sgailleag>.
+  Cf. Sc. and M.Eng. @MEng{skelp}.  Also @Ref<sgailleag>.
 <sgailc.2>, a bald pate, baldness, @Ref<sgall>, baldness, Ir. @Ir{sgallta}, bald,
   bare, {scallach}, bald; from Norse {skalli}, a bald head, Sw.
   {skallig}, bald, {skala}, peel, {skal}, husk, Eng. @Eng{scale}.  The G.
-  @Ref{sgailc.2} is possibly from M.Eng. {scalc}, scalp; but @Ref<sgall> is
+  @Ref{sgailc.2} is possibly from M.Eng. @MEng{scalc}, scalp; but @Ref<sgall> is
   clearly Norse.
 <sgàin>, burst, rend, Ir. @Ir{sgáinim}: *{skad-no-}, root {skhad}, {sked}, {skha},
   split, rend, cut; Gr. @Gr{σκεδάννυμι}, scatter; Skr. {skhádate}, split,
@@ -14529,7 +14533,7 @@ Zeit.           Kuhn's {Zeitschrift f. vergl. Sprachforschung}, a German
   kernel; root {sqel}, separate, Eng. @Eng{shell}, etc.  Stkes equates
   Ir. @Ir{scellán}, kernel, with Lat. {scilla}, squill, sea-onion, Gr.
   @Gr{σκíλλα}.
-<sgealp>, a slap; from Sc. {skelp}, M.Eng. {skelp}.
+<sgealp>, a slap; from Sc. {skelp}, M.Eng. @MEng{skelp}.
 <sgeamh.1>, yelp, Ir. @Ir{sceamh}, E.Ir. @EIr{scem}, {scemdacht}; cf. @Ref{sgeamh.2}.
   Also G. @Ref<sgiamh.2>, @Ref<sgiamhail>, to which Ernault compares
   M.Br. @MBr{hueual}, cry like a fox.
@@ -14544,7 +14548,7 @@ Zeit.           Kuhn's {Zeitschrift f. vergl. Sprachforschung}, a German
   blade (Arg.).
 <sgeann>, a stare, gazing upon a thing:
 --page 313
-<sgeap>, a beehive; from the Sc. {skep}, M.Eng. {skeppe}, a skep,
+<sgeap>, a beehive; from the Sc. {skep}, M.Eng. @MEng{skeppe}, a skep,
   carrying basket, Norse {skeppa}, a measure.
 <sgeig>, mockery, Ir. @Ir{sgige}, M.Ir. @MIr{scige}: *{skeggio-}:
 <sgeigeach>, having a prominent chin or a beard of strong, straight
@@ -14690,7 +14694,7 @@ Zeit.           Kuhn's {Zeitschrift f. vergl. Sprachforschung}, a German
   neighbours (M`A.):
 <sgiùnach.2>, a bold, shameless woman (H.S.D.):
 <sgiurdan>, a squirt; from the Eng.
-<sgiùrs>, scourge, Ir. @Ir{sgiúrsaim}, W. @W{ysgors}; from M.Eng. {scourge},
+<sgiùrs>, scourge, Ir. @Ir{sgiúrsaim}, W. @W{ysgors}; from M.Eng. @MEng{scourge},
   Lat. {excoriare}.
 <sgiùthadh>, a lash, stroke with a whip (H.S.D. says Dial.; M`A.
   says North):
@@ -14724,7 +14728,7 @@ Zeit.           Kuhn's {Zeitschrift f. vergl. Sprachforschung}, a German
 <sgleogair>, a troublesome prattler, liar:
 <sgleòid>, a silly person, slattern, Ir. @Ir{scleóid}; also @Ref<gleòid>:
 <sgliamach>, slippery-faced (M`L.):
-<sgliat>, slate, Ir. @Ir{scláta}; from M.Eng. {sclat}, now {slate}.
+<sgliat>, slate, Ir. @Ir{scláta}; from M.Eng. @MEng{sclat}, now @Eng{slate}.
 <sglìmeach>, troublesome, as an unwelcome guest:
 <sgliobhag>, a slap (Dial.); cf. Sc. {sclaff}, {sclaffert}.
 --page 317
@@ -14911,8 +14915,8 @@ Zeit.           Kuhn's {Zeitschrift f. vergl. Sprachforschung}, a German
   In Sutherland, @Ref<sgulag> means "a basket for holding the
   linen".
 <sgulanach>, flippant, evil tongued (Carm.):
-<sgùm>, scum, foam; from Norse {skúm}, foam, M.Eng. {scūm}, now
-  {scum}, Ger. {schaum}, foam.
+<sgùm>, scum, foam; from Norse {skúm}, foam, M.Eng. @MEng{scūm}, now
+  @Eng{scum}, Ger. {schaum}, foam.
 <sgùman>, a skirt, tawdry head-dress, corn rick; from @Ref{sgùm},
   "skimmer"? {sguman} (Arran).
 <sgumrag>, a fire-shovel, a Cinderella:
@@ -14964,8 +14968,8 @@ Zeit.           Kuhn's {Zeitschrift f. vergl. Sprachforschung}, a German
   The form {sibh} is for *{svi-svi}.
 <sic>, the prominence of the belly (H.S.D.), peritoneum (M`A.):
 <sicear>, particle, grain (Carm.):
-<sicir>, wise, steady; from Sc. {sicker}, M.Eng. {siker}, from Lat.
-  {securus}, now Eng. @Eng{sure}.  W. @W{sicr} is from M.Eng.
+<sicir>, wise, steady; from Sc. {sicker}, M.Eng. @MEng{siker}, from Lat.
+  @Lat{securus}, now Eng. @Eng{sure}.  W. @W{sicr} is from M.Eng.
 <sìd>, weather, peasceful weather after storm, tide: *{sizdi-},
   "settling", root {sed}, sit?  Ir. has {síde} in the sense of "blast",
   from @Ref{séid}.  Also {tìd}, which suggests borrowing from N. {tíð},
@@ -15074,7 +15078,7 @@ Zeit.           Kuhn's {Zeitschrift f. vergl. Sprachforschung}, a German
   evening, Eng. @Eng{soiree}; Skr. {sâyá}, evening.  See @Ref{sian.4}, @Ref{sìn}.
 <siorra> (M`A., M`E.), @Ref<siorraimh>, @Ref<siorram> (H.S.D.), a sheriff,
   @Ref<siorrachd>, @Ref<siorramachd>, county, Ir. @Ir{sirriamh}, M.Ir. @MIr{sirriam};
-  from M.Eng. {shirreve}, now {sheriff}, "shire-reeve".  The Sc. is
+  from M.Eng. @MEng{shirreve}, now @Eng{sheriff}, "shire-reeve".  The Sc. is
   {shirra} usually.
 <siorradh>, a deviation, onset: *{sith-rad}, from @Ref{sith}?
 <sìorruidh>, eternal, Ir. @Ir{síorruidhe}; from *{sír-rad}, eternity, @Ref{sìor}.
@@ -15085,7 +15089,7 @@ Zeit.           Kuhn's {Zeitschrift f. vergl. Sprachforschung}, a German
 <sir>, search, Ir. @Ir{sirim} ({sírim}, Con.), E.Ir. @EIr{sirim}: *{s(p)eri-}, root {sper},
   foot it; Norse {spyrja}, ask, track, Sc. {spere}, ask after, Ger.
   {spüren}, trace, track, also further Eng. @Eng{spur}; Lat. {sperno}
-  (Eng. {spurn} allied), etc.  The vowel of {sir} is short (otherwise
+  (Eng. @Eng{spurn} allied), etc.  The vowel of {sir} is short (otherwise
 --page 325
   Stokes' {Dict.}, Rhys @ExtRef{Manx Pray.;2;71}, who compares W.
   @W{chwilio}.
@@ -15190,7 +15194,7 @@ Zeit.           Kuhn's {Zeitschrift f. vergl. Sprachforschung}, a German
   Sc. {slaupie}, slovenly, Du. {slap}, slack, remiss, Ger. {schlaff}.
 <slapraich>, din, noise; from Eng. @Eng{slap}.
 <slat>, a rod, twig, Ir. @Ir{slat}, M.Ir. @MIr{slat}, {slatt}, W. @W{llath}, {yslath}, Br.
-  {laz}: *{slattâ}; Eng. @Eng{lath} is from W.  M.Eng. {latte}, Ag.S.
+  {laz}: *{slattâ}; Eng. @Eng{lath} is from W.  M.Eng. @MEng{latte}, Ag.S.
   {laetta}, O.H.G. {latta}, Ger. {latte} are also  Celtic borrows, Fr.
   {latte} (Thurneysen), but Kluge regards them as cognate.
 <sleabhag>, mattock for digging up carrots, etc. (Carm.); {sleidheag},
@@ -15388,14 +15392,14 @@ Zeit.           Kuhn's {Zeitschrift f. vergl. Sprachforschung}, a German
   which Zem. thinks the Gadelic borrowed from, though the
   meaning makes this unlikely.  There are three allied roots
   on European ground denoting "smoke" -- {smûgh} (Gr. @Gr{σμῡ́χω},
-  smoulder), {smúg}, or {smaug} (Eng. {smoke}) and {smûd} (G. {smùid}).
+  smoulder), {smúg}, or {smaug} (Eng. @Eng{smoke}) and {smûd} (G. {smùid}).
 <smuig>, a snout, the face (in ridicule): from the Eng. @Eng{mug}, ugly
   face.
 <smuilc>, glumness, dejection; M.Ir. @MIr{smuilcín}, a small snout:
   "snoutyness".
 <smùrach>, dross, peat dross, @Ref<smùir>, dust, a particle of dust,
   @Ref<smùirnean>, a mote; cf. Sc. {smurach}, peat dross, {smore}, {smurr},
-  a drizzling rain, M.Eng. {smóre}, dense smoke, Eng. @Eng{smother}
+  a drizzling rain, M.Eng. @MEng{smóre}, dense smoke, Eng. @Eng{smother}
   (= {smorther}), O.Du. {smoor}.  O'R. has {smur} from Sh., and K.Meyer
   translates M.Ir. @MIr{smur-chimilt} as "grind to dust".
 <smùsach>, extracting the juice from (Suth.):
@@ -15617,7 +15621,7 @@ Zeit.           Kuhn's {Zeitschrift f. vergl. Sprachforschung}, a German
   {yspaud}, shoulder.
 <spadair>, fop, braggart; cf. Norse {spjátra}, behave as a fop.  See
   @Ref{spaideil}.
-<spadal>, a paddle, plough-staff, so Ir.; from M.Eng. {spaddle},
+<spadal>, a paddle, plough-staff, so Ir.; from M.Eng. @MEng{spaddle},
   paddle, dim. of {spade}.
 <spadhadh>, a strong and quick pull, the utmost extent of the outstretched
   arms, the grass cut by one scythe-stroke, {spadh}, a
@@ -15638,7 +15642,7 @@ Zeit.           Kuhn's {Zeitschrift f. vergl. Sprachforschung}, a German
 <spailp>, pride, conceit, @Ref<spailpean>, fop, Ir. @Ir{spailp}, {spailpín}, rascal,
   mean fellow, "spalpeen":
 <spàin>, a spoon, Manx {spain}; from Norse {spánn}, {spónn}, spoon,
-  chip, M.Eng. {spōn}, Ag.S. {spón}, chip.  Ir. @Ir{spúnóg}, spoon, is
+  chip, M.Eng. @MEng{spōn}, Ag.S. {spón}, chip.  Ir. @Ir{spúnóg}, spoon, is
   from the Eng.
 <spàirn>, an effort, struggle, Ir. @Ir{spáirn}, {sbáirn}, wrestling, struggling;
   from the Norse {sporna}, kick with the feet, struggle, {sperna},
@@ -15649,7 +15653,7 @@ Zeit.           Kuhn's {Zeitschrift f. vergl. Sprachforschung}, a German
   part of the breeches.
 <spairt>, a turf, clod, a splash, Ir. @Ir{spairt}; verb <spairt>, daub, plaster,
   splash, brain, Ir. @Ir{spairtim}: cf. N. {sparða}, pole-axe, whence
-  M.Eng. {spert} or {spart}.
+  M.Eng. @MEng{spert} or @MEng{spart}.
 <spaisdear>, @Ref<spaidsear>, a saunterer, @Ref<spaisdeireachd>, sauntering, Ir.
   {spaisdeóireachd}, promenading, walking; Norse {spázera}, walk,
   Dan. {spadsere}, Ger. {spazieren}, from Ital. (13th Cent.), {spaziare}:
@@ -15658,10 +15662,10 @@ Zeit.           Kuhn's {Zeitschrift f. vergl. Sprachforschung}, a German
   {spōle}, now {spool}, Ger. {spule}, bobbin, spool.  Hence
   {spàlag}, pea pod.
 <spang>, thin plate of metal, spangle; from Norse {spo@'ng}, g. {spangar},
-  a spangle, M.Eng. {spang}, now {spangle}, Ag.S. {spange}, a clasp,
+  a spangle, M.Eng. @MEng{spang}, now @Eng{spangle}, Ag.S. {spange}, a clasp,
   Ger. {spange}, buckle.
 <spann.1>, sever, divide, wean (a child); from Sc. {spain}, {spane}, wean,
-  prevent, confused with M.Eng. {spannen}, stretch, span.
+  prevent, confused with M.Eng. @MEng{spannen}, stretch, span.
 <spann.2>, a hinge, hasp; from the Eng. @Eng{spang}, a spangle, Ag.S.
   @Ref{spang}, a hasp; or Ag.S. {spannan}, to clasp, Norse {spenna},
   {spennir}, grasper, Sc. {spenn}, to button.
@@ -15693,7 +15697,7 @@ Zeit.           Kuhn's {Zeitschrift f. vergl. Sprachforschung}, a German
 <spealg>, a splinter; from Sc. {spelk}, a splint attached to a fracture,
   M.E. {spelke}, a splinter, Norse {spjalk}, {spelkur}, splint, Du.
   {spalk}.
-<spealt>, a splinter; from Teutonic - M.Eng. {spélde}, now a {spill},
+<spealt>, a splinter; from Teutonic - M.Eng. @MEng{spélde}, now a @Eng{spill},
   M.H.G. {spelte}, a splinter, Ger. {spalten}.
 <spearrach>, a cow-fetter, a fetter for wild goats; see @Ref{speireach}.
 <spéic>, a spike, Ir. @Ir{spéice}; from Norse {spík}, a spike, Eng. @Eng{spike},
@@ -15710,7 +15714,7 @@ Zeit.           Kuhn's {Zeitschrift f. vergl. Sprachforschung}, a German
 <speireach>, @Ref<spearrach>, cow-fetter, foot fetter; from @Ref{speir} and
   *{rich}, tie, for which last see @Ref{buarach}.
 <spéiread>, strength, force, courage; founded on Lat. {spîritus}.
-<speireag>, sparrow-hawk; from M.Eng. {sper-hauk}, Ag.S. {spear-hafoc},
+<speireag>, sparrow-hawk; from M.Eng. @MEng{sper-hauk}, Ag.S. {spear-hafoc},
   Norse {sparrhaukr}, from {sparrow} and {hawk}.
 <spéis>, esteem, liking, Ir. @Ir{spéis}, M.Ir. @MIr{sbéis}; seemingly from M.Ir.
   {sbesailte}, special, from Lat. {species}, look (cf. Eng. @Eng{re-spect}).
@@ -15738,7 +15742,7 @@ Zeit.           Kuhn's {Zeitschrift f. vergl. Sprachforschung}, a German
 <spiligean>, a seedling, dwarfish person:
 <spìoc>, meanness, dastardliness, @Ref<spìocach>, mean:
 <spiocaid>, a spigot, Ir. @Ir{spiocaid} (O'R.); from Eng. sources -
-  M.Eng. {spigot}, Eng. @Eng{spike}.
+  M.Eng. @MEng{spigot}, Eng. @Eng{spike}.
 <spìochan>, wheezing, Ir. @Ir{spiochan}; see @Ref{pìochan}.
 <spiol>, nibble, peel, pluck, Ir. @Ir{spiolaim}, {spialaim}, snatch, pluck.
   See @Ref{piol}.
@@ -15768,7 +15772,7 @@ Zeit.           Kuhn's {Zeitschrift f. vergl. Sprachforschung}, a German
 --page 340
 <spleadh.1>, a splay foot; from Eng. @Eng{splay}.
 <spleadh.2>, ostentation, romance, false flattery, Ir. @Ir{spleadh}; from
-  M.Eng. {spleien}, display, from {displeien}, now {display}.
+  M.Eng. @MEng{spleien}, display, from @MEng{displeien}, now @Eng{display}.
 <spleadhan>, a sort of wooden paddle to dig up sand eels; see
   @Ref{pleadhag}.
 <spleuchd>, @Ref<spliachd>, stare, squint, spread out by trampling:
@@ -15791,7 +15795,7 @@ Zeit.           Kuhn's {Zeitschrift f. vergl. Sprachforschung}, a German
   hence.  Cf. @Ref{spadag}, @Ref{spathalt}.
 <spolladach>, sottish:
 <spòlt>, mangle, slaughter, hew down in battle, also (Dial. Badenoch)
-  splutter; from the English.  Cf. M.Eng. {splatten}, cut open,
+  splutter; from the English.  Cf. M.Eng. @MEng{splatten}, cut open,
   Sc. {sploit}, squirt, spout.  {spoltadh}, drops flying out of a vessel
   when boiling or stirred carelessly.
 <spong>, sponge, tinder, Ir. @Ir{sponc}, E.Ir. @EIr{sponge}, W. @W{ysbwng}, sponge,
@@ -15823,7 +15827,7 @@ Zeit.           Kuhn's {Zeitschrift f. vergl. Sprachforschung}, a German
   Norse {spraki}, a report.
 <spreadh>, burst, sound loudly while bursting, kill, Ir. @Ir{spréidhim},
   spread, burst ({spreighim}, O'B.), E.Ir. @EIr{sprédaire}, brush for
-  sprinkling the holy water; from M.Eng. {spraeden}, now {spread}.
+  sprinkling the holy water; from M.Eng. @MEng{spraeden}, now @Eng{spread}.
 <spreangan>, a cloven stick for closing the wound of bled cattle;
   from Eng. @Eng{springe}, twig, rod, snare with flexible rod.
 <spréidh>, cattle, Ir. @Ir{spré(idh)}, M.Ir. @MIr{spré}, {spreid}, W. @W{praidd}, flock,
@@ -15836,7 +15840,7 @@ Zeit.           Kuhn's {Zeitschrift f. vergl. Sprachforschung}, a German
 <spreòchan>, weakness, weak person; from *{s-breòch-}, being the same
   in root as @Ref{breòclaid}?
 <spreòd>, @Ref<spreod> (H.S.D.), a projecting beam, @Ref<crann spreòid>, a bow-sprit;
-  from M.Eng. {sprēot}, a sprit, now {sprit}; Ag.S. {spréot},
+  from M.Eng. @MEng{sprēot}, a sprit, now @Eng{sprit}; Ag.S. {spréot},
   M.Du. {spriet}.  Hence <spreòd>, incite.
 <sprochd>, dejection, sadness, Ir. @Ir{sprochd}: *{s-broc}, M.Ir. @MIr{broc},
   sorrow, anxiety (also {sbrog}).  Cf. @Ref{murcach} for root; or @Ref{bròn}?
@@ -15862,7 +15866,7 @@ Zeit.           Kuhn's {Zeitschrift f. vergl. Sprachforschung}, a German
 <spùinn>, spoil, plunder, Ir. @Ir{spúinim}; another form of @Ref{spùill},
   borrowed directly from Lat. {spoliare}?
 <spuirse>, spurge, milkweed, Ir. @Ir{spuirse}; from the Eng. @Eng{spurge},
-  M.Eng. {sporge}.
+  M.Eng. @MEng{sporge}.
 <spùll>, nail of a cat, a clutch, @Ref<spùllach>, nailed, greedy (M`A.):
 <spursan>, a gizzard, Ir. @Ir{spursán}; cf. @Ref{sparsan}, dewlap.
 <spùt>, a spout; from the Sc. {spoot}, Eng. @Eng{spout}.
@@ -15891,7 +15895,7 @@ Zeit.           Kuhn's {Zeitschrift f. vergl. Sprachforschung}, a German
 <sraon>, stumble, make a false step, rush forward violently; cf. Ir.
   {sraoinim}, defeat, overthrow, scatter, M.Ir. @MIr{sráined}, dragging
   down, defeat, E.Ir. @EIr{sroenim}, hurl, drag, defeat: *{sroino-},
-  root {ster}, strew, scatter (Eng. {strew}, etc.).
+  root {ster}, strew, scatter (Eng. @Eng{strew}, etc.).
 <sraonais>, a huff, snuffiness; M`A. has @Ref<sròin>, a huff: from @Ref{sròn},
   nose?
 <srath>, a valey, strath, Ir., M.Ir. @MIr{srath}, meadow land or holm
@@ -15944,7 +15948,7 @@ Zeit.           Kuhn's {Zeitschrift f. vergl. Sprachforschung}, a German
   sup, lap up, Ch.Sl. {srŭbati}, swallow, Lat. {sorbeo}, Eng.
   {absorb}.
 <sruan>, shortbread cake having five corners (M`A. for Islay):
-<srùb>, a spout; from the Sc. {stroup}, spout, M.Eng. {strūpe}, throat,
+<srùb>, a spout; from the Sc. {stroup}, spout, M.Eng. @MEng{strūpe}, throat,
   Norse {strjúpi}, the spouting trunk when the head is cut off,
   Sw. {strupe}, throat.  Hence @Ref<srùban>, a cockle.
 --page 344
@@ -16036,7 +16040,7 @@ Zeit.           Kuhn's {Zeitschrift f. vergl. Sprachforschung}, a German
 <stangarra>, the fish stickleback; from @Ref{stang.2}, sting.
 --page 346
 <stanna>, a vat, tub, Ir. @Ir{stanna}, vat, barrel; from Eng. @Eng{tun}, {ton},
-  M.Eng. {tonne}.  See @Ref{tunna}.
+  M.Eng. @MEng{tonne}.  See @Ref{tunna}.
 <stannart>, a standard, yard, limit; from the Eng.  It also means
   "affected coyness".
 <staoig>, a collop, steak, Ir. @Ir{staoig}, M.Ir. @MIr{stáic}; from Norse {steik},
@@ -16064,7 +16068,7 @@ Zeit.           Kuhn's {Zeitschrift f. vergl. Sprachforschung}, a German
   {starablind}, Ger. @Ref{starr}, stiff, Eng. @Eng{stare}, "fixed" look, Sc. {stare},
   stiff, @Ref{starr}, sedge, {star}, a speck on the eye.
 <stàt>, pride, haughtiness, Ir. @Ir{státamhuil}, stately; from the Eng.
-  {state}, M.Eng. {stát}, from Lat. {status}.  Cf. @Ref{stàideil}, @Ref{stàta}.
+  {state}, M.Eng. @MEng{stát}, from Lat. {status}.  Cf. @Ref{stàideil}, @Ref{stàta}.
 <stàta>, the state or Government; from the Eng.
 <steach>, @Ref<a steach>, (to) within, into, Ir. @Ir{steach}, {a steach}, M.Ir. @MIr{is tech},
   E.Ir. @EIr{isa tech}: *{in-san-tech}, "into the house"; from
@@ -16090,7 +16094,7 @@ Zeit.           Kuhn's {Zeitschrift f. vergl. Sprachforschung}, a German
 <steòrn>, guide, direct, manage; from Norse {stjórna} (do.), {stjórn},
   steering, rule, Eng. @Eng{stern}, {steer}.  See @Ref{stiùir}.
 <steud>, a horse, steed, Ir. @Ir{stead} (O'R.), M.Ir. @MIr{stéd}; from Ag.S.
-  {stéda}, Ag.S. {stéda}, M.Eng. {stede}, now {steed}.
+  {stéda}, Ag.S. {stéda}, M.Eng. @MEng{stede}, now @Eng{steed}.
 <stiall>, a strip, stripe, streak, Ir. @Ir{stíall}, E.Ir. @EIr{stíall}, girdle, strap,
   board; cf. W. @W{astell}, M.W. @MW{ystyll}, shingle, plank, Corn. @Corn{stil},
   rafter, O.Fr. {esteil}, pole, Lat. {astella}, splinter, or from
@@ -16112,7 +16116,7 @@ Zeit.           Kuhn's {Zeitschrift f. vergl. Sprachforschung}, a German
 <stiocach>, limping: "sticking"?  From the Eng. anyway.
 <stìog>, a strip in cloth (M`A.); from Sc. {steik}, Eng. @Eng{stitch}.
 <stìom>, @Ref<stìm>, head-band, snood:
-<stiorap>, a stirrup, Ir. @Ir{stioróip}; from M.Eng. {stirōp}, Ag.S. {stigráp}.
+<stiorap>, a stirrup, Ir. @Ir{stioróip}; from M.Eng. @MEng{stirōp}, Ag.S. {stigráp}.
 <stiorc>, stretch (at death, Arg.); from Eng. @Eng{stark}?
 <stiorlag>, a thin, worn-out rag, an emaciated woman, @Ref<stiorlan>, a
   thin person; {stiorlach}, thin gruel (M`D.); {stirlean}, thin
@@ -16131,7 +16135,7 @@ Zeit.           Kuhn's {Zeitschrift f. vergl. Sprachforschung}, a German
   stir, agitate.
 <stob>, thrust, stab, fix (as a stake), <stob>, a stake, stick, stob (Sc.),
   Ir. @Ir{stobaim}, stab, thrust; from Sc. {stob}, a side-form of Eng.
-  {stab}.  Cf. Norse {stobbi}, a stump, Eng. @Eng{stub}, M.Eng. {stob}.
+  {stab}.  Cf. Norse {stobbi}, a stump, Eng. @Eng{stub}, M.Eng. @MEng{stob}.
 <stòbh>, a stove; from the Eng.
 <stoc.1>, a stock, pillar, stump, Ir. @Ir{stoc}; from Eng. @Eng{stock}.
 <stoc.2>, a trumpet, so Ir., M.Ir. @MIr{stocc}, E.Ir. @EIr{stoc}; cf. Sc. {stock-horne},
@@ -16141,17 +16145,17 @@ Zeit.           Kuhn's {Zeitschrift f. vergl. Sprachforschung}, a German
 <stocain>, a stocking, Ir. @Ir{stoca}; from the Eng.
 <stoim>, a particle, whit, faintest glimpse of anything (Dial.); from
   Sc. {styme}.
-<stoirm>, a storm, Ir. @Ir{stoirm}; from Eng., M.Eng. {storm}, Norse
+<stoirm>, a storm, Ir. @Ir{stoirm}; from Eng., M.Eng. @MEng{storm}, Norse
   {stormr}, Ger. {sturm}.
 <stòite>, prominet; cf. @Ref{stàt} for origin.
 <stòl>, a stool, settle, Ir. @Ir{stól}, W. @W{ystôl}; from Ag.S. {stól}, now {stool},
   Norse {stóll}, Ger. {stuhl}.  Hence vb. <stòl>, settle.
 <stòp>, a wooden vessel for liquor, a stoup, Ir. @Ir{stópa}, a "stoup" or
-  wooden pail; from Sc. {stoup}, M.Eng. {stope}, now {stoup}, Du.
+  wooden pail; from Sc. {stoup}, M.Eng. @MEng{stope}, now @Eng{stoup}, Du.
   {stoop}, a gallon, Norse {staup}, a stoup.
 <stop>, stop, close up, Ir. @Ir{stopaim}; from the Eng.
 <stòr>, a steep cliff, broken teeth; cf. @Ref{stùrr}, @Ref{starr}.  Norse {stór}.
-<stòras>, store, wealth, Ir. @Ir{stór}, {stórus}; from M.Eng. {stōr}.
+<stòras>, store, wealth, Ir. @Ir{stór}, {stórus}; from M.Eng. @MEng{stōr}.
 <stoth.1>, lop off, cut corn high:
 <stoth.2>, hot steam, vapour; see @Ref{toth}.
 <strabaid>, a strumpet, Ir. @Ir{strabóid}; from an early form of Eng.
@@ -16184,7 +16188,7 @@ Zeit.           Kuhn's {Zeitschrift f. vergl. Sprachforschung}, a German
   from Lat. {stuprum}, dishonour, violation.
 <stròdh>, prodigality, Ir. @Ir{stró}, {strógh}; seemingly (because of preserved
   {st} in all cases) borrowed from, rather than allied to,
-  M.Eng. {strawen}, strew, Ag.S. {stréowian}, Got. {straujan}, I.E.
+  M.Eng. @MEng{strawen}, strew, Ag.S. {stréowian}, Got. {straujan}, I.E.
   {strou}, {stru}.  Hence G. @Ref<struidheas>, prodigality, squandering.
 <stròic> (@Ref<stroic>, Arm.), tear asunder, a long rag, strip torn off, Ir.
   {stroicim}, {stróicim}, {sroic}, a piece: *{srakki-}, from @Ref{srac}, confused
@@ -16230,7 +16234,7 @@ Zeit.           Kuhn's {Zeitschrift f. vergl. Sprachforschung}, a German
   drunkenness; from Sc. {sturdy}, from O.F. {estourdi}, dizzy-headed,
   now {êtourdi}, giddy-headed; from Lat. {extorpidire}.
   From Fr. comes Eng. @Eng{sturdy}.
-<stùr>, dust; from Sc. {stour}, M.Eng. {stour}, tumult.
+<stùr>, dust; from Sc. {stour}, M.Eng. @MEng{stour}, tumult.
 <stùrr>, the rugged point of a rock or hill, @Ref<sturrach>, rugged:
   *{s-tùrr}, from {turr} = @Ref{tòrr}, q.v.?  Cf. N. {staurr}.
 <stuth>, stuff, metal; founded on the Eng. @Eng{stuff}.
@@ -16335,7 +16339,7 @@ Zeit.           Kuhn's {Zeitschrift f. vergl. Sprachforschung}, a German
 <suilbhir>, cheerful, so Ir., M.Ir. @MIr{suilbir}, O.Ir. @OIr{sulbir}, eloquence,
   E.W. {helabar}, now {hylafar}, eloquence: from {su-} or @Ref{so-} and
   @Ref{labhair}, speak: "easy-spoken".
-<suim.1>, a sum, Ir. @Ir{suim}, W. @W{sum}, M.Eng. {summe}; from Lat. {summa},
+<suim.1>, a sum, Ir. @Ir{suim}, W. @W{sum}, M.Eng. @MEng{summe}; from Lat. {summa},
   sum, chief.
 <suim.2>, attention, respect, Ir. @Ir{suim}; a metaphoric use of @Ref{suim.1}, sum
   (Dr Cameron).
@@ -16497,7 +16501,7 @@ Zeit.           Kuhn's {Zeitschrift f. vergl. Sprachforschung}, a German
 <tailceas>, contempt; cf. @Ref{tarcuis}.
 <tàileasg>, backgammon, chess, Ir. @Ir{táibhleis}, backgammon table,
   back-gammon, M.Ir. @MIr{taiflis}, draught-board, tables, W. @W{tawl-fwrdd},
-  draught-board; from M.Eng. {tables}, backgammon,
+  draught-board; from M.Eng. @MEng{tables}, backgammon,
   from {table}, Norse {tafl}, game, chess.
 <tailebart>, halberd; from the Eng.  The Ir., M.Ir. is {halabard},
   which Stokes regards as derived from the Fr. {hallebard}.
@@ -16667,7 +16671,7 @@ Zeit.           Kuhn's {Zeitschrift f. vergl. Sprachforschung}, a German
   pumper: *{to-ad-sem-sko-}, root {sem} as in @Ref{taom.1}?
 <taosnadh>, horseplay (R.D.):
 <tap>, tow or wool on the distaff, forelock, "busk a hook", (Arg.),
-  Ir. @Ir{tap}, {tapán}; from M.Eng. {top}, tuft of hair or flax, top,
+  Ir. @Ir{tap}, {tapán}; from M.Eng. @MEng{top}, tuft of hair or flax, top,
   Sc. {tap}.
 --page 360
 <tapaidh>, clever, active, so Ir., E.Ir. @EIr{tapad}, suddenness, alertness,
@@ -16804,7 +16808,7 @@ Zeit.           Kuhn's {Zeitschrift f. vergl. Sprachforschung}, a German
   O.Ir. @OIr{tenchor}, forceps: *{ten-cor}, "fire-putter", from the stem
   of @Ref{teine}, fire, and @Ref{cor}, seen in @Ref{cuir}, put.
 <teanga>, @Ref<teangadh>, a tongue, Ir. @Ir{teanga}, O.Ir. @OIr{tenge}, gen. {tengad}:
-  *{tengot-}, from {stenℊh}, sting (Eng. {sting}, Ger. {stengal}, stalk),
+  *{tengot-}, from {stenℊh}, sting (Eng. @Eng{sting}, Ger. {stengal}, stalk),
 --page 363
   which is from {zdṇℊh}, from {dṇℊh}, whence Lat. {dingua}, Eng.
   {tongue}?  Stokes ({Academy}, Oct 1891) has compared Lat. {tango}
@@ -16823,7 +16827,7 @@ Zeit.           Kuhn's {Zeitschrift f. vergl. Sprachforschung}, a German
 <tearmann>, a sanctuary, protection, so Ir., M.Ir. @MIr{termain}, {termonn},
   W. @W{terfyn}; from Lat. {termo(n)}, {terminus}, end, "end of race
   for life by reaching church lands" or {Termon landes} (Ducange).
-<tearr>, tar, Ir. @Ir{tearr}; from M.Eng. {terve}, Norse {tjara}.
+<tearr>, tar, Ir. @Ir{tearr}; from M.Eng. @MEng{terve}, Norse {tjara}.
 <tèaruinn>, save, escape, @Ref<tèarnadh> (inf.), Ir. @Ir{tearnaim}, E.Ir.
   {térnaim}, {ternam}, an escape, {érnaim}, I escape: *{es-rn-}, root {ṛn},
   Eng. @Eng{run}?
@@ -17403,7 +17407,7 @@ Zeit.           Kuhn's {Zeitschrift f. vergl. Sprachforschung}, a German
   @Ref{troigh} (Stokes, Strachan).
 <trid>, @Ref<trìd>, through, by, Ir. @Ir{tríd}, E.Ir. @EIr{trít}, per eum, id: *{trei-t},
   from root {trei} of @Ref{tre}, through; the final {-t} is the demonstrative
-  pron. {to} (Eng. {that}, Gr. @Gr{το}); a pron. *{em-ti}, *{en-ti}
+  pron. {to} (Eng. @Eng{that}, Gr. @Gr{το}); a pron. *{em-ti}, *{en-ti}
   (Stokes).
 <trìd>, rag, clout, stitch; "Cha'n 'eil trìd air":
 <trileanta>, thrilling, quavering; cf. E.Ir. @EIr{trílech}, song, O.Ir.
@@ -17679,7 +17683,7 @@ Zeit.           Kuhn's {Zeitschrift f. vergl. Sprachforschung}, a German
 <tum>, dip, @Ref<tumadh>, dipping, so Ir., E.Ir. @EIr{tummim}: *{tumbô}; Lat.
   {tinguo}, {tingo}, wet, Eng. @Eng{tinge}, {tincture}; O.H.G. {duncôn}, dip,
   Ger. {tunken}, dip, steep.
-<tunna>, a tun, ton, Ir., E.Ir. @EIr{tunna}; Ag.S. {tunne}, M.Eng. {tonne},
+<tunna>, a tun, ton, Ir., E.Ir. @EIr{tunna}; Ag.S. {tunne}, M.Eng. @MEng{tonne},
   Norse {tunna}, Ger. {tonne}; all from Lat. {tunna}, a cask.  Stokes
   (@ExtRef{Bez.Beit.;18;}), suggests borrowing from the Norse; Kluge
   regards the words as of Celtic origin.  On this see †@Ref<tonn.2>.
@@ -17688,7 +17692,7 @@ Zeit.           Kuhn's {Zeitschrift f. vergl. Sprachforschung}, a German
 <tunnsgadh>, upheaval (R.D.):
 <tur>, @Ref<gu tur>, entirely, Ir. @Ir{tura}, plenty ({tura namhad}, plenty of
   enemies), E.Ir. @EIr{tor}, a crowd (dat. {tur}); see @Ref{tòrr}.
-<tùr.1>, a tower, Ir. @Ir{túr}; from M.Eng. {tour}, {tūr}, from O.Fr. @Ref{tur}, Lat.
+<tùr.1>, a tower, Ir. @Ir{túr}; from M.Eng. @MEng{tour}, @MEng{tūr}, from O.Fr. @Ref{tur}, Lat.
   {turris}.
 <tùr.2>, understanding; cf. M.Ir. @MIr{túr}, research, examination, O.Ir.
   {túirim}, {rotuirset}, scrutati sunt, for {to-fo-shirim}, from @Ref{sir}, search.
@@ -17819,7 +17823,7 @@ Zeit.           Kuhn's {Zeitschrift f. vergl. Sprachforschung}, a German
 <ucas>, @Ref<ugsa>, coal-fish, stenlock:
 <uchd>, the breast, so Ir., O.Ir. @Ir@OIr{ucht}: *{poktu-}; Lat. {pectus}?  Stokes
   and Bezzenberger give *{puptu-}, Lettic {pups}, woman's breast,
-  Lit. {pápas}, breast (Eng. {pap} from Lat. {pappa}).  St. now
+  Lit. {pápas}, breast (Eng. @Eng{pap} from Lat. {pappa}).  St. now
   gives {poktus}, allied to {pectus}.  See @Ref{iochd}.
 <ud>, yon, yonder, Ir. @Ir{úd}, E.Ir. @EIr{út}; for @Ref{sud} ({sút}), q.v.  For loss of
   {s}, cf. the article.
