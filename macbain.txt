@@ -171,6 +171,7 @@
 -- done with it, it needs to be keyed in again to verify it and correct
 -- typing mistakes.
 --
+-- 2015-05-30 1.18  (gjk)  Add comments.
 -- 2007-08-31 1.17  (gjk)  Add more language tags
 -- 2007-01-21 1.16  (gjk)  Use {...} for italics to eliminate ambiguous markup
 --                         Fixup Greek: use inverted breve instead of perispomeni
@@ -10209,7 +10210,8 @@ Zeit.           Kuhn's {Zeitschrift f. vergl. Sprachforschung}, a German
 <ionbhruich>, broth; see @Ref{eanraich}.
 <ionga>, g. @Ref<ingne>, pl. @Ref<ìngnean>, @Ref<ìnean>, a nail, Ir. @Ir{ionga}, g. {iongan},
   O.Ir. @OIr{inga}, g. {ingen}, W. @W{ewin}, Corn. @Corn{euuin}, Br. @Br{ivin}: *{engînâ}
-  (Stokes); Lat. {unguis}; Gr. @Gr{ὄνυξ}, g. @Gr{ὄνυχος}; Got. {nagljan},
+  (Stokes); Lat. {unguis}; Gr. @Gr{ὄνυξ}, g. {ὄνυχος}; Got. {nagljan},
+--gjk (1.18) g. {ὄνυχος} looks suspicious.
   Eng. @Eng{nail}; Skr. {nakhá}.  Fick gives the I.E. root as {noℊh},
   {ṇℊh}, with stems {noℊhlo-}, {ṇℊhlo-},
 --page 218
