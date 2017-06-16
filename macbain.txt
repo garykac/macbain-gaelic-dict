@@ -350,9 +350,9 @@ Zeit.           Kuhn's {Zeitschrift f. vergl. Sprachforschung}, a German
 --page 1
 <a.1>, vocative particle, Ir. @Ir{a}, O.Ir. @OIr{á}, @OIr{a}; W., Corn., Br. @Br@Corn@W{a}; Lat. @Lat{o};
   Gr. @Gr{ὦ}.
-<a.2>, his, her, Ir. @Ir{a}, O.Ir. @OIr{á}, @OIr{ái} (accented), W. @W{ei}, Br. @Br{e}, Celtic {esjo},
-  {esjâs}; Skr. gen. {asyá}, {asyâs}.  The gen. pl. is @Ref<an.4>, their, O.Ir.
-  @OIr{a n-}, Celtic {esjon} (Stokes gives {esan}=Skr. gem. gen. pl. {âsâm}).
+<a.2>, his, her, Ir. @Ir{a}, O.Ir. @OIr{á}, @OIr{ái} (accented), W. @W{ei}, Br. @Br{e}, Celtic @Celt{esjo},
+  @Celt{esjâs}; Skr. gen. {asyá}, {asyâs}.  The gen. pl. is @Ref<an.4>, their, O.Ir.
+  @OIr{a n-}, Celtic @Celt{esjon} (Stokes gives {esan}=Skr. gem. gen. pl. {âsâm}).
 <a.3>, who, that (rel. pron.). In G. this is merely the verbal particle
   @Ref{do.2} of past time, used also to explain the aspiration of the
   future rel. sentence.  Oblique cases are done by {an}, {am} (for {san},
@@ -361,7 +361,7 @@ Zeit.           Kuhn's {Zeitschrift f. vergl. Sprachforschung}, a German
   {am}: "An coire am bi na caoraich" (1776 Collection, p112).
 <a.4>, out of, ex: see @Ref<as>.
 <a.5>, from, in the adverbs @Ref<a nall>, @Ref<a nìos>, @Ref<a nuas>, @Ref<a null>; Ir., O.Ir.
-  @Ir@OIr{an-}, as {anuas}, etc.; Celtic {a(p)ona}, a derivative from I.E.
+  @Ir@OIr{an-}, as {anuas}, etc.; Celtic @Celt{a(p)ona}, a derivative from I.E.
   @IE{apo}, whence Lat. {ab}, Gr. @Gr{ἀπό}; Ger. {von}, from, is the exact
   equivalent of the Celtic.  The @Ref<a.5> before @Ref{sìos} and @Ref{suas} is due
   to analogy with @Ref{a nìos}, @Ref{a nuas}.
@@ -378,18 +378,18 @@ Zeit.           Kuhn's {Zeitschrift f. vergl. Sprachforschung}, a German
   Appin, older Abbathania (1310), Abthein (1220), "abbey lands".
 --page 2
 <abadh>, syllable, utterance; E.Ir. @EIr{apad}, proclamation: {ad-ba-},
-  Celtic {ba}, speak; Lat. {fatur}, {fama}, Eng. fame.
+  Celtic @Celt{ba}, speak; Lat. {fatur}, {fama}, Eng. @Eng{fame}.
 <abaich>, ripe, Ir. @Ir{abaidh}, M.Ir. @MIr{abaid}, E.Ir. @EIr{apaig}, *@EIr{ad-bagi},
   O.Ir. @OIr{apchugud}, autumnatio; *{ad-bog-}, Celtic root {bug}, as in
   @Ref{bog}, q.v.; {ad-bach}, root of Eng. @Eng{bake}; Gr. @Gr{φώγω}.  The W.
   @W{addfed} is from a root {met}.
 <abaideal>, colic (M`A.):
-<abair>, say, so Ir., O.Ir. @Ir@OIr{epiur}, Celtic {ád-berô}; Lat. {re-fero};
+<abair>, say, so Ir., O.Ir. @Ir@OIr{epiur}, Celtic @Celt{ád-berô}; Lat. {re-fero};
   see root in @Ref{beir}.
 <abaisd>, a brat, trifling, impudent person:
 <abalt>, expert (M`A.); from Sc. {apert}?  See @Ref{aparr}.
 <abar>, confluence; only in Pictish place names: O.Gaelic (B.of
-  Deer) {abbor}; W. @W{aber}, O.W. @OW{aper}, Celtic {ad-bero-}, root {ber};
+  Deer) {abbor}; W. @W{aber}, O.W. @OW{aper}, Celtic @Celt{ad-bero-}, root {ber};
   see @Ref{beir}.  Modern Gaelic pronounces it @Ref<obair.2> (so in 17th
   cent.), which agrees with the O.W. @OW{oper}; this suggests
   {od-bero-}, "out flow", as against the "to flow" of {ad-bero-}.
@@ -545,7 +545,7 @@ Zeit.           Kuhn's {Zeitschrift f. vergl. Sprachforschung}, a German
   see @Ref{goir}.
 <agallamh>, conversation, Ir. @Ir{agallamh}, O.Ir. @OIr{acaldam}, for {ad-glád-},
   O.Ir. @OIr{ad-gládur}, I converse: for root, see @Ref{glaodh.1}.
-<agh>, a hind, Ir. @Ir{agh}, O.Ir. @OIr{ag}, W. @W{ewig} (*{agîko-}), Celtic {agos-};
+<agh>, a hind, Ir. @Ir{agh}, O.Ir. @OIr{ag}, W. @W{ewig} (*{agîko-}), Celtic @Celt{agos-};
   Skr. {ajás}, buck; Lit. {ożýs}, goat.  Zend. {azi}, Arm. {ezn} (St.).
 ---JTM: it is unclear if that should be Arm. ezn/ezner (ox/oxen), or eghn (deer)
 <àgh>, also @Ref<àdh>, happiness, luck, Manx {aigh}, Ir. @Ir{ágh}, M.Ir. @MIr{ada},
@@ -557,14 +557,14 @@ Zeit.           Kuhn's {Zeitschrift f. vergl. Sprachforschung}, a German
 <aghaidh>, face, so Ir., O.Ir. @Ir@OIr{aged}, *{agitâ}; I.E. root {ag}, lead.  It
   is usually referred to the root {oq}, Lat. {oculus}, etc., but the
   phonetics are unsatisfactory.
-<aghann>, pan, so Ir., O.Ir., @OIr{aigen}, Celtic {aginâ}; Skr. {aga}, water
+<aghann>, pan, so Ir., O.Ir., @OIr{aigen}, Celtic @Celt{aginâ}; Skr. {aga}, water
   jar; Gr. @Gr{ἄγγος}, a vessel.
 <agus>, and so Ir., O.Ir. @Ir@OIr{acus}, @OIr{ocus}, B.of Deer {acus}, O.W. @OW{ac}, Br.
   {hag}; allied is @Ref{fagus}, near, O.Ir. @OIr{ocus}, W. @W{agos}, Br. @Br{hogoz}:
 --page 6
   *{aggostu-}, {ad-gos-}; root {ges}, {gos}, carry; Lat. {gero}, {aggestu-s},
   mound (Zimmer).  Stokes refers it to the root {angh}, choke,
-  narrow; Celtic {aggúst-}, from pre-Celtic {aghnústu-} (Lat.
+  narrow; Celtic @Celt{aggúst-}, from pre-Celtic {aghnústu-} (Lat.
   {angustus}), with accent on syllable after the root - {gn} with
   the accent on the following vowel being supposed, as in
   Teutonic, to produce {gg}.  The derivation from root {onk}, {enk},
@@ -572,7 +572,7 @@ Zeit.           Kuhn's {Zeitschrift f. vergl. Sprachforschung}, a German
 <ai>, sheep, swan (Carm.):
 <aibheil>, huge (M`E.).  See @Ref{adhbhal}.
 <aibheis.1>, sea, the deep; Ir. @Ir{aibheis}, sea, abyss; E.Ir. @EIr{aibéis}, sea.
-  This Stokes refers to a Celtic {abensi-s}, {abhent-ti-s}; root {abh},
+  This Stokes refers to a Celtic @Celt{abensi-s}, @Celt{abhent-ti-s}; root {abh},
   as in @Ref{abhainn}.  But cf. O.Ir. @OIr{abis}, from Lat. {abyssus}: W.
   {affwys}, bottomless pit.
 <aibheis.2>, boasting; @Ref<aibhsich>, exaggerate; Ir. @Ir{aibhseach}, boasting:
@@ -636,7 +636,7 @@ Zeit.           Kuhn's {Zeitschrift f. vergl. Sprachforschung}, a German
 <àilear>, porch:
 <ailis.1>, blemish, reproach, O.Ir. @OIr{ail}, disgrace, Got. {agls}?
 <ailis.2>, mimicing (Wh.); bad @Ref{atharrais}, {aith-lis}, (M`A.) @Ref{aithris}.
-<àill>, desire, so Ir., O.Ir. @Ir@OIr{áil}, W. @W{ewyll}, Br. @Br{ioul}, Celtic {avillo-};
+<àill>, desire, so Ir., O.Ir. @Ir@OIr{áil}, W. @W{ewyll}, Br. @Br{ioul}, Celtic @Celt{avillo-};
   root {av}, desire, Lat. {aveo}, Eng. @Eng{avidity}.  {áil}, pleasant, *{pagli},
   Eng. @Eng{fair} (St. @ExtRef{Bez.;20;24}).
 <àille>, beauty, E.Ir. @EIr{álde}, for {álnde}; see @Ref{àlainn}.
@@ -673,14 +673,14 @@ Zeit.           Kuhn's {Zeitschrift f. vergl. Sprachforschung}, a German
 <aimsichte>, bold (Arms.); {am-meas-ichte}, "un-mannerly"?  See
   @Ref{meas.2}.
 <aimsir>, time, so Ir.; O.Ir. @OIr{amser}, W. @W{amser}, Br. @Br{amzer}, possibly a
-  Celtic {ammesserâ}; either a compound of @Ref{am}, time ({ammensîrâ},
+  Celtic @Celt{ammesserâ}; either a compound of @Ref{am}, time ({ammensîrâ},
   from {sîr}, long?), or {amb-mensura}, root {mens}, measure,
   Lat. {mensus}, Eng. @Eng{measure}.  Ascoli and Stokes give the
   Celtic as {ád-messera}, from {ad-mensura}.
 <aimsith>, missing of aim, mischance: {am-mis-ith}, Gaelic root {mis}
   of @Ref{eirmis}, q.v.
 <àin>, heat (Dict.), light (H.M`Lean), O.Ir. @OIr{áne}, fulgor, from {án},
-  splendidus, latter a Celtic {āno-s}; Got. {fôn}, fire (from {pân});
+  splendidus, latter a Celtic @Celt{āno-s}; Got. {fôn}, fire (from {pân});
   Pruss. {panno}.  Stokes suggests rather *{agno-s}, allied to Lat.
   {ignis}, Skr. {agní}, fire.
 <ain->, privative prefix; see @Ref{an-}.
@@ -734,7 +734,7 @@ Zeit.           Kuhn's {Zeitschrift f. vergl. Sprachforschung}, a German
 <ainstil>, fury, over-fizzing: {an+steall}.
 <air>, on, upon.  This prep. represents three Irish ones:
   (a) <air>=O.Ir. @OIr{ar}, @OIr{air}, ante, propter, W. @W{ar}, @W{er}, Br. @Br{er}, Gaul. {are-},
-      Celtic {ari}, {arei}, Gr. @Gr{παρά}, @Gr{παραí}, by, before; Lat. {prae}; Eng.
+      Celtic @Celt{ari}, @Celt{arei}, Gr. @Gr{παρά}, @Gr{παραí}, by, before; Lat. {prae}; Eng.
       {fore}, {for}.  This prep. aspirates in Irish, and in Gaelic idioms
       it still does so, e.g. {air chionn}.
   (b) <air>=O.Ir. @OIr{for}, "super", O.W. and O.Br. @OBr@OW{guor}, Br. @Br{voar}, @Br{oar},
@@ -803,7 +803,7 @@ Zeit.           Kuhn's {Zeitschrift f. vergl. Sprachforschung}, a German
 <airleig>, a strait:
 <airmis>, hit; see @Ref{eirmis}.
 <àirne>, a sloe, so Ir., M.Ir. @MIr{arni}, sloes, W. @W{eirin}, plums, Br. @Br{irinenn},
-  sloe, Celtic {arjanio-} (Stokes); Skr. {araṇi}, tinder-stick
+  sloe, Celtic @Celt{arjanio-} (Stokes); Skr. {araṇi}, tinder-stick
   "premna spinosa", {araṇka}, forest.
 <àirneach>, murrain in cattle:
 <airneis>, @Ref<àirneis> (M`L. & D.), furniture; Ir. @Ir{áirneis}, cattle, goods,
@@ -860,7 +860,7 @@ Zeit.           Kuhn's {Zeitschrift f. vergl. Sprachforschung}, a German
   not account for {í} of O.Ir. @OIr{aisndís}.
 <aisteach>, a diverting fellow, Ir. @Ir{aisdeach}, witty:
 <ait>, glad, Ir., E.Ir. @EIr{ait}, O.Ir. @OIr{ait}, euge! adverbium optantis:
-<àite>, a place, Ir., E.Ir. @EIr{áit}.  Possibly Celtic {pōd-ti}, *{panti}? root
+<àite>, a place, Ir., E.Ir. @EIr{áit}.  Possibly Celtic @Celt{pōd-ti}, *@Celt{panti}? root
   {pōd}, {ped}, Lat. {oppidum}, Gr. @Gr{πέδον}, ground, Skr. {padám}, place;
   as in @Ref{eadh.2}, q.v.  Stokes has referred {áit} to the root that
   appears in Ger. {ort}, place, Norse {oddr}, O.Eng. @OEng{ord}, point,
@@ -1038,7 +1038,7 @@ Zeit.           Kuhn's {Zeitschrift f. vergl. Sprachforschung}, a German
   famous (Lec. 69).
 <amhsan> (@Ref<ansan>), Dial @Ref<osan>, solan goose; from Lat. {anser}?
 <amhuil>, like, as, Ir. @Ir{amhluidh}, O.Ir. @OIr{amail}, @OIr{amal}, O.W. @OW{amal},
-  W. @W{mal}, Br. @Br{evel}; from a Celtic {samali-}, which appears in
+  W. @W{mal}, Br. @Br{evel}; from a Celtic @Celt{samali-}, which appears in
   @Ref{samhail}, q.v.
 <amhuilt>, a trick, deceit (H.S.D., M`E. @Ref<àmhuilt>):  Cf. {aith-méla}.
 <àmhuinn>, oven, Ir. @Ir{òigheann}; borrowed from Eng. @Eng{oven}.
@@ -1050,8 +1050,8 @@ Zeit.           Kuhn's {Zeitschrift f. vergl. Sprachforschung}, a German
   place of tools or arms, from {arma}.
 <an.1>, @Ref<a'>, the, Ir. @Ir{an}, O.Ir. @OIr{in} (mas. and fem.), {a n-} (neut.); a {t-}
   appears before vowels in the nom. masc. ({an t-athair}), and it
-  is part of the article stem; a Celtic {sendo-s} (m.), {sendâ} (f.),
-  {san} (n.).  {Sendo-s} is composed of two pronominal roots,
+  is part of the article stem; a Celtic @Celt{sendo-s} (m.), @Celt{sendâ} (f.),
+  @Celt{san} (n.).  {Sendo-s} is composed of two pronominal roots,
   dividing into {sen-do-}; {sen}, judging by the neuter {san}, is a
   fixed neuter nom. or acc. from the Celtic root {se} (I.E. @IE{sjo},
   beside @Ref{so-}, allied to Ag.S. {se}, the, {seó}, now {she}.  The {-do-} of
@@ -1079,7 +1079,7 @@ Zeit.           Kuhn's {Zeitschrift f. vergl. Sprachforschung}, a German
 <an.5>, breath, see @Ref<àinich>, @Ref<anail>.
 ---gjk (1.14) inserted entry
 <an->, negative prefix, Ir. @Ir{an-}, O.Ir., @OIr{an-}, {in-}; W., Corn., Br. @Br@Corn@W{an-};
-  Celtic {an}, I.E. @IE{ṇ-}, Lat. {in-}, Gr. @Gr{ἀ-}, @Gr{ἀν-}, Eng. @Eng{un-}, Skr. {a-}, {an-},
+  Celtic @Celt{an}, I.E. @IE{ṇ-}, Lat. {in-}, Gr. @Gr{ἀ-}, @Gr{ἀν-}, Eng. @Eng{un-}, Skr. {a-}, {an-},
   etc.  It appears before labials and liquids (save {n}) as @Ref<am->,
   aspirated to @Ref<amh->; with consequent "small" vowels, it
   becomes @Ref<ain->, @Ref<aim->, @Ref<aimh->.  Before {g}, it becomes @Ref{ion-}, as in
@@ -1087,7 +1087,7 @@ Zeit.           Kuhn's {Zeitschrift f. vergl. Sprachforschung}, a German
   become medials (as in @Ref{beud}, @Ref{breug}, @Ref{feusag}).  See also @Ref{ana-.1}.
 <ana-.1>, negative prefix, O.Ir. @OIr{an-}, sometimes aspirating; G.
   @Ref<ana-creidimh>, disbelief, O.Ir. @OIr{ancretem}, but {ainfhior}, untrue;
-  M.Ir. @MIr{ainfhír}.  This suggests a Celtic {anas-} for the first, and
+  M.Ir. @MIr{ainfhír}.  This suggests a Celtic @Celt{anas-} for the first, and
   {ana-} for the second, extensions of the previous @Ref{an-}; cognate
   are Gr. @Gr{ἂνις}, @Gr{ἂνευ}, without; Ger. {ohne}, Got. {inu}, without.
 <ana-.2>, @Ref<an->, @Ref<ain->, prefix of excess; Ir. @Ir{an-}, @Ref{ain-}, M.Ir. @MIr{an-}; Ir.
@@ -1103,11 +1103,11 @@ Zeit.           Kuhn's {Zeitschrift f. vergl. Sprachforschung}, a German
 <anadas>, regret (M`D):
 <anagna>, irregularity, unusualness (Hend.), {ana-gnáth}.
 <anail>, breath, Ir. and O.Ir. @OIr{anál}, W. @W{anadl}, {anal}, Corn. @Corn{anal}, Br.
-  {alan}, Celtic {anatlâ}; @Ref{an.5}, breathe, Got. {anan}, to breathe,
+  @Br{alan}, Celtic @Celt{anatlâ}; @Ref{an.5}, breathe, Got. {anan}, to breathe,
   Skr. {anila}, wind.  See @Ref{anam} also.
 <anainn>, eaves, top of house wall:
 <anam>, soul, so Ir., O.Ir. @Ir@OIr{anim} (d. anmin), Corn. @Corn{enef}, M.Br. @MBr{eneff},
-  Br. @Br{ene}, Celtic {animon-} (Stokes); Lat. {animus}, {anima}; Gr.
+  Br. @Br{ene}, Celtic @Celt{animon-} (Stokes); Lat. {animus}, {anima}; Gr.
   @Gr{ἄνεμος}, wind.
 <anamaint>, lust, perversity (Hend.), {ana+mèin}.
 <anart>, linen, Ir., E.Ir. @EIr{anairt}, O.Ir. @OIr{annart}, *{an-arto-}; root {pan},
@@ -1166,7 +1166,7 @@ Zeit.           Kuhn's {Zeitschrift f. vergl. Sprachforschung}, a German
   in @Ref{anart}, q.v.  Cf. Lit. {pinti}, plait, twine, Ch.Sl. {pęti}, wind,
   Lat. {pannus}, etc. Strachan cfs. Alban. {ent}, {int}, weave, Gr.
   @Gr{ἄττομαι}, weave.
-<aodann>, face, Ir. @Ir{éadan}, O.Ir. @OIr{étan}, Celtic {antano-} (Stokes); Lat.
+<aodann>, face, Ir. @Ir{éadan}, O.Ir. @OIr{étan}, Celtic @Celt{antano-} (Stokes); Lat.
   {ante}; Gr. @Gr{ἀvτí}, against; Eng. @Eng{and}; Skr. {ánti}, opposite.
 <aodraman>, bladder, Ir. @Ir{éadromán}; see @Ref{aotrom}.
 <aog>, death; see @Ref{eug}.
@@ -1250,7 +1250,7 @@ Zeit.           Kuhn's {Zeitschrift f. vergl. Sprachforschung}, a German
 <ar.1>, @Ref<ar n->, our, so Ir. and O.Ir. *{(s)aron}; this form may
   have arisen from unaccented {ṇs-aron} (Jub.), like Got. {uns-ar}
   ({us} of Eng. and {ar}), Ger. {unser}, Eng. @Eng{our} (Thurneysen).
-  Stokes refers it to a Celtic {(n)ostron}, allied to Lat. {nostrum}.
+  Stokes refers it to a Celtic @Celt{(n)ostron}, allied to Lat. {nostrum}.
   See further at @Ref{bhur}.
 --page 21
 <ar.2>, seems; @Ref<ar leam>, methinks, Ir. M.Ir. @MIr{dar}, E.Ir. @EIr{indar}, {atar},
@@ -1394,7 +1394,7 @@ Zeit.           Kuhn's {Zeitschrift f. vergl. Sprachforschung}, a German
 <ath.2>, flinch; from @Ref{ath-}, back. Hence @Ref<athach.3>, modest.
 <ath->, @Ref<aith>, re-, so Ir., O.Ir. @Ir@OIr{ath-}, @Ref{aith-}, @Ref{ad-}, *{ati}, W. @W{ad-}, Br. @Br{at-},
   {az-}; Gaul. {ate}: Lat. @Ref{at}, but, {at-} ({atavus}); Lit. {at-}, {ata-}, back,
-  Slav. {otŭ}; Skr. {ati}, over.  Stokes divides Celtic {ati-} into two,
+  Slav. {otŭ}; Skr. {ati}, over.  Stokes divides Celtic @Celt{ati-} into two,
   meaning respectively "over" and "re-"; but this seems
   unnecessary.
 <àth.1>, a ford, Ir., O.Ir. @Ir@OIr{áth}, *{jâtu-}; Skr.{yâ}, to go; Lit. {jóti}, ride
@@ -1448,8 +1448,8 @@ Zeit.           Kuhn's {Zeitschrift f. vergl. Sprachforschung}, a German
   {bawn}, M.Ir. @MIr{bódhún} (Annals of Loch Cé, 1199); from @Ref{bó} and
   @Ref{dùn}, q.v.
 <bac.1>, hindrance, Ir. @Ir{bac}, M.Ir. @MIr{bacaim} (vb.).  See @Ref{bacag}.
-<bac.2>, a crook, Ir. @Ir{bac}, O.Ir. @OIr{bacc}, W. @W{bach}, Br. @Br{bac'h}, Celtic {bakko-s};
-  *{bag-ko-}, Norse {bak}, Eng. @Eng{back}.  Hence @Ref<bacach>, lame, E.Ir.
+<bac.2>, a crook, Ir. @Ir{bac}, O.Ir. @OIr{bacc}, W. @W{bach}, Br. @Br{bac'h}, Celtic @Celt{bakko-s};
+  *@Celt{bag-ko-}, Norse {bak}, Eng. @Eng{back}.  Hence @Ref<bacach>, lame, E.Ir.
   @Ref{bacach}, W. @W{bachog}, crooked.
 <bacag>, a fall, tripping; from @Ref{bac.1}, q.v.
 <bac-mòine>, tuf-pit or bank (N.H.); from Norse {bakki}, a bank,
@@ -1508,7 +1508,7 @@ Zeit.           Kuhn's {Zeitschrift f. vergl. Sprachforschung}, a German
 <bailc.1>, a ridge, beam, W. @W{balc}, from Eng. @Eng{balk}.
 <bailc.2>, seasonable rain, showers:
 <bailceach>, strong, a strong man, E.Ir. @EIr{balc}, strong, W. @W{balch},
-  (Stokes).  Likely a Celtic {bal-ko-}, root {bal}, as in @Ref{bail}.  So
+  (Stokes).  Likely a Celtic @Celt{bal-ko-}, root {bal}, as in @Ref{bail}.  So
   Ost.; Skr. {balam}, strength (@Ref{adhbhal}), Gr. @Gr{βέλτερος}; Wh. St.
   {bolijĭ}, greater; Lat. {debilis}.
 <baile>, town, township, Ir., E.Ir. @EIr{baile}, *{balio-s}, a pre-Celtic
@@ -1781,7 +1781,7 @@ Zeit.           Kuhn's {Zeitschrift f. vergl. Sprachforschung}, a German
   purification and luck; hence the proverb: "Eadar dà theine
   Bhealltuinn" - Between two Beltane fires.
 <bean.1>, wife, so Ir. @Ir{ben}, W. @W{bun}, {benyw}, Corn. @Corn{benen}, sponsa,
-  Celtic {benâ}, g. {bnâs}, pl.n. {bnâs}; Gr. @Gr{γυνή}, Bœot. Gr. @Boeot{βανά};
+  Celtic @Celt{benâ}, g. {bnâs}, pl.n. {bnâs}; Gr. @Gr{γυνή}, Bœot. Gr. @Boeot{βανά};
   Got. {ginô}, Eng. @Eng{queen}, Sc. {queyn}; Skr. {gnâ}.
 <bean.2>, touch, Ir. @Ir{beanaim}, beat, touch, appertain to, O.Ir. @OIr{benim},
   pulso, ferio, Br. @Br{bena}, to cut, M.Br. @MBr{benaff}, hit; *{bina}, root
@@ -1855,7 +1855,7 @@ Zeit.           Kuhn's {Zeitschrift f. vergl. Sprachforschung}, a German
 <beisear>, plate-rack on dresser (Rob.).
 <béist>, a beast, Ir. @Ir{bíast}, {péist}, O.Ir. @OIr{béist}, W.  {bwystfil}; from Lat.
   {bestia} (Eng. @Eng{beast}).  Also @Ref<biast>.
-<beith>, birch, so Ir., O.Ir. @Ir@OIr{bethe}, W. @W{bedw}, Br. @Br{bezuenn}, Celtic {betvâ},
+<beith>, birch, so Ir., O.Ir. @Ir@OIr{bethe}, W. @W{bedw}, Br. @Br{bezuenn}, Celtic @Celt{betvâ},
   Lat. {betula}, Fr. {boule}.
 <beithir>, a serpent, any wild beast, monster, a huge skate,
   Ir. @Ir{beithir}, wild beast, bear, E.Ir. @EIr{beithir}, G. {bethrach}.  In
@@ -1927,12 +1927,12 @@ Zeit.           Kuhn's {Zeitschrift f. vergl. Sprachforschung}, a German
 <bhur>, @Ref<bhur n->, your, Ir. @Ir{bhar n-}, O.Ir. @OIr{bar n-}, {far n-}, *{svaron}
   (Stokes), *{s-ves-ro-n}.  For {sves-}, see @Ref{sibh}.  Cf. for form Got.
   {izvara}, Lat. {nostrum} (nos{-tero-}, where {-tero-} is a fuller comparitive
-  form than Celtic {-(e)ro-}, {-ro-} of {sves-ro-n}, {svaron}).
+  form than Celtic @Celt{-(e)ro-}, @Celt{-ro-} of {sves-ro-n}, {svaron}).
 <bi.1>, @Ref<bì>, be Ir. @Ir{bí}, be thou, O.Ir. @OIr{bíu}, sum, {bí} be thou, O.W. @OW{bit},
   sit, {bwyf}, sim, M.Br. @MBr{bezaff}.  Proto-Celtic {bhv-ijô}, for O.Ir.
   {bíu}, I am; Lat. {fio}; Eng. @Eng{be}; I.E. root {bheu}, be.  See @Ref{bha}.
   Stokes differs from other authorities in referring {bíu}, {bí} to
-  Celtic {beiô}, root {bei}, {bi}, live, as in @Ref{bith.2}, @Ref{beatha}, Lat. {vivo}, etc.
+  Celtic @Celt{beiô}, root {bei}, {bi}, live, as in @Ref{bith.2}, @Ref{beatha}, Lat. {vivo}, etc.
 --page 36
 <bi.2>, @Ref<bigh>, doorpost, threshold (Hend.), E.Ir. @EIr{di bí} = two posts.
   M`A. has @Ref{bìgh}, post, pillar.
@@ -2016,7 +2016,7 @@ Zeit.           Kuhn's {Zeitschrift f. vergl. Sprachforschung}, a German
   Fr. {viole}, violin.
 <biolaire>, water-cresses, Ir. @Ir{biolar}, E.Ir. @EIr{biror}, W. @W{berwr}, Corn., Br.
   @Br@Corn{beler}, *{beruro-}, Lat. {berula} (Marcellus), Fr. {berle}, Sp. {berro}.
-  Possibly allied to the root of Celtic {bervô}, seethe, O.Ir. @OIr{tipra},
+  Possibly allied to the root of Celtic @Celt{bervô}, seethe, O.Ir. @OIr{tipra},
   well, G. {tobar}, Eng. @Eng{burn}.  Cf. Ger. {brunnen kresse}, water-cress,
   i.e. "well" cress.  The dictionaries and old glossaries
   (Cormac, etc.) give {bir}, @Ref{bior}, as water or well.
@@ -2139,7 +2139,7 @@ Zeit.           Kuhn's {Zeitschrift f. vergl. Sprachforschung}, a German
 <bliadhna>, year, Ir. @Ir{bliadhain}, O.Ir. @OIr{bliadain}, W. @W{blydd}, {blwyddyn},
   Br. @Br{bloaz}, {blizen}, *{bleidni-}, *{bleido-}; I.E. @IE{ℊhleidh}, whence
   Eng. @Eng{glide}: "labuntur anni" (Stokes).  It is doubtful if
-  I.E. @IE{ℊh} becomes Celtic {b}.
+  I.E. @IE{ℊh} becomes Celtic @Celt{b}.
 <blialum>, jargon; from the Sc. {blellum}.
 <blian.1>, the flank, groin, Ir. @Ir{bléin}, E.Ir. @EIr{blén}, O.Ir. @OIr{melen}, for {mleen},
   *{mlakno-}; Gr. @Gr{μαλακός}, soft (Strachan, Stokes).  The meaning,
@@ -2202,7 +2202,7 @@ Zeit.           Kuhn's {Zeitschrift f. vergl. Sprachforschung}, a German
 <bochuin>, swelling, the sea (Carm.), {boch-thonn} (H.S.D.):
 --page 42
 <bochd>, poor, so Ir., O.Ir. @Ir@OIr{bocht}; *{bog-to-}, a participle from the vb.
-  (Irish) {bongaim}, break, reap, Celtic {bongô}, break; Skr. {bhanj},
+  (Irish) {bongaim}, break, reap, Celtic @Celt{bongô}, break; Skr. {bhanj},
   break, Lit. {banga}, breaker (wave).  See @Ref{buain}.
 <bocsa>, a box, so Ir., pronounced in Ir. @Ir{bosca} also, W. @W{bocys}; from
   Eng. @Eng{box}.  Hence @Ref<bocsaid>, a thump, Eng. @Eng{box}.
@@ -2496,7 +2496,7 @@ Zeit.           Kuhn's {Zeitschrift f. vergl. Sprachforschung}, a German
   Skr. {granth}, tie, knot, {grathnâti}; Ger. {kranz}, garland, Eng.
   {crants} (Rhys).  The Skr. being allied to Gr. @Gr{γρόνθος}, fist,
   seems against this derivation (Stokes), not to mention the
-  difficulty of Gr. {θ} and Skr. {th} corresponding to Celtic {t}.
+  difficulty of Gr. {θ} and Skr. {th} corresponding to Celtic @Celt{t}.
   Possibly from root {bhera}, cut, Gr. @Gr{φᾶρος}, cloth (Windisch).
   Cf. W. @W{brwyd}, braid.
 <breisleach>, confusion, delirium, nightmare, Ir. @Ir{breisleach} (O'R.,
@@ -2814,7 +2814,7 @@ Zeit.           Kuhn's {Zeitschrift f. vergl. Sprachforschung}, a German
   @Ref{bruith}.  Wider are Lat. {ferveo}, {fervor}, Eng. @Eng{burn}, etc.
 <bruthaist>, brose; from early Sc., Eng. @Eng{browes}, Sc. {brose}; from the
   Fr., but allied to Eng. @Eng{broth}.
-<bu>, was, Ir. @Ir{budh}, O.Ir. @OIr{by}: Proto-Gaelic *{bu} for a Celtic {bu-t};
+<bu>, was, Ir. @Ir{budh}, O.Ir. @OIr{by}: Proto-Gaelic *{bu} for a Celtic @Celt{bu-t};
   Gr. @Gr{ἕφυ} ({υ} long), aorist tense; Lat. {fuit}; Skr. {ábhût}, was;
   I.E. @IE{é-bhû-t}.  The root is {bheu}, {bhu}; Eng. @Eng{be}, etc.  Both G.
   and Ir. @Ir{aspirate}, which shows the {t} of the 3rd sing.
@@ -3236,7 +3236,7 @@ Zeit.           Kuhn's {Zeitschrift f. vergl. Sprachforschung}, a German
 <càirich>, mend, Ir. @Ir{cóirighim}, E.Ir. @EIr{córaigim}, arrange, from {cóir}, q.v.
   Cf. {cairim}, sutor, Z. 775.
 <cairidh>, a weir, Ir. @Ir{cora}, M.Ir. @MIr{coraidh} for {cora}, g. {corad}, W.
-  {cored}, O.W. and O.Br. @OBr{coret}, from Celtic {korjô}, I set, put.
+  {cored}, O.W. and O.Br. @OBr{coret}, from Celtic @Celt{korjô}, I set, put.
   See @Ref{cuir}.
 <cairgein>, sea moss, Ir. moss, Eng {carrageen}, so named from
   Carragheen (Waterford), in Ireland.  This place name is a
@@ -3806,7 +3806,7 @@ Zeit.           Kuhn's {Zeitschrift f. vergl. Sprachforschung}, a German
   like meaning, a bye-form of Eng. @Eng{keep}.  The Ir. @Ir{ceap}, bound,
   bind, stop (?), seems from @Ref{ceap.1} above.
 †<ceapach>, a tillage plot, Ir. @Ir{ceapach}.  This Stokes refers to a
-  Celtic {keppo-}, garden, root {kep}, {kā}, Lat. {campus}, Gr. @Gr{κῆπος},
+  Celtic @Celt{keppo-}, garden, root {kep}, {kā}, Lat. {campus}, Gr. @Gr{κῆπος},
   garden, Ger. {hube}, piece of land.  Satisfactory though the
   meaning be, the derivation is doubtful as involving the preservation
   of {p}, even though flanked by a second {p} (or {-nó},
@@ -3834,7 +3834,7 @@ Zeit.           Kuhn's {Zeitschrift f. vergl. Sprachforschung}, a German
 <ceàrd>, a craftsman, Ir. @Ir{céard}, E.Ir. @EIr{cerd}, W. @W{cerdd}, art; Lat. {cerdo},
   craftsman; Gr. @Gr{κέρδος}, gain.
 <ceàrdach>, a smithy, Ir. @Ir{céardcha}, O.Ir. @OIr{cerddchae}; from {cerd}+{cae},
-  the latter word {cae} meaning a house in Ir., a Celtic {kaio-n},
+  the latter word {cae} meaning a house in Ir., a Celtic @Celt{kaio-n},
   allied to Eng. @Eng{home}.
 --page 78
 <ceard-dubhan>, scarabæbus, dung-beetle, hornet (H.S.D. for form),
@@ -3940,7 +3940,7 @@ Zeit.           Kuhn's {Zeitschrift f. vergl. Sprachforschung}, a German
 <ceòl>, music, Ir., E.Ir. @EIr{ceól}, g. {ciúil}, *{kipolo-}, a Gadelicised form of
   *{pipolo}; onomatopoetic root {pīp}, Lat. {pîpilo}, chirp, {pipilum},
   outcry, {pîpo}, chirp, Ag.S. {pípe} , Eng. @Eng{pipe} (hence W. @W{pib}, G.
-  @Ref{pìob}, etc.).  Stokes and Rhys have given a Celtic {qeqlo-} for
+  @Ref{pìob}, etc.).  Stokes and Rhys have given a Celtic @Celt{qeqlo-} for
   stem, allied to W. @W{pib}, pipe.  For phonetics, see @Ref{feòil}.  Stokes
   now suggests alliance with Ger. {heulen}, hoot, howl, O.H.G.
   {hiuwilôn}.
@@ -4139,7 +4139,7 @@ Zeit.           Kuhn's {Zeitschrift f. vergl. Sprachforschung}, a German
   (from {skens}), Ch.Sl. {ceslŭ}, Lit. {kasýti}, scratch (Stokes,
   Strachan), root {qes}, shave, scratch; cf. Gr. @Gr{ξέω}, @Gr{ξυρόν}.  Zimmer
   refers it to the root {qers}, to furrow, Skr. {karsha}, a scratch,
-  etc.; but {qers} would give a G. {cerr}.  A Celtic {cêra} would be
+  etc.; but {qers} would give a G. {cerr}.  A Celtic @Celt{cêra} would be
   the ideal form, suggesting Lat. {cêra}, wax, "honey-{comb}".
 <cìr.2>, cud, Ir., E.Ir. @EIr{cír}, Manx {keeil}, W. @W{cil}, Br. @Br{das-kiriat}, ruminer.
   Perhaps identical with @Ref{cìr.1} (Windisch).  {cir}, @Ref{ciridh},
@@ -5052,7 +5052,7 @@ Zeit.           Kuhn's {Zeitschrift f. vergl. Sprachforschung}, a German
 <craoit>, a croft; see @Ref{croit.2}.
 <craos>, a wide, open mouth, gluttony, so Ir., E.Ir. @EIr{cróes}, {cráes},
   O.Ir. @OIr{crois}, gula, gluttony.  Zimmer cfs. W. @W{croesan}, buffoon.
-  Possibly a Celtic {krapesty-}, allied to Lat. {crāpula}, or to Gr.
+  Possibly a Celtic @Celt{krapesty-}, allied to Lat. {crāpula}, or to Gr.
   @Gr{κραιπάλη}, headache from intoxication.
 <crasgach.1>, cross-ways, @Ref<crasg>, an across place; for {crosg}, from {cros}
   of @Ref{crois}, a cross, q.v.
@@ -7502,7 +7502,7 @@ Zeit.           Kuhn's {Zeitschrift f. vergl. Sprachforschung}, a German
   prothetic.
 <faich>, @Ref<faiche.1>, a green (by the house), Ir., E.Ir. @EIr{faithche}, the field
   nearest the house, E.Ir. @EIr{faidche}, *{ad-cáio-}, "by the house",
-  Celtic {kaio-n}, house; see @Ref{ceàrdach}.  Ascoli refers it to O.Ir.
+  Celtic @Celt{kaio-n}, house; see @Ref{ceàrdach}.  Ascoli refers it to O.Ir.
   @Ref{aith}, area (an imaginary word), and Jubainville allies it with
   W. @W{gwaen}, plain, Ger. {weide} (see @Ref{bhàn} for W.).
 ---gjk (1.13) originally ref to {ceardach}
@@ -7927,7 +7927,7 @@ Zeit.           Kuhn's {Zeitschrift f. vergl. Sprachforschung}, a German
   {oenfhecht}, once, W. @W{gwaith}, turn, {vicem}.  Stokes separates
   the latter (<feachd>, time, E.Ir. @EIr{fecht}, journey), giving as
   stem {vektâ}, root {vegh} (Lat. {veho}, Eng. @Eng{waggon}); for {fecht},
-  campaign, hosting, he gives the Celtic {viktâ}, root {viq}, as
+  campaign, hosting, he gives the Celtic @Celt{viktâ}, root {viq}, as
   Zimmer does.  The words seem, as Stokes has it, from two
   roots, but now they are indistinguishably mixed.  Osthoff
   regards {feachd}, time, as allied to Lat. {vices}; see @Ref{fiach.2}.
@@ -7988,7 +7988,7 @@ Zeit.           Kuhn's {Zeitschrift f. vergl. Sprachforschung}, a German
 --page 169
   for @Ref{math.1}, but evidently once for {fern}, good, *{verno-s},
   Lat. {supernus} (cf. {-no-} of {magnus} disappearing in {major}, and
-  {-ro-} of Celtic {mâros} in G. @Ref{mò}).  Stokes refers {ferr} to {vers},
+  {-ro-} of Celtic @Celt{mâros} in G. @Ref{mò}).  Stokes refers {ferr} to {vers},
   raise, *{uersos-}, height, top; Lat. {verruca}, steep place, Lit.
   {wirzùs}, top, Skr. {varshman-}, height, {várshîyas}, higher.  Cf.
   W. @W{goreu}, best (= Lat. {supremus}).
@@ -12260,7 +12260,7 @@ Zeit.           Kuhn's {Zeitschrift f. vergl. Sprachforschung}, a German
   {nebo}, sky; Skr. {nabhas}, mist.
 <ni.1>, not, Ir. @Ir{ní}, O.Ir. @OIr{ní}, {ni}, W. @W{ni}: *{nei}; O.Lat. {nei}, Lat. {ni-}, {nê};
   O.H.Ger. {ni}, Ger. {nein}; O.Slav. {ni}, neque; Zend {naê};
-  Gr. @Gr{νη-}.  Thur. says *{ne-est} = *{nést}, Celtic {níst}, {nìs}, {ni h-}
+  Gr. @Gr{νη-}.  Thur. says *{ne-est} = *{nést}, Celtic @Celt{níst}, @Celt{nìs}, @Celt{ni h-}
   non-aspirating.
 <ni.2>, a thing, Ir. @Ir{nidh}, O.Ir. @OIr{ní}, res, probably a curtailed form of
   O.Ir. @OIr{aní}, id quod, from the art.neut. and the pronominal
@@ -16606,7 +16606,7 @@ Zeit.           Kuhn's {Zeitschrift f. vergl. Sprachforschung}, a German
   {tḷ-mon}, root {tel}; Lat. {tellus}, earth (for {tēlṓs}), *{têl}, flat; Gr.
   @Gr{τηλíα}, a board; Ag.S. {thelu}, board (root {tēl}); Skr. {talas},
   level ground; Ch.Sl. {tĭlo}, pavement (root {tḷ}).  Stokes joins
-  here Celtic {talo-s}, brow, Gaul.  {Dubno-talos}, {Argio-talos}
+  here Celtic @Celt{talo-s}, brow, Gaul.  {Dubno-talos}, {Argio-talos}
   (Pictish {Talorgan}), W. @W{tâl}, brow, Corn. @Corn{tâl}, Br. @Br{tal}.
 <tàlan>, feats of arms, chivalry, Ir. @Ir{talan} (O'B., Sh., etc.); see
   @Ref{tàlann} for origin.
@@ -17862,12 +17862,12 @@ Zeit.           Kuhn's {Zeitschrift f. vergl. Sprachforschung}, a German
   Br. @Br{geo}, {ieo}, *{yougo-}, yoke; Eng. @Eng{yoke}, Ger. {joch}; Gr. @Gr{ζυγόν};
   Lat. {jugum}; Lit. {jungas}.  The Gadelic requires a form
   *{ad-jung-mi}.  Cf. O.Ir. @OIr{adim}, instrumentum, pl.n. {admi}.
-<ùig>, a nook, cove; from Norse {vík}, bay, creek, Eng. @Eng{wick}, {-wich}.
+<ùig>, a nook, cove; from Norse {vík}, bay, creek, Eng. @Eng{wick}, @Eng{-wich}.
   Hence the place name {Uig} (Skye, Lewis).  Hence @Ref<ùigean>, a
   fugitive, wanderer.
 <uigheil>, pleasant, careful; from @Ref{aoigh.2} in the first meaning and
   from @Ref{ùidh.1} in the second.
-<uile>, all, the whole, Ir. @Ir{uile}, O.Ir. @OIr{uile}, {huile}: *{polio-s}, root {pol},
+<uile>, all, the whole, Ir. @Ir{uile}, O.Ir. @OIr{uile}, @OIr{huile}: *{polio-s}, root {pol},
   {pel}, full, many, Gr. @Gr{πολλός} (= @Gr{πολιος}), much, many; see @Ref{iol-}.
   Stokes and most philologists refer it to *{oljo-s}, Eng. @Eng{all}, Ger.
   {all}, Got. {alls} (*{olnó-s}, Mayhew).  Some have derived it from
@@ -17885,7 +17885,7 @@ Zeit.           Kuhn's {Zeitschrift f. vergl. Sprachforschung}, a German
   q.v.  Hence @Ref<uime>, about him, it, Ir. @Ir{uime}, O.Ir. @OIr{uimbi};
   @Ref<uimpe>, about her (= {imb-sì} or {imb-shi}).
 <ùin>, @Ref<ùine>, time, Ir. @Ir{uain}, time, opportunity, E.Ir. @EIr{úine}, O.Ir.
-  {úain}, leisure, time: *{ut-nio-}, root {ut}, {vet} of @Ref{feith}, wait.
+  @OIr{úain}, leisure, time: *{ut-nio-}, root {ut}, {vet} of @Ref{feith}, wait.
   Strachan gives *{ucn-} as a reduced form, from {euq}, Skr. {ókas},
   comfort, @Gr{εὔκηλος}, free from care, at ease.
 <ùinich>, bustle, tumultus; see @Ref{uainneart}.
