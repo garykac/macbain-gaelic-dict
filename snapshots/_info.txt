@@ -1,0 +1,3 @@
+macbain-1.11.txt - same as orig/macbain.txt
+macbain-1.12.txt - 1.11 converted to UTF8
+macbain-1.12b.txt - same as jtm/macbain.v3.utf8.txt 
