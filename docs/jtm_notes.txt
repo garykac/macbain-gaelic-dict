@@ -1,0 +1,12 @@
+Notes:
+
+<broc>
+src: Bezzenberger suggests Russ. [barsúkŭ], Turk. [porsuk], Magyar
+tgt: Bezzenberger suggests Russ. [барсӯкў], Turk. [porsuk], Magyar
+cmt: u/ -> y@- ?
+
+<claon>
+src: incline; Eng. [lean]; Lit. [szlǵti], incline; Skr. [çrayati] (do.).
+tgt: incline; Eng. [lean]; Lit. [szlë/ti], incline; Skr. [çrayati] (do.).
+cmt: ë -> g
+
