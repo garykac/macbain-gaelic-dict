@@ -1,3 +1,5 @@
 macbain-1.11.txt - same as orig/macbain.txt
 macbain-1.12.txt - 1.11 converted to UTF8
 macbain-1.12b.txt - same as jtm/macbain.v3.utf8.txt 
+macbain-1.13.txt - 1.12 with accent sequences converted to UTF8; typo fixes
+macbain-1.14.txt - 1.13 with numeric suffix added to each sense; cross-refs marked; additional headwords from alternates in existing entries
